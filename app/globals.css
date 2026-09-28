@@ -16,3 +16,5 @@ body{font-variant-numeric:tabular-nums}button,select,input,textarea{font:inherit
 .playoff-tree{position:relative;min-width:1120px;margin-top:25px}.playoff-headings{display:grid;grid-template-columns:repeat(4,280px)}.playoff-headings h2{font-size:23px}.bracket-lines{position:absolute;left:0;top:50px;width:1120px;height:calc(100% - 50px)}.tree-match{position:absolute;width:240px;margin-top:50px;background:#121a13;transition:border-color .3s,box-shadow .3s}.tree-match.path-selected{border-color:var(--path-color);box-shadow:0 0 24px color-mix(in srgb,var(--path-color) 22%,transparent)}.bye-node{position:absolute;width:240px;display:grid;gap:8px;padding:20px;margin-top:50px;border:1px dashed #38453b}.bye-node span{font:10px 'DM Mono',monospace;color:#a5b19f}.bracket-select{display:flex;gap:15px;align-items:center}.bracket-select select{padding:10px;background:#121a13;color:white;border:1px solid #536157}
 
 .tree-match,.bye-node{margin-top:0;transform:translateY(-50%)}.tree-match:hover{transform:translateY(-50%) translateY(-3px)}.tree-match strong span{color:#ecf0e6}.bye-node{height:90px}
+
+.bracket-lines{top:100px;height:calc(100% - 100px)}
