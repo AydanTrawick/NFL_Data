@@ -42,6 +42,10 @@ def main():
    if dg.empty:continue
    first,last=dg.iloc[0],dg.iloc[-1];matches=[e for e in events if e['team']==team and e['driveId']==str(did)];delta=sum(e['points'] for e in matches if e['scoringTeam']==team)
    res='TD' if any(e['points']==6 and e['scoringTeam']==team for e in matches) else 'FG' if any(e['points']==3 and e['scoringTeam']==team for e in matches) else 'Punt' if dg.EVENT_NAME.eq('Punt').any() else 'Turnover' if dg.EVENT_NAME.isin(['Intercepted Pass','Defense Recovers Fumb']).any() else str(last.EVENT_NAME)
+   # Recovery events have the defense as their offense key and can sit outside the drive group.
+   recovery=g[(g['order']>last['order']) & (g['order']<=last['order']+3) & (g.QUARTER==last.QUARTER) & (g.PLAY_START_TIME==last.PLAY_START_TIME) & (g.EVENT_NAME=='Defense Recovers Fumb') & (g.PLAY_CNTS==True)]
+   if not recovery.empty and res not in ['TD','FG']:res='Turnover'
+   elif n(last.DOWN)==4 and last.EVENT_NAME in ['Run','Pass Completion','Incomplete Pass','Sack'] and (n(last.YD_GAINED) or 0)<(n(last.YTG) or 0) and res not in ['TD','FG','Punt','Turnover']:res='Downs'
    start=n(first.YD_FROM_GOAL);end=n(last.YD_FROM_GOAL);gain=0 if last.EVENT_NAME in ['Punt','Field Goal Attempt'] else (n(last.YD_GAINED) or 0)
    all_drives.append({'gameId':str(gid),'driveId':str(did),'driveKey':team+':'+str(did),'team':team,'startYard':start,'endYard':max(0,min(100,(end or 0)-gain)) if end is not None else None,'events':len(dg),'firstEventId':str(first.PLAY_UNIQUE_ID),'order':int(first['order']),'result':res})
  publish_json('scoring_plays.json',scored);publish_json('drives.json',all_drives)

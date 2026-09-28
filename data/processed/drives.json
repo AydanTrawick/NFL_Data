@@ -105,7 +105,7 @@
     "events": 10,
     "firstEventId": "2545282",
     "order": 118,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879178",
@@ -177,7 +177,7 @@
     "events": 7,
     "firstEventId": "2545337",
     "order": 173,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879178",
@@ -429,7 +429,7 @@
     "events": 10,
     "firstEventId": "2633647",
     "order": 4,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879223",
@@ -441,7 +441,7 @@
     "events": 10,
     "firstEventId": "2633673",
     "order": 17,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879223",
@@ -525,7 +525,7 @@
     "events": 9,
     "firstEventId": "2633836",
     "order": 103,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879223",
@@ -621,7 +621,7 @@
     "events": 6,
     "firstEventId": "2634014",
     "order": 196,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879223",
@@ -813,7 +813,7 @@
     "events": 9,
     "firstEventId": "2640176",
     "order": 162,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879224",
@@ -837,7 +837,7 @@
     "events": 12,
     "firstEventId": "2616005",
     "order": 3,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879225",
@@ -1017,7 +1017,7 @@
     "events": 4,
     "firstEventId": "2616248",
     "order": 134,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879225",
@@ -1077,7 +1077,7 @@
     "events": 8,
     "firstEventId": "2616352",
     "order": 189,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879225",
@@ -1305,7 +1305,7 @@
     "events": 9,
     "firstEventId": "2563757",
     "order": 166,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879236",
@@ -1377,7 +1377,7 @@
     "events": 6,
     "firstEventId": "2569985",
     "order": 11,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879237",
@@ -1557,7 +1557,7 @@
     "events": 1,
     "firstEventId": "2570274",
     "order": 165,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879237",
@@ -1653,7 +1653,7 @@
     "events": 3,
     "firstEventId": "2575601",
     "order": 3,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879238",
@@ -1917,7 +1917,7 @@
     "events": 6,
     "firstEventId": "2575956",
     "order": 193,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879238",
@@ -2037,7 +2037,7 @@
     "events": 10,
     "firstEventId": "2581556",
     "order": 83,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879239",
@@ -2073,7 +2073,7 @@
     "events": 12,
     "firstEventId": "2581611",
     "order": 113,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879239",
@@ -2097,7 +2097,7 @@
     "events": 7,
     "firstEventId": "2581658",
     "order": 136,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879239",
@@ -2193,7 +2193,7 @@
     "events": 13,
     "firstEventId": "2581805",
     "order": 212,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879239",
@@ -2217,7 +2217,7 @@
     "events": 8,
     "firstEventId": "2597869",
     "order": 3,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879240",
@@ -2229,7 +2229,7 @@
     "events": 4,
     "firstEventId": "2597887",
     "order": 13,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879240",
@@ -2373,7 +2373,7 @@
     "events": 4,
     "firstEventId": "2598069",
     "order": 110,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879240",
@@ -2397,7 +2397,7 @@
     "events": 15,
     "firstEventId": "2598090",
     "order": 123,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879240",
@@ -2601,7 +2601,7 @@
     "events": 9,
     "firstEventId": "2603351",
     "order": 102,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879241",
@@ -2637,7 +2637,7 @@
     "events": 11,
     "firstEventId": "2603417",
     "order": 136,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879241",
@@ -2649,7 +2649,7 @@
     "events": 5,
     "firstEventId": "2603442",
     "order": 148,
-    "result": "Punt"
+    "result": "Turnover"
   },
   {
     "gameId": "2879241",
@@ -2661,7 +2661,7 @@
     "events": 8,
     "firstEventId": "2603458",
     "order": 157,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879241",
@@ -2733,7 +2733,7 @@
     "events": 17,
     "firstEventId": "2602420",
     "order": 14,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879242",
@@ -2817,7 +2817,7 @@
     "events": 8,
     "firstEventId": "2602551",
     "order": 84,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879242",
@@ -2829,7 +2829,7 @@
     "events": 4,
     "firstEventId": "2602573",
     "order": 96,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879242",
@@ -2853,7 +2853,7 @@
     "events": 8,
     "firstEventId": "2602613",
     "order": 117,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879242",
@@ -2925,7 +2925,7 @@
     "events": 7,
     "firstEventId": "2602739",
     "order": 182,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879242",
@@ -2937,7 +2937,7 @@
     "events": 4,
     "firstEventId": "2602759",
     "order": 193,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879242",
@@ -3441,7 +3441,7 @@
     "events": 4,
     "firstEventId": "2639552",
     "order": 29,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879292",
@@ -3465,7 +3465,7 @@
     "events": 4,
     "firstEventId": "2639576",
     "order": 43,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879292",
@@ -3597,7 +3597,7 @@
     "events": 4,
     "firstEventId": "2639745",
     "order": 132,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879292",
@@ -3669,7 +3669,7 @@
     "events": 4,
     "firstEventId": "2639825",
     "order": 176,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879292",
@@ -4077,7 +4077,7 @@
     "events": 3,
     "firstEventId": "2608938",
     "order": 139,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879297",
@@ -4101,7 +4101,7 @@
     "events": 9,
     "firstEventId": "2608965",
     "order": 154,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879297",
@@ -4305,7 +4305,7 @@
     "events": 4,
     "firstEventId": "2609603",
     "order": 114,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879298",
@@ -4353,7 +4353,7 @@
     "events": 5,
     "firstEventId": "2609685",
     "order": 157,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879298",
@@ -4377,7 +4377,7 @@
     "events": 6,
     "firstEventId": "2609716",
     "order": 174,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879298",
@@ -4461,7 +4461,7 @@
     "events": 9,
     "firstEventId": "2569591",
     "order": 48,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879299",
@@ -4605,7 +4605,7 @@
     "events": 6,
     "firstEventId": "2569866",
     "order": 190,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879299",
@@ -4653,7 +4653,7 @@
     "events": 6,
     "firstEventId": "2569950",
     "order": 235,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879300",
@@ -4713,7 +4713,7 @@
     "events": 3,
     "firstEventId": "2610643",
     "order": 42,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879300",
@@ -4725,7 +4725,7 @@
     "events": 5,
     "firstEventId": "2610659",
     "order": 52,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879300",
@@ -4737,7 +4737,7 @@
     "events": 5,
     "firstEventId": "2610673",
     "order": 59,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879300",
@@ -4833,7 +4833,7 @@
     "events": 4,
     "firstEventId": "2610839",
     "order": 147,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879300",
@@ -4905,7 +4905,7 @@
     "events": 7,
     "firstEventId": "2610969",
     "order": 215,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879300",
@@ -5433,7 +5433,7 @@
     "events": 4,
     "firstEventId": "2547750",
     "order": 197,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879302",
@@ -5589,7 +5589,7 @@
     "events": 14,
     "firstEventId": "2609965",
     "order": 111,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879303",
@@ -5673,7 +5673,7 @@
     "events": 14,
     "firstEventId": "2610140",
     "order": 199,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879303",
@@ -6165,7 +6165,7 @@
     "events": 17,
     "firstEventId": "2612226",
     "order": 176,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879305",
@@ -6213,7 +6213,7 @@
     "events": 12,
     "firstEventId": "2612328",
     "order": 228,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879306",
@@ -6237,7 +6237,7 @@
     "events": 6,
     "firstEventId": "2570777",
     "order": 16,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879306",
@@ -6633,7 +6633,7 @@
     "events": 2,
     "firstEventId": "2627074",
     "order": 158,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879307",
@@ -6765,7 +6765,7 @@
     "events": 10,
     "firstEventId": "2609150",
     "order": 46,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879308",
@@ -6813,7 +6813,7 @@
     "events": 7,
     "firstEventId": "2609239",
     "order": 92,
-    "result": "Punt"
+    "result": "Turnover"
   },
   {
     "gameId": "2879308",
@@ -7101,7 +7101,7 @@
     "events": 4,
     "firstEventId": "2571422",
     "order": 147,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879309",
@@ -7233,7 +7233,7 @@
     "events": 5,
     "firstEventId": "2547442",
     "order": 61,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879310",
@@ -7545,7 +7545,7 @@
     "events": 4,
     "firstEventId": "2629203",
     "order": 104,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879311",
@@ -7677,7 +7677,7 @@
     "events": 16,
     "firstEventId": "2629342",
     "order": 179,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879311",
@@ -7857,7 +7857,7 @@
     "events": 5,
     "firstEventId": "2611721",
     "order": 147,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879312",
@@ -8073,7 +8073,7 @@
     "events": 3,
     "firstEventId": "2571726",
     "order": 103,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879314",
@@ -8097,7 +8097,7 @@
     "events": 7,
     "firstEventId": "2571760",
     "order": 122,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879314",
@@ -8121,7 +8121,7 @@
     "events": 12,
     "firstEventId": "2571805",
     "order": 146,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879314",
@@ -8181,7 +8181,7 @@
     "events": 10,
     "firstEventId": "2571921",
     "order": 207,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879314",
@@ -8241,7 +8241,7 @@
     "events": 2,
     "firstEventId": "2545597",
     "order": 40,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879315",
@@ -8313,7 +8313,7 @@
     "events": 7,
     "firstEventId": "2545667",
     "order": 110,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879315",
@@ -8445,7 +8445,7 @@
     "events": 7,
     "firstEventId": "2610309",
     "order": 72,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879316",
@@ -8529,7 +8529,7 @@
     "events": 6,
     "firstEventId": "2610465",
     "order": 152,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879316",
@@ -8541,7 +8541,7 @@
     "events": 12,
     "firstEventId": "2610480",
     "order": 160,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879316",
@@ -8709,7 +8709,7 @@
     "events": 6,
     "firstEventId": "2628088",
     "order": 103,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879317",
@@ -8769,7 +8769,7 @@
     "events": 11,
     "firstEventId": "2628202",
     "order": 162,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879317",
@@ -8865,7 +8865,7 @@
     "events": 12,
     "firstEventId": "2572078",
     "order": 70,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879318",
@@ -8961,7 +8961,7 @@
     "events": 6,
     "firstEventId": "2572214",
     "order": 142,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879318",
@@ -9009,7 +9009,7 @@
     "events": 5,
     "firstEventId": "2572266",
     "order": 170,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879318",
@@ -9297,7 +9297,7 @@
     "events": 14,
     "firstEventId": "2546145",
     "order": 208,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879320",
@@ -9621,7 +9621,7 @@
     "events": 3,
     "firstEventId": "2612857",
     "order": 35,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879321",
@@ -9825,7 +9825,7 @@
     "events": 5,
     "firstEventId": "2613148",
     "order": 190,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879321",
@@ -9837,7 +9837,7 @@
     "events": 4,
     "firstEventId": "2613162",
     "order": 197,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879321",
@@ -9885,7 +9885,7 @@
     "events": 8,
     "firstEventId": "2613222",
     "order": 229,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879322",
@@ -9993,7 +9993,7 @@
     "events": 8,
     "firstEventId": "2628402",
     "order": 88,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879322",
@@ -10113,7 +10113,7 @@
     "events": 7,
     "firstEventId": "2628610",
     "order": 196,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879322",
@@ -10197,7 +10197,7 @@
     "events": 1,
     "firstEventId": "2573702",
     "order": 58,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879323",
@@ -10269,7 +10269,7 @@
     "events": 5,
     "firstEventId": "2573800",
     "order": 111,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879323",
@@ -10317,7 +10317,7 @@
     "events": 14,
     "firstEventId": "2573837",
     "order": 131,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879323",
@@ -10365,7 +10365,7 @@
     "events": 7,
     "firstEventId": "2573902",
     "order": 165,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879323",
@@ -10809,7 +10809,7 @@
     "events": 1,
     "firstEventId": "2612509",
     "order": 82,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879325",
@@ -10869,7 +10869,7 @@
     "events": 7,
     "firstEventId": "2612565",
     "order": 114,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879325",
@@ -10917,7 +10917,7 @@
     "events": 8,
     "firstEventId": "2612627",
     "order": 146,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879325",
@@ -10989,7 +10989,7 @@
     "events": 6,
     "firstEventId": "2612747",
     "order": 209,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879325",
@@ -11037,7 +11037,7 @@
     "events": 4,
     "firstEventId": "2629821",
     "order": 15,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879326",
@@ -11193,7 +11193,7 @@
     "events": 4,
     "firstEventId": "2629946",
     "order": 140,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879326",
@@ -11253,7 +11253,7 @@
     "events": 2,
     "firstEventId": "2629983",
     "order": 177,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879326",
@@ -11373,7 +11373,7 @@
     "events": 5,
     "firstEventId": "2572931",
     "order": 57,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879327",
@@ -11613,7 +11613,7 @@
     "events": 6,
     "firstEventId": "2548935",
     "order": 82,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879328",
@@ -11649,7 +11649,7 @@
     "events": 9,
     "firstEventId": "2548962",
     "order": 109,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879328",
@@ -11697,7 +11697,7 @@
     "events": 5,
     "firstEventId": "2548998",
     "order": 145,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879328",
@@ -11769,7 +11769,7 @@
     "events": 6,
     "firstEventId": "2613642",
     "order": 3,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879329",
@@ -11817,7 +11817,7 @@
     "events": 6,
     "firstEventId": "2613731",
     "order": 50,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879329",
@@ -11985,7 +11985,7 @@
     "events": 7,
     "firstEventId": "2613982",
     "order": 185,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879329",
@@ -11997,7 +11997,7 @@
     "events": 7,
     "firstEventId": "2614000",
     "order": 195,
-    "result": "Punt"
+    "result": "Turnover"
   },
   {
     "gameId": "2879329",
@@ -12009,7 +12009,7 @@
     "events": 4,
     "firstEventId": "2614019",
     "order": 206,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879329",
@@ -12069,7 +12069,7 @@
     "events": 6,
     "firstEventId": "2574073",
     "order": 25,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879331",
@@ -12345,7 +12345,7 @@
     "events": 2,
     "firstEventId": "2613250",
     "order": 8,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879332",
@@ -12477,7 +12477,7 @@
     "events": 16,
     "firstEventId": "2613446",
     "order": 113,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879332",
@@ -12549,7 +12549,7 @@
     "events": 6,
     "firstEventId": "2613577",
     "order": 182,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879332",
@@ -12729,7 +12729,7 @@
     "events": 7,
     "firstEventId": "2546817",
     "order": 138,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879333",
@@ -13113,7 +13113,7 @@
     "events": 10,
     "firstEventId": "2573289",
     "order": 49,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879335",
@@ -13209,7 +13209,7 @@
     "events": 8,
     "firstEventId": "2573462",
     "order": 139,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879335",
@@ -13221,7 +13221,7 @@
     "events": 4,
     "firstEventId": "2573478",
     "order": 147,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879335",
@@ -13353,7 +13353,7 @@
     "events": 4,
     "firstEventId": "2614229",
     "order": 78,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879336",
@@ -13389,7 +13389,7 @@
     "events": 6,
     "firstEventId": "2614285",
     "order": 109,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879336",
@@ -13401,7 +13401,7 @@
     "events": 11,
     "firstEventId": "2614302",
     "order": 117,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879336",
@@ -13449,7 +13449,7 @@
     "events": 11,
     "firstEventId": "2614373",
     "order": 154,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879336",
@@ -13725,7 +13725,7 @@
     "events": 4,
     "firstEventId": "2627864",
     "order": 187,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879337",
@@ -13797,7 +13797,7 @@
     "events": 5,
     "firstEventId": "2548701",
     "order": 49,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879338",
@@ -13833,7 +13833,7 @@
     "events": 5,
     "firstEventId": "2548721",
     "order": 69,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879338",
@@ -13977,7 +13977,7 @@
     "events": 6,
     "firstEventId": "2548823",
     "order": 169,
-    "result": "Punt"
+    "result": "Turnover"
   },
   {
     "gameId": "2879338",
@@ -14025,7 +14025,7 @@
     "events": 5,
     "firstEventId": "2548852",
     "order": 198,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879338",
@@ -14049,7 +14049,7 @@
     "events": 10,
     "firstEventId": "2548862",
     "order": 208,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879338",
@@ -14061,7 +14061,7 @@
     "events": 4,
     "firstEventId": "2548879",
     "order": 225,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879338",
@@ -14097,7 +14097,7 @@
     "events": 7,
     "firstEventId": "2574434",
     "order": 9,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879339",
@@ -14109,7 +14109,7 @@
     "events": 1,
     "firstEventId": "2574452",
     "order": 19,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879339",
@@ -14145,7 +14145,7 @@
     "events": 2,
     "firstEventId": "2574492",
     "order": 41,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879339",
@@ -14769,7 +14769,7 @@
     "events": 8,
     "firstEventId": "2629706",
     "order": 173,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879341",
@@ -14781,7 +14781,7 @@
     "events": 9,
     "firstEventId": "2629728",
     "order": 183,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879341",
@@ -14805,7 +14805,7 @@
     "events": 5,
     "firstEventId": "2629767",
     "order": 205,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879341",
@@ -14817,7 +14817,7 @@
     "events": 6,
     "firstEventId": "2629786",
     "order": 218,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879341",
@@ -14889,7 +14889,7 @@
     "events": 9,
     "firstEventId": "2574904",
     "order": 40,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879342",
@@ -15225,7 +15225,7 @@
     "events": 5,
     "firstEventId": "2548559",
     "order": 136,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879343",
@@ -15297,7 +15297,7 @@
     "events": 6,
     "firstEventId": "2548621",
     "order": 200,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879343",
@@ -15333,7 +15333,7 @@
     "events": 13,
     "firstEventId": "2627258",
     "order": 21,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879344",
@@ -15489,7 +15489,7 @@
     "events": 17,
     "firstEventId": "2627474",
     "order": 135,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879344",
@@ -15513,7 +15513,7 @@
     "events": 6,
     "firstEventId": "2631203",
     "order": 3,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879345",
@@ -15717,7 +15717,7 @@
     "events": 4,
     "firstEventId": "2631568",
     "order": 190,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879345",
@@ -15729,7 +15729,7 @@
     "events": 7,
     "firstEventId": "2631580",
     "order": 196,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879345",
@@ -15741,7 +15741,7 @@
     "events": 4,
     "firstEventId": "2631594",
     "order": 203,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879345",
@@ -15753,7 +15753,7 @@
     "events": 5,
     "firstEventId": "2631607",
     "order": 209,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879345",
@@ -15945,7 +15945,7 @@
     "events": 4,
     "firstEventId": "2548177",
     "order": 146,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879346",
@@ -16209,7 +16209,7 @@
     "events": 7,
     "firstEventId": "2575549",
     "order": 172,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879347",
@@ -16341,7 +16341,7 @@
     "events": 7,
     "firstEventId": "2614979",
     "order": 106,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879348",
@@ -16389,7 +16389,7 @@
     "events": 11,
     "firstEventId": "2615049",
     "order": 143,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879348",
@@ -16881,7 +16881,7 @@
     "events": 10,
     "firstEventId": "2548376",
     "order": 161,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879350",
@@ -16893,7 +16893,7 @@
     "events": 10,
     "firstEventId": "2548388",
     "order": 173,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879350",
@@ -16953,7 +16953,7 @@
     "events": 1,
     "firstEventId": "2576050",
     "order": 38,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879351",
@@ -16965,7 +16965,7 @@
     "events": 5,
     "firstEventId": "2576054",
     "order": 41,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879351",
@@ -17013,7 +17013,7 @@
     "events": 8,
     "firstEventId": "2576143",
     "order": 87,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879351",
@@ -17049,7 +17049,7 @@
     "events": 2,
     "firstEventId": "2576198",
     "order": 116,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879351",
@@ -17073,7 +17073,7 @@
     "events": 14,
     "firstEventId": "2576216",
     "order": 126,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879351",
@@ -17085,7 +17085,7 @@
     "events": 11,
     "firstEventId": "2576246",
     "order": 142,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879351",
@@ -17097,7 +17097,7 @@
     "events": 18,
     "firstEventId": "2576273",
     "order": 156,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879351",
@@ -17121,7 +17121,7 @@
     "events": 8,
     "firstEventId": "2576340",
     "order": 192,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879351",
@@ -17181,7 +17181,7 @@
     "events": 3,
     "firstEventId": "2615634",
     "order": 33,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879352",
@@ -17193,7 +17193,7 @@
     "events": 4,
     "firstEventId": "2615642",
     "order": 38,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879352",
@@ -17229,7 +17229,7 @@
     "events": 8,
     "firstEventId": "2615689",
     "order": 63,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879352",
@@ -17277,7 +17277,7 @@
     "events": 1,
     "firstEventId": "2615779",
     "order": 111,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879352",
@@ -17385,7 +17385,7 @@
     "events": 8,
     "firstEventId": "2615922",
     "order": 187,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879352",
@@ -17397,7 +17397,7 @@
     "events": 7,
     "firstEventId": "2615940",
     "order": 196,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879352",
@@ -17409,7 +17409,7 @@
     "events": 5,
     "firstEventId": "2615960",
     "order": 207,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879352",
@@ -17553,7 +17553,7 @@
     "events": 12,
     "firstEventId": "2631050",
     "order": 131,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879353",
@@ -17565,7 +17565,7 @@
     "events": 11,
     "firstEventId": "2631080",
     "order": 146,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879353",
@@ -17625,7 +17625,7 @@
     "events": 1,
     "firstEventId": "2631195",
     "order": 206,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879354",
@@ -18285,7 +18285,7 @@
     "events": 11,
     "firstEventId": "2617048",
     "order": 158,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879356",
@@ -18525,7 +18525,7 @@
     "events": 10,
     "firstEventId": "2578259",
     "order": 187,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879357",
@@ -18681,7 +18681,7 @@
     "events": 3,
     "firstEventId": "2631902",
     "order": 145,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879358",
@@ -18981,7 +18981,7 @@
     "events": 2,
     "firstEventId": "2549255",
     "order": 198,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879359",
@@ -19065,7 +19065,7 @@
     "events": 10,
     "firstEventId": "2618310",
     "order": 26,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879360",
@@ -19161,7 +19161,7 @@
     "events": 4,
     "firstEventId": "2618492",
     "order": 115,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879360",
@@ -19197,7 +19197,7 @@
     "events": 4,
     "firstEventId": "2618538",
     "order": 139,
-    "result": "Punt"
+    "result": "Turnover"
   },
   {
     "gameId": "2879360",
@@ -19221,7 +19221,7 @@
     "events": 8,
     "firstEventId": "2618571",
     "order": 157,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879360",
@@ -19245,7 +19245,7 @@
     "events": 10,
     "firstEventId": "2618618",
     "order": 181,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879360",
@@ -19749,7 +19749,7 @@
     "events": 9,
     "firstEventId": "2632339",
     "order": 166,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879362",
@@ -19869,7 +19869,7 @@
     "events": 7,
     "firstEventId": "2617203",
     "order": 59,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879363",
@@ -19929,7 +19929,7 @@
     "events": 7,
     "firstEventId": "2617277",
     "order": 99,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879363",
@@ -19989,7 +19989,7 @@
     "events": 7,
     "firstEventId": "2617427",
     "order": 178,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879363",
@@ -20001,7 +20001,7 @@
     "events": 8,
     "firstEventId": "2617441",
     "order": 185,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879363",
@@ -20061,7 +20061,7 @@
     "events": 4,
     "firstEventId": "2576412",
     "order": 29,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879364",
@@ -20589,7 +20589,7 @@
     "events": 4,
     "firstEventId": "2617982",
     "order": 51,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879366",
@@ -20745,7 +20745,7 @@
     "events": 6,
     "firstEventId": "2618215",
     "order": 178,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879366",
@@ -20769,7 +20769,7 @@
     "events": 5,
     "firstEventId": "2618301",
     "order": 201,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879366",
@@ -20961,7 +20961,7 @@
     "events": 7,
     "firstEventId": "2578674",
     "order": 197,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879367",
@@ -20985,7 +20985,7 @@
     "events": 10,
     "firstEventId": "2578702",
     "order": 211,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879367",
@@ -21045,7 +21045,7 @@
     "events": 10,
     "firstEventId": "2618709",
     "order": 32,
-    "result": "Punt"
+    "result": "Turnover"
   },
   {
     "gameId": "2879368",
@@ -21513,7 +21513,7 @@
     "events": 4,
     "firstEventId": "2579481",
     "order": 198,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879369",
@@ -21633,7 +21633,7 @@
     "events": 2,
     "firstEventId": "2616576",
     "order": 97,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879370",
@@ -21705,7 +21705,7 @@
     "events": 7,
     "firstEventId": "2616668",
     "order": 146,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879370",
@@ -21753,7 +21753,7 @@
     "events": 4,
     "firstEventId": "2616738",
     "order": 182,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879370",
@@ -21801,7 +21801,7 @@
     "events": 2,
     "firstEventId": "2592031",
     "order": 16,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879371",
@@ -21897,7 +21897,7 @@
     "events": 11,
     "firstEventId": "2592144",
     "order": 76,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879371",
@@ -21993,7 +21993,7 @@
     "events": 14,
     "firstEventId": "2592289",
     "order": 151,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879371",
@@ -22041,7 +22041,7 @@
     "events": 10,
     "firstEventId": "2632772",
     "order": 3,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879372",
@@ -22125,7 +22125,7 @@
     "events": 10,
     "firstEventId": "2632912",
     "order": 75,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879372",
@@ -22485,7 +22485,7 @@
     "events": 8,
     "firstEventId": "2619163",
     "order": 91,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879373",
@@ -22557,7 +22557,7 @@
     "events": 4,
     "firstEventId": "2619241",
     "order": 170,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879373",
@@ -22581,7 +22581,7 @@
     "events": 11,
     "firstEventId": "2619257",
     "order": 186,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879373",
@@ -22605,7 +22605,7 @@
     "events": 8,
     "firstEventId": "2619276",
     "order": 205,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879373",
@@ -22701,7 +22701,7 @@
     "events": 3,
     "firstEventId": "2578848",
     "order": 63,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879374",
@@ -22857,7 +22857,7 @@
     "events": 7,
     "firstEventId": "2579089",
     "order": 192,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879374",
@@ -22881,7 +22881,7 @@
     "events": 12,
     "firstEventId": "2549536",
     "order": 3,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879375",
@@ -23085,7 +23085,7 @@
     "events": 4,
     "firstEventId": "2549860",
     "order": 168,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879375",
@@ -23133,7 +23133,7 @@
     "events": 6,
     "firstEventId": "2549930",
     "order": 204,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879375",
@@ -23313,7 +23313,7 @@
     "events": 4,
     "firstEventId": "2594974",
     "order": 161,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879376",
@@ -23517,7 +23517,7 @@
     "events": 1,
     "firstEventId": "2619414",
     "order": 68,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879377",
@@ -23589,7 +23589,7 @@
     "events": 5,
     "firstEventId": "2619497",
     "order": 115,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879377",
@@ -23673,7 +23673,7 @@
     "events": 5,
     "firstEventId": "2619621",
     "order": 181,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879377",
@@ -24105,7 +24105,7 @@
     "events": 3,
     "firstEventId": "2593688",
     "order": 128,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879379",
@@ -24261,7 +24261,7 @@
     "events": 4,
     "firstEventId": "2619765",
     "order": 61,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879380",
@@ -24369,7 +24369,7 @@
     "events": 4,
     "firstEventId": "2619883",
     "order": 124,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879380",
@@ -24417,7 +24417,7 @@
     "events": 4,
     "firstEventId": "2619985",
     "order": 176,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879380",
@@ -24669,7 +24669,7 @@
     "events": 12,
     "firstEventId": "2551466",
     "order": 171,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879381",
@@ -24681,7 +24681,7 @@
     "events": 7,
     "firstEventId": "2551499",
     "order": 189,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879381",
@@ -24753,7 +24753,7 @@
     "events": 9,
     "firstEventId": "2638322",
     "order": 23,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879382",
@@ -24813,7 +24813,7 @@
     "events": 6,
     "firstEventId": "2638446",
     "order": 85,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879382",
@@ -24885,7 +24885,7 @@
     "events": 8,
     "firstEventId": "2638542",
     "order": 134,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879382",
@@ -24945,7 +24945,7 @@
     "events": 2,
     "firstEventId": "2638651",
     "order": 192,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879382",
@@ -25029,7 +25029,7 @@
     "events": 7,
     "firstEventId": "2577655",
     "order": 64,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879383",
@@ -25137,7 +25137,7 @@
     "events": 3,
     "firstEventId": "2577840",
     "order": 163,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879383",
@@ -25257,7 +25257,7 @@
     "events": 6,
     "firstEventId": "2620090",
     "order": 52,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879384",
@@ -25305,7 +25305,7 @@
     "events": 1,
     "firstEventId": "2620182",
     "order": 101,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879384",
@@ -25365,7 +25365,7 @@
     "events": 10,
     "firstEventId": "2620278",
     "order": 151,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879384",
@@ -25413,7 +25413,7 @@
     "events": 9,
     "firstEventId": "2592763",
     "order": 11,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879385",
@@ -25521,7 +25521,7 @@
     "events": 13,
     "firstEventId": "2592994",
     "order": 130,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879385",
@@ -25605,7 +25605,7 @@
     "events": 10,
     "firstEventId": "2579951",
     "order": 46,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879386",
@@ -25617,7 +25617,7 @@
     "events": 8,
     "firstEventId": "2579976",
     "order": 59,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879386",
@@ -25749,7 +25749,7 @@
     "events": 4,
     "firstEventId": "2580186",
     "order": 171,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879386",
@@ -26361,7 +26361,7 @@
     "events": 4,
     "firstEventId": "2594427",
     "order": 100,
-    "result": "Punt"
+    "result": "Turnover"
   },
   {
     "gameId": "2879389",
@@ -26721,7 +26721,7 @@
     "events": 7,
     "firstEventId": "2635412",
     "order": 142,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879390",
@@ -26757,7 +26757,7 @@
     "events": 4,
     "firstEventId": "2635455",
     "order": 165,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879390",
@@ -26769,7 +26769,7 @@
     "events": 6,
     "firstEventId": "2635463",
     "order": 169,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879390",
@@ -26877,7 +26877,7 @@
     "events": 9,
     "firstEventId": "2620931",
     "order": 60,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879391",
@@ -26937,7 +26937,7 @@
     "events": 7,
     "firstEventId": "2621020",
     "order": 107,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879391",
@@ -27009,7 +27009,7 @@
     "events": 6,
     "firstEventId": "2621157",
     "order": 177,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879391",
@@ -27129,7 +27129,7 @@
     "events": 11,
     "firstEventId": "2580350",
     "order": 80,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879392",
@@ -27213,7 +27213,7 @@
     "events": 10,
     "firstEventId": "2580462",
     "order": 139,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879392",
@@ -27405,7 +27405,7 @@
     "events": 8,
     "firstEventId": "2593994",
     "order": 74,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879393",
@@ -27417,7 +27417,7 @@
     "events": 5,
     "firstEventId": "2594017",
     "order": 85,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879393",
@@ -27681,7 +27681,7 @@
     "events": 10,
     "firstEventId": "2634267",
     "order": 118,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879394",
@@ -27705,7 +27705,7 @@
     "events": 7,
     "firstEventId": "2634331",
     "order": 151,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879394",
@@ -27729,7 +27729,7 @@
     "events": 4,
     "firstEventId": "2634367",
     "order": 169,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879394",
@@ -27741,7 +27741,7 @@
     "events": 6,
     "firstEventId": "2634381",
     "order": 177,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879394",
@@ -27801,7 +27801,7 @@
     "events": 2,
     "firstEventId": "2580668",
     "order": 38,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879395",
@@ -27837,7 +27837,7 @@
     "events": 10,
     "firstEventId": "2580719",
     "order": 67,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879395",
@@ -27981,7 +27981,7 @@
     "events": 6,
     "firstEventId": "2580945",
     "order": 187,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879395",
@@ -28005,7 +28005,7 @@
     "events": 2,
     "firstEventId": "2635885",
     "order": 3,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879396",
@@ -28077,7 +28077,7 @@
     "events": 6,
     "firstEventId": "2635993",
     "order": 61,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879396",
@@ -28185,7 +28185,7 @@
     "events": 6,
     "firstEventId": "2636171",
     "order": 153,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879396",
@@ -28233,7 +28233,7 @@
     "events": 8,
     "firstEventId": "2636248",
     "order": 194,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879396",
@@ -28377,7 +28377,7 @@
     "events": 1,
     "firstEventId": "2592530",
     "order": 87,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879397",
@@ -28773,7 +28773,7 @@
     "events": 10,
     "firstEventId": "2635532",
     "order": 15,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879399",
@@ -28857,7 +28857,7 @@
     "events": 2,
     "firstEventId": "2635687",
     "order": 94,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879399",
@@ -28929,7 +28929,7 @@
     "events": 7,
     "firstEventId": "2635848",
     "order": 175,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879399",
@@ -28965,7 +28965,7 @@
     "events": 5,
     "firstEventId": "2634777",
     "order": 10,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879400",
@@ -29109,7 +29109,7 @@
     "events": 4,
     "firstEventId": "2634999",
     "order": 129,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879400",
@@ -29217,7 +29217,7 @@
     "events": 4,
     "firstEventId": "2595188",
     "order": 24,
-    "result": "Punt"
+    "result": "Turnover"
   },
   {
     "gameId": "2879401",
@@ -29229,7 +29229,7 @@
     "events": 4,
     "firstEventId": "2595199",
     "order": 31,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879401",
@@ -29241,7 +29241,7 @@
     "events": 17,
     "firstEventId": "2595207",
     "order": 35,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879401",
@@ -29385,7 +29385,7 @@
     "events": 2,
     "firstEventId": "2595455",
     "order": 168,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879401",
@@ -29421,7 +29421,7 @@
     "events": 2,
     "firstEventId": "2595510",
     "order": 198,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879401",
@@ -29493,7 +29493,7 @@
     "events": 2,
     "firstEventId": "2582548",
     "order": 9,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879402",
@@ -29613,7 +29613,7 @@
     "events": 5,
     "firstEventId": "2582702",
     "order": 93,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879402",
@@ -29913,7 +29913,7 @@
     "events": 6,
     "firstEventId": "2637381",
     "order": 162,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879403",
@@ -29937,7 +29937,7 @@
     "events": 6,
     "firstEventId": "2637422",
     "order": 184,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879403",
@@ -30057,7 +30057,7 @@
     "events": 4,
     "firstEventId": "2621312",
     "order": 73,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879404",
@@ -30429,7 +30429,7 @@
     "events": 5,
     "firstEventId": "2636928",
     "order": 145,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879405",
@@ -30501,7 +30501,7 @@
     "events": 8,
     "firstEventId": "2637015",
     "order": 192,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879405",
@@ -30681,7 +30681,7 @@
     "events": 12,
     "firstEventId": "2583553",
     "order": 134,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879406",
@@ -30777,7 +30777,7 @@
     "events": 10,
     "firstEventId": "2583666",
     "order": 195,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879406",
@@ -30861,7 +30861,7 @@
     "events": 7,
     "firstEventId": "2549352",
     "order": 49,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879407",
@@ -31089,7 +31089,7 @@
     "events": 2,
     "firstEventId": "2549518",
     "order": 215,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879408",
@@ -31269,7 +31269,7 @@
     "events": 11,
     "firstEventId": "2593328",
     "order": 123,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879408",
@@ -31461,7 +31461,7 @@
     "events": 6,
     "firstEventId": "2622148",
     "order": 105,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879409",
@@ -31557,7 +31557,7 @@
     "events": 12,
     "firstEventId": "2622272",
     "order": 172,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879409",
@@ -31617,7 +31617,7 @@
     "events": 13,
     "firstEventId": "2637873",
     "order": 20,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879410",
@@ -31725,7 +31725,7 @@
     "events": 10,
     "firstEventId": "2638037",
     "order": 107,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879410",
@@ -31833,7 +31833,7 @@
     "events": 15,
     "firstEventId": "2638237",
     "order": 212,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879411",
@@ -31965,7 +31965,7 @@
     "events": 5,
     "firstEventId": "2582102",
     "order": 138,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879411",
@@ -32013,7 +32013,7 @@
     "events": 1,
     "firstEventId": "2582158",
     "order": 167,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879411",
@@ -32025,7 +32025,7 @@
     "events": 4,
     "firstEventId": "2582160",
     "order": 170,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879411",
@@ -32577,7 +32577,7 @@
     "events": 4,
     "firstEventId": "2553856",
     "order": 188,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879413",
@@ -32769,7 +32769,7 @@
     "events": 3,
     "firstEventId": "2595814",
     "order": 133,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879414",
@@ -32793,7 +32793,7 @@
     "events": 6,
     "firstEventId": "2595851",
     "order": 153,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879414",
@@ -33045,7 +33045,7 @@
     "events": 13,
     "firstEventId": "2624701",
     "order": 178,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879415",
@@ -33285,7 +33285,7 @@
     "events": 8,
     "firstEventId": "2584041",
     "order": 183,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879417",
@@ -33429,7 +33429,7 @@
     "events": 4,
     "firstEventId": "2636483",
     "order": 103,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879417",
@@ -33477,7 +33477,7 @@
     "events": 6,
     "firstEventId": "2636529",
     "order": 128,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879417",
@@ -33849,7 +33849,7 @@
     "events": 1,
     "firstEventId": "2624247",
     "order": 176,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879418",
@@ -33945,7 +33945,7 @@
     "events": 6,
     "firstEventId": "2582920",
     "order": 3,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879419",
@@ -33981,7 +33981,7 @@
     "events": 7,
     "firstEventId": "2582979",
     "order": 34,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879419",
@@ -34341,7 +34341,7 @@
     "events": 8,
     "firstEventId": "2552186",
     "order": 124,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879420",
@@ -34557,7 +34557,7 @@
     "events": 10,
     "firstEventId": "2596358",
     "order": 44,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879421",
@@ -34941,7 +34941,7 @@
     "events": 4,
     "firstEventId": "2639055",
     "order": 199,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879422",
@@ -35241,7 +35241,7 @@
     "events": 6,
     "firstEventId": "2552571",
     "order": 47,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879424",
@@ -35265,7 +35265,7 @@
     "events": 4,
     "firstEventId": "2552597",
     "order": 62,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879424",
@@ -35361,7 +35361,7 @@
     "events": 5,
     "firstEventId": "2552738",
     "order": 136,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879424",
@@ -35565,7 +35565,7 @@
     "events": 4,
     "firstEventId": "2582345",
     "order": 82,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879425",
@@ -35589,7 +35589,7 @@
     "events": 1,
     "firstEventId": "2582392",
     "order": 106,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879425",
@@ -35649,7 +35649,7 @@
     "events": 9,
     "firstEventId": "2582463",
     "order": 145,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879425",
@@ -35721,7 +35721,7 @@
     "events": 6,
     "firstEventId": "2595954",
     "order": 25,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879426",
@@ -35781,7 +35781,7 @@
     "events": 6,
     "firstEventId": "2596039",
     "order": 70,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879426",
@@ -36021,7 +36021,7 @@
     "events": 2,
     "firstEventId": "2623244",
     "order": 59,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879427",
@@ -36057,7 +36057,7 @@
     "events": 4,
     "firstEventId": "2623300",
     "order": 88,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879427",
@@ -36069,7 +36069,7 @@
     "events": 5,
     "firstEventId": "2623311",
     "order": 94,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879427",
@@ -36165,7 +36165,7 @@
     "events": 10,
     "firstEventId": "2623467",
     "order": 175,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879427",
@@ -36333,7 +36333,7 @@
     "events": 13,
     "firstEventId": "2585019",
     "order": 78,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879428",
@@ -36597,7 +36597,7 @@
     "events": 12,
     "firstEventId": "2641777",
     "order": 49,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879429",
@@ -36609,7 +36609,7 @@
     "events": 4,
     "firstEventId": "2641807",
     "order": 64,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879429",
@@ -36669,7 +36669,7 @@
     "events": 2,
     "firstEventId": "2641886",
     "order": 110,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879429",
@@ -36741,7 +36741,7 @@
     "events": 4,
     "firstEventId": "2642003",
     "order": 174,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879429",
@@ -36765,7 +36765,7 @@
     "events": 4,
     "firstEventId": "2642034",
     "order": 190,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879429",
@@ -36801,7 +36801,7 @@
     "events": 16,
     "firstEventId": "2621656",
     "order": 14,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879430",
@@ -36945,7 +36945,7 @@
     "events": 6,
     "firstEventId": "2621907",
     "order": 147,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879430",
@@ -37149,7 +37149,7 @@
     "events": 9,
     "firstEventId": "2551116",
     "order": 197,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879431",
@@ -37353,7 +37353,7 @@
     "events": 14,
     "firstEventId": "2643495",
     "order": 149,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879432",
@@ -37545,7 +37545,7 @@
     "events": 8,
     "firstEventId": "2596951",
     "order": 126,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879433",
@@ -37809,7 +37809,7 @@
     "events": 23,
     "firstEventId": "2584393",
     "order": 171,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879434",
@@ -38085,7 +38085,7 @@
     "events": 8,
     "firstEventId": "2622674",
     "order": 183,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879435",
@@ -38169,7 +38169,7 @@
     "events": 4,
     "firstEventId": "2640684",
     "order": 46,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879436",
@@ -38193,7 +38193,7 @@
     "events": 2,
     "firstEventId": "2640712",
     "order": 60,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879436",
@@ -38325,7 +38325,7 @@
     "events": 6,
     "firstEventId": "2640943",
     "order": 180,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879436",
@@ -38481,7 +38481,7 @@
     "events": 8,
     "firstEventId": "2553299",
     "order": 114,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879437",
@@ -38517,7 +38517,7 @@
     "events": 5,
     "firstEventId": "2553363",
     "order": 148,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879437",
@@ -38589,7 +38589,7 @@
     "events": 8,
     "firstEventId": "2553472",
     "order": 207,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879437",
@@ -38625,7 +38625,7 @@
     "events": 11,
     "firstEventId": "2584507",
     "order": 22,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879438",
@@ -38721,7 +38721,7 @@
     "events": 4,
     "firstEventId": "2584671",
     "order": 110,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879438",
@@ -38793,7 +38793,7 @@
     "events": 5,
     "firstEventId": "2584801",
     "order": 180,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879438",
@@ -38817,7 +38817,7 @@
     "events": 10,
     "firstEventId": "2584844",
     "order": 202,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879438",
@@ -39249,7 +39249,7 @@
     "events": 7,
     "firstEventId": "2622882",
     "order": 80,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879440",
@@ -39261,7 +39261,7 @@
     "events": 6,
     "firstEventId": "2622896",
     "order": 87,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879440",
@@ -39273,7 +39273,7 @@
     "events": 9,
     "firstEventId": "2622915",
     "order": 96,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879440",
@@ -39333,7 +39333,7 @@
     "events": 7,
     "firstEventId": "2623025",
     "order": 153,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879440",
@@ -39381,7 +39381,7 @@
     "events": 4,
     "firstEventId": "2623122",
     "order": 203,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879440",
@@ -39573,7 +39573,7 @@
     "events": 6,
     "firstEventId": "2643934",
     "order": 176,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879441",
@@ -39705,7 +39705,7 @@
     "events": 7,
     "firstEventId": "2585492",
     "order": 76,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879442",
@@ -39789,7 +39789,7 @@
     "events": 7,
     "firstEventId": "2585619",
     "order": 143,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879442",
@@ -39849,7 +39849,7 @@
     "events": 6,
     "firstEventId": "2585734",
     "order": 203,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879442",
@@ -39921,7 +39921,7 @@
     "events": 1,
     "firstEventId": "2549999",
     "order": 27,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879443",
@@ -40209,7 +40209,7 @@
     "events": 11,
     "firstEventId": "2624907",
     "order": 71,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879444",
@@ -40221,7 +40221,7 @@
     "events": 4,
     "firstEventId": "2624932",
     "order": 84,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879444",
@@ -40269,7 +40269,7 @@
     "events": 12,
     "firstEventId": "2625003",
     "order": 121,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879444",
@@ -40305,7 +40305,7 @@
     "events": 6,
     "firstEventId": "2625098",
     "order": 169,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879444",
@@ -40329,7 +40329,7 @@
     "events": 10,
     "firstEventId": "2597085",
     "order": 3,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879445",
@@ -40377,7 +40377,7 @@
     "events": 12,
     "firstEventId": "2597183",
     "order": 55,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879445",
@@ -40461,7 +40461,7 @@
     "events": 7,
     "firstEventId": "2597345",
     "order": 140,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879445",
@@ -40509,7 +40509,7 @@
     "events": 8,
     "firstEventId": "2597413",
     "order": 177,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879445",
@@ -40521,7 +40521,7 @@
     "events": 6,
     "firstEventId": "2597436",
     "order": 189,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879445",
@@ -40629,7 +40629,7 @@
     "events": 3,
     "firstEventId": "2585945",
     "order": 81,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879446",
@@ -40725,7 +40725,7 @@
     "events": 8,
     "firstEventId": "2586078",
     "order": 153,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879446",
@@ -40749,7 +40749,7 @@
     "events": 9,
     "firstEventId": "2586127",
     "order": 178,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879446",
@@ -40821,7 +40821,7 @@
     "events": 8,
     "firstEventId": "2641413",
     "order": 47,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879447",
@@ -40857,7 +40857,7 @@
     "events": 4,
     "firstEventId": "2641455",
     "order": 68,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879447",
@@ -40989,7 +40989,7 @@
     "events": 4,
     "firstEventId": "2641635",
     "order": 164,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879447",
@@ -41013,7 +41013,7 @@
     "events": 8,
     "firstEventId": "2641664",
     "order": 179,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879447",
@@ -41553,7 +41553,7 @@
     "events": 11,
     "firstEventId": "2625854",
     "order": 186,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879449",
@@ -41589,7 +41589,7 @@
     "events": 8,
     "firstEventId": "2642456",
     "order": 14,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879450",
@@ -41757,7 +41757,7 @@
     "events": 9,
     "firstEventId": "2642714",
     "order": 152,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879450",
@@ -41793,7 +41793,7 @@
     "events": 6,
     "firstEventId": "2642750",
     "order": 172,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879450",
@@ -41853,7 +41853,7 @@
     "events": 4,
     "firstEventId": "2586198",
     "order": 20,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879451",
@@ -41877,7 +41877,7 @@
     "events": 10,
     "firstEventId": "2586219",
     "order": 32,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879451",
@@ -41961,7 +41961,7 @@
     "events": 1,
     "firstEventId": "2586327",
     "order": 90,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879451",
@@ -42069,7 +42069,7 @@
     "events": 6,
     "firstEventId": "2586459",
     "order": 161,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879451",
@@ -42093,7 +42093,7 @@
     "events": 19,
     "firstEventId": "2586486",
     "order": 174,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879451",
@@ -42117,7 +42117,7 @@
     "events": 5,
     "firstEventId": "2586546",
     "order": 206,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879451",
@@ -42357,7 +42357,7 @@
     "events": 7,
     "firstEventId": "2642370",
     "order": 171,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879452",
@@ -42597,7 +42597,7 @@
     "events": 2,
     "firstEventId": "2550642",
     "order": 163,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879453",
@@ -42729,7 +42729,7 @@
     "events": 6,
     "firstEventId": "2623677",
     "order": 70,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879454",
@@ -42789,7 +42789,7 @@
     "events": 14,
     "firstEventId": "2623754",
     "order": 111,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879454",
@@ -43065,7 +43065,7 @@
     "events": 3,
     "firstEventId": "2586840",
     "order": 147,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879455",
@@ -43089,7 +43089,7 @@
     "events": 4,
     "firstEventId": "2586866",
     "order": 162,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879455",
@@ -43149,7 +43149,7 @@
     "events": 5,
     "firstEventId": "2586927",
     "order": 194,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879455",
@@ -43161,7 +43161,7 @@
     "events": 7,
     "firstEventId": "2586943",
     "order": 202,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879455",
@@ -43185,7 +43185,7 @@
     "events": 12,
     "firstEventId": "2586968",
     "order": 215,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879455",
@@ -43353,7 +43353,7 @@
     "events": 8,
     "firstEventId": "2641164",
     "order": 112,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879456",
@@ -43377,7 +43377,7 @@
     "events": 7,
     "firstEventId": "2641197",
     "order": 129,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879456",
@@ -43425,7 +43425,7 @@
     "events": 16,
     "firstEventId": "2641255",
     "order": 159,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879456",
@@ -43449,7 +43449,7 @@
     "events": 10,
     "firstEventId": "2641300",
     "order": 180,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879456",
@@ -43701,7 +43701,7 @@
     "events": 4,
     "firstEventId": "2626221",
     "order": 170,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879457",
@@ -43725,7 +43725,7 @@
     "events": 4,
     "firstEventId": "2626246",
     "order": 183,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879457",
@@ -43785,7 +43785,7 @@
     "events": 3,
     "firstEventId": "2554703",
     "order": 3,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879458",
@@ -43977,7 +43977,7 @@
     "events": 12,
     "firstEventId": "2555080",
     "order": 200,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879458",
@@ -44193,7 +44193,7 @@
     "events": 4,
     "firstEventId": "2587394",
     "order": 180,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879459",
@@ -44325,7 +44325,7 @@
     "events": 4,
     "firstEventId": "2642942",
     "order": 71,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879460",
@@ -44409,7 +44409,7 @@
     "events": 4,
     "firstEventId": "2643097",
     "order": 152,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879460",
@@ -44469,7 +44469,7 @@
     "events": 8,
     "firstEventId": "2643162",
     "order": 188,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879460",
@@ -44613,7 +44613,7 @@
     "events": 1,
     "firstEventId": "2626463",
     "order": 85,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879461",
@@ -44973,7 +44973,7 @@
     "events": 3,
     "firstEventId": "2588019",
     "order": 106,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879462",
@@ -44997,7 +44997,7 @@
     "events": 6,
     "firstEventId": "2588065",
     "order": 130,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879462",
@@ -45021,7 +45021,7 @@
     "events": 8,
     "firstEventId": "2588099",
     "order": 148,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879462",
@@ -45057,7 +45057,7 @@
     "events": 7,
     "firstEventId": "2588157",
     "order": 177,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879462",
@@ -45117,7 +45117,7 @@
     "events": 4,
     "firstEventId": "2644010",
     "order": 28,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879463",
@@ -45249,7 +45249,7 @@
     "events": 9,
     "firstEventId": "2644205",
     "order": 134,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879463",
@@ -45417,7 +45417,7 @@
     "events": 7,
     "firstEventId": "2555240",
     "order": 64,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879464",
@@ -45513,7 +45513,7 @@
     "events": 10,
     "firstEventId": "2555413",
     "order": 154,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879464",
@@ -45765,7 +45765,7 @@
     "events": 7,
     "firstEventId": "2588900",
     "order": 197,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879465",
@@ -46113,7 +46113,7 @@
     "events": 4,
     "firstEventId": "2597606",
     "order": 73,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879467",
@@ -46437,7 +46437,7 @@
     "events": 4,
     "firstEventId": "2554519",
     "order": 99,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879468",
@@ -46581,7 +46581,7 @@
     "events": 8,
     "firstEventId": "2587474",
     "order": 21,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879469",
@@ -46725,7 +46725,7 @@
     "events": 1,
     "firstEventId": "2587708",
     "order": 145,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879469",
@@ -46845,7 +46845,7 @@
     "events": 12,
     "firstEventId": "2644815",
     "order": 29,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879470",
@@ -47049,7 +47049,7 @@
     "events": 4,
     "firstEventId": "2645116",
     "order": 189,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879471",
@@ -47073,7 +47073,7 @@
     "events": 4,
     "firstEventId": "2589317",
     "order": 16,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879471",
@@ -47289,7 +47289,7 @@
     "events": 6,
     "firstEventId": "2589650",
     "order": 191,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879471",
@@ -47325,7 +47325,7 @@
     "events": 1,
     "firstEventId": "2646905",
     "order": 8,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879472",
@@ -47601,7 +47601,7 @@
     "events": 4,
     "firstEventId": "2555551",
     "order": 14,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879473",
@@ -47637,7 +47637,7 @@
     "events": 6,
     "firstEventId": "2555589",
     "order": 35,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879473",
@@ -47757,7 +47757,7 @@
     "events": 1,
     "firstEventId": "2555795",
     "order": 143,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879473",
@@ -47817,7 +47817,7 @@
     "events": 4,
     "firstEventId": "2555882",
     "order": 188,
-    "result": "Punt"
+    "result": "Turnover"
   },
   {
     "gameId": "2879473",
@@ -47985,7 +47985,7 @@
     "events": 12,
     "firstEventId": "2598482",
     "order": 112,
-    "result": "Blocked FG Attempt"
+    "result": "Turnover"
   },
   {
     "gameId": "2879474",
@@ -47997,7 +47997,7 @@
     "events": 4,
     "firstEventId": "2598507",
     "order": 128,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879474",
@@ -48009,7 +48009,7 @@
     "events": 12,
     "firstEventId": "2598517",
     "order": 134,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879474",
@@ -48045,7 +48045,7 @@
     "events": 7,
     "firstEventId": "2598563",
     "order": 158,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879474",
@@ -48093,7 +48093,7 @@
     "events": 5,
     "firstEventId": "2650022",
     "order": 23,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879475",
@@ -48129,7 +48129,7 @@
     "events": 7,
     "firstEventId": "2650079",
     "order": 53,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879475",
@@ -48177,7 +48177,7 @@
     "events": 4,
     "firstEventId": "2650151",
     "order": 91,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879475",
@@ -48213,7 +48213,7 @@
     "events": 9,
     "firstEventId": "2650202",
     "order": 117,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879475",
@@ -48477,7 +48477,7 @@
     "events": 4,
     "firstEventId": "2590045",
     "order": 200,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879476",
@@ -48705,7 +48705,7 @@
     "events": 14,
     "firstEventId": "2589178",
     "order": 140,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879477",
@@ -48741,7 +48741,7 @@
     "events": 9,
     "firstEventId": "2589235",
     "order": 168,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879477",
@@ -48765,7 +48765,7 @@
     "events": 4,
     "firstEventId": "2589268",
     "order": 187,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879477",
@@ -48849,7 +48849,7 @@
     "events": 10,
     "firstEventId": "2648941",
     "order": 66,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879478",
@@ -49161,7 +49161,7 @@
     "events": 11,
     "firstEventId": "2556160",
     "order": 137,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879479",
@@ -49233,7 +49233,7 @@
     "events": 6,
     "firstEventId": "2599408",
     "order": 4,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879480",
@@ -49245,7 +49245,7 @@
     "events": 6,
     "firstEventId": "2599420",
     "order": 10,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879480",
@@ -49317,7 +49317,7 @@
     "events": 12,
     "firstEventId": "2599512",
     "order": 59,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879480",
@@ -49329,7 +49329,7 @@
     "events": 10,
     "firstEventId": "2599540",
     "order": 73,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879480",
@@ -49389,7 +49389,7 @@
     "events": 10,
     "firstEventId": "2599628",
     "order": 118,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879480",
@@ -49425,7 +49425,7 @@
     "events": 4,
     "firstEventId": "2599716",
     "order": 162,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879480",
@@ -49485,7 +49485,7 @@
     "events": 6,
     "firstEventId": "2599800",
     "order": 205,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879480",
@@ -49521,7 +49521,7 @@
     "events": 5,
     "firstEventId": "2647300",
     "order": 9,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879481",
@@ -49569,7 +49569,7 @@
     "events": 4,
     "firstEventId": "2647366",
     "order": 45,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879481",
@@ -50169,7 +50169,7 @@
     "events": 1,
     "firstEventId": "2649863",
     "order": 148,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879483",
@@ -50193,7 +50193,7 @@
     "events": 9,
     "firstEventId": "2649880",
     "order": 158,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879483",
@@ -50217,7 +50217,7 @@
     "events": 19,
     "firstEventId": "2649933",
     "order": 185,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879483",
@@ -50385,7 +50385,7 @@
     "events": 7,
     "firstEventId": "2600837",
     "order": 130,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879484",
@@ -50469,7 +50469,7 @@
     "events": 4,
     "firstEventId": "2601008",
     "order": 219,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879485",
@@ -50481,7 +50481,7 @@
     "events": 5,
     "firstEventId": "2590059",
     "order": 3,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879485",
@@ -50517,7 +50517,7 @@
     "events": 19,
     "firstEventId": "2590109",
     "order": 30,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879485",
@@ -50565,7 +50565,7 @@
     "events": 1,
     "firstEventId": "2590198",
     "order": 77,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879485",
@@ -50577,7 +50577,7 @@
     "events": 3,
     "firstEventId": "2590202",
     "order": 80,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879485",
@@ -50661,7 +50661,7 @@
     "events": 7,
     "firstEventId": "2590340",
     "order": 156,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879485",
@@ -50685,7 +50685,7 @@
     "events": 12,
     "firstEventId": "2590365",
     "order": 169,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879485",
@@ -50889,7 +50889,7 @@
     "events": 7,
     "firstEventId": "2556572",
     "order": 153,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879486",
@@ -50925,7 +50925,7 @@
     "events": 4,
     "firstEventId": "2556611",
     "order": 175,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879486",
@@ -50937,7 +50937,7 @@
     "events": 1,
     "firstEventId": "2556623",
     "order": 180,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879486",
@@ -50949,7 +50949,7 @@
     "events": 4,
     "firstEventId": "2556625",
     "order": 183,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879486",
@@ -51285,7 +51285,7 @@
     "events": 6,
     "firstEventId": "2600295",
     "order": 30,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879488",
@@ -51333,7 +51333,7 @@
     "events": 7,
     "firstEventId": "2600341",
     "order": 55,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879488",
@@ -51441,7 +51441,7 @@
     "events": 5,
     "firstEventId": "2600514",
     "order": 147,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879488",
@@ -51573,7 +51573,7 @@
     "events": 2,
     "firstEventId": "2647777",
     "order": 68,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879489",
@@ -51957,7 +51957,7 @@
     "events": 10,
     "firstEventId": "2590682",
     "order": 130,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879490",
@@ -52161,7 +52161,7 @@
     "events": 6,
     "firstEventId": "2646326",
     "order": 93,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879491",
@@ -52233,7 +52233,7 @@
     "events": 7,
     "firstEventId": "2646415",
     "order": 140,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879491",
@@ -52497,7 +52497,7 @@
     "events": 4,
     "firstEventId": "2648432",
     "order": 3,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879493",
@@ -52701,7 +52701,7 @@
     "events": 10,
     "firstEventId": "2648789",
     "order": 190,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879493",
@@ -52893,7 +52893,7 @@
     "events": 6,
     "firstEventId": "2600052",
     "order": 132,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879494",
@@ -52941,7 +52941,7 @@
     "events": 10,
     "firstEventId": "2600124",
     "order": 169,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879494",
@@ -52989,7 +52989,7 @@
     "events": 7,
     "firstEventId": "2600221",
     "order": 222,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879494",
@@ -53241,7 +53241,7 @@
     "events": 2,
     "firstEventId": "2591588",
     "order": 183,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879495",
@@ -53505,7 +53505,7 @@
     "events": 7,
     "firstEventId": "2598920",
     "order": 162,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879496",
@@ -53577,7 +53577,7 @@
     "events": 8,
     "firstEventId": "2591697",
     "order": 26,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879497",
@@ -53601,7 +53601,7 @@
     "events": 5,
     "firstEventId": "2591727",
     "order": 42,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879497",
@@ -53841,7 +53841,7 @@
     "events": 4,
     "firstEventId": "2649278",
     "order": 54,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879498",
@@ -53853,7 +53853,7 @@
     "events": 2,
     "firstEventId": "2649286",
     "order": 58,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879498",
@@ -53901,7 +53901,7 @@
     "events": 3,
     "firstEventId": "2649337",
     "order": 86,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879498",
@@ -53937,7 +53937,7 @@
     "events": 6,
     "firstEventId": "2649393",
     "order": 117,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879498",
@@ -54117,7 +54117,7 @@
     "events": 5,
     "firstEventId": "2557076",
     "order": 25,
-    "result": "Punt"
+    "result": "Turnover"
   },
   {
     "gameId": "2879499",
@@ -54237,7 +54237,7 @@
     "events": 6,
     "firstEventId": "2557234",
     "order": 110,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879499",
@@ -54285,7 +54285,7 @@
     "events": 8,
     "firstEventId": "2557323",
     "order": 156,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879499",
@@ -54309,7 +54309,7 @@
     "events": 7,
     "firstEventId": "2557358",
     "order": 174,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879499",
@@ -54513,7 +54513,7 @@
     "events": 11,
     "firstEventId": "2646049",
     "order": 132,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879500",
@@ -54813,7 +54813,7 @@
     "events": 12,
     "firstEventId": "2648083",
     "order": 9,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879502",
@@ -54873,7 +54873,7 @@
     "events": 5,
     "firstEventId": "2648179",
     "order": 60,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879502",
@@ -54885,7 +54885,7 @@
     "events": 2,
     "firstEventId": "2648191",
     "order": 66,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879502",
@@ -55089,7 +55089,7 @@
     "events": 5,
     "firstEventId": "2646513",
     "order": 12,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879503",
@@ -55161,7 +55161,7 @@
     "events": 12,
     "firstEventId": "2646614",
     "order": 67,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879503",
@@ -55233,7 +55233,7 @@
     "events": 4,
     "firstEventId": "2646747",
     "order": 135,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879503",
@@ -55377,7 +55377,7 @@
     "events": 9,
     "firstEventId": "2650813",
     "order": 60,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879504",
@@ -55449,7 +55449,7 @@
     "events": 4,
     "firstEventId": "2650902",
     "order": 107,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879504",
@@ -55533,7 +55533,7 @@
     "events": 8,
     "firstEventId": "2651056",
     "order": 187,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879504",
@@ -55557,7 +55557,7 @@
     "events": 4,
     "firstEventId": "2651089",
     "order": 204,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879504",
@@ -55833,7 +55833,7 @@
     "events": 7,
     "firstEventId": "2560099",
     "order": 178,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879505",
@@ -55845,7 +55845,7 @@
     "events": 5,
     "firstEventId": "2560115",
     "order": 186,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879505",
@@ -56013,7 +56013,7 @@
     "events": 3,
     "firstEventId": "2559143",
     "order": 93,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879506",
@@ -56025,7 +56025,7 @@
     "events": 3,
     "firstEventId": "2559158",
     "order": 102,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879506",
@@ -56049,7 +56049,7 @@
     "events": 1,
     "firstEventId": "2559183",
     "order": 116,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879506",
@@ -56361,7 +56361,7 @@
     "events": 7,
     "firstEventId": "2599275",
     "order": 139,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879507",
@@ -56421,7 +56421,7 @@
     "events": 9,
     "firstEventId": "2599346",
     "order": 177,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879507",
@@ -56469,7 +56469,7 @@
     "events": 4,
     "firstEventId": "2557384",
     "order": 3,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879508",
@@ -56577,7 +56577,7 @@
     "events": 2,
     "firstEventId": "2557582",
     "order": 111,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879508",
@@ -56601,7 +56601,7 @@
     "events": 3,
     "firstEventId": "2557602",
     "order": 123,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879508",
@@ -56649,7 +56649,7 @@
     "events": 8,
     "firstEventId": "2557677",
     "order": 164,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879508",
@@ -56673,7 +56673,7 @@
     "events": 8,
     "firstEventId": "2557724",
     "order": 189,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879508",
@@ -56733,7 +56733,7 @@
     "events": 7,
     "firstEventId": "2651163",
     "order": 34,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879509",
@@ -56949,7 +56949,7 @@
     "events": 3,
     "firstEventId": "2601051",
     "order": 14,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879510",
@@ -56985,7 +56985,7 @@
     "events": 4,
     "firstEventId": "2601110",
     "order": 46,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879510",
@@ -57021,7 +57021,7 @@
     "events": 11,
     "firstEventId": "2601163",
     "order": 75,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879510",
@@ -57033,7 +57033,7 @@
     "events": 2,
     "firstEventId": "2601188",
     "order": 87,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879510",
@@ -57093,7 +57093,7 @@
     "events": 18,
     "firstEventId": "2601258",
     "order": 126,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879510",
@@ -57129,7 +57129,7 @@
     "events": 4,
     "firstEventId": "2601313",
     "order": 154,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879510",
@@ -57141,7 +57141,7 @@
     "events": 6,
     "firstEventId": "2601325",
     "order": 161,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879510",
@@ -57213,7 +57213,7 @@
     "events": 13,
     "firstEventId": "2645500",
     "order": 4,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879511",
@@ -57273,7 +57273,7 @@
     "events": 6,
     "firstEventId": "2645584",
     "order": 48,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879511",
@@ -57393,7 +57393,7 @@
     "events": 4,
     "firstEventId": "2645788",
     "order": 154,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879511",
@@ -57585,7 +57585,7 @@
     "events": 6,
     "firstEventId": "2645398",
     "order": 144,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879512",
@@ -57633,7 +57633,7 @@
     "events": 3,
     "firstEventId": "2645485",
     "order": 190,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879513",
@@ -57789,7 +57789,7 @@
     "events": 2,
     "firstEventId": "2558352",
     "order": 104,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879513",
@@ -57849,7 +57849,7 @@
     "events": 9,
     "firstEventId": "2558435",
     "order": 147,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879513",
@@ -57861,7 +57861,7 @@
     "events": 4,
     "firstEventId": "2558461",
     "order": 160,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879513",
@@ -57945,7 +57945,7 @@
     "events": 6,
     "firstEventId": "2601842",
     "order": 34,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879514",
@@ -57969,7 +57969,7 @@
     "events": 9,
     "firstEventId": "2601865",
     "order": 57,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879514",
@@ -58185,7 +58185,7 @@
     "events": 4,
     "firstEventId": "2560305",
     "order": 67,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879515",
@@ -58233,7 +58233,7 @@
     "events": 3,
     "firstEventId": "2560354",
     "order": 94,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879515",
@@ -58317,7 +58317,7 @@
     "events": 10,
     "firstEventId": "2560467",
     "order": 154,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879515",
@@ -58809,7 +58809,7 @@
     "events": 4,
     "firstEventId": "2559735",
     "order": 186,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879517",
@@ -59049,7 +59049,7 @@
     "events": 8,
     "firstEventId": "2602289",
     "order": 151,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879518",
@@ -59085,7 +59085,7 @@
     "events": 5,
     "firstEventId": "2602334",
     "order": 174,
-    "result": "Punt"
+    "result": "Turnover"
   },
   {
     "gameId": "2879518",
@@ -59157,7 +59157,7 @@
     "events": 4,
     "firstEventId": "2557786",
     "order": 20,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879519",
@@ -59349,7 +59349,7 @@
     "events": 7,
     "firstEventId": "2558092",
     "order": 179,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879519",
@@ -59865,7 +59865,7 @@
     "events": 1,
     "firstEventId": "2603099",
     "order": 164,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879521",
@@ -59889,7 +59889,7 @@
     "events": 12,
     "firstEventId": "2603112",
     "order": 173,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879521",
@@ -60033,7 +60033,7 @@
     "events": 7,
     "firstEventId": "2606059",
     "order": 120,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879522",
@@ -60105,7 +60105,7 @@
     "events": 12,
     "firstEventId": "2606166",
     "order": 176,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879522",
@@ -60189,7 +60189,7 @@
     "events": 6,
     "firstEventId": "2560634",
     "order": 3,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879523",
@@ -60429,7 +60429,7 @@
     "events": 7,
     "firstEventId": "2561001",
     "order": 197,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879523",
@@ -60477,7 +60477,7 @@
     "events": 6,
     "firstEventId": "2563063",
     "order": 10,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879524",
@@ -60861,7 +60861,7 @@
     "events": 4,
     "firstEventId": "2605272",
     "order": 117,
-    "result": "Punt"
+    "result": "Turnover"
   },
   {
     "gameId": "2879525",
@@ -60969,7 +60969,7 @@
     "events": 6,
     "firstEventId": "2605415",
     "order": 194,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879525",
@@ -61245,7 +61245,7 @@
     "events": 2,
     "firstEventId": "2561051",
     "order": 8,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879527",
@@ -61485,7 +61485,7 @@
     "events": 10,
     "firstEventId": "2603539",
     "order": 9,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879528",
@@ -61653,7 +61653,7 @@
     "events": 5,
     "firstEventId": "2603804",
     "order": 146,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879528",
@@ -61665,7 +61665,7 @@
     "events": 5,
     "firstEventId": "2603815",
     "order": 153,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879528",
@@ -61677,7 +61677,7 @@
     "events": 9,
     "firstEventId": "2603826",
     "order": 160,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879528",
@@ -61833,7 +61833,7 @@
     "events": 11,
     "firstEventId": "2561662",
     "order": 124,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879529",
@@ -62397,7 +62397,7 @@
     "events": 5,
     "firstEventId": "2565670",
     "order": 143,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879531",
@@ -62433,7 +62433,7 @@
     "events": 6,
     "firstEventId": "2565722",
     "order": 171,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879531",
@@ -62457,7 +62457,7 @@
     "events": 4,
     "firstEventId": "2565770",
     "order": 196,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879531",
@@ -62481,7 +62481,7 @@
     "events": 10,
     "firstEventId": "2562245",
     "order": 3,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879532",
@@ -62661,7 +62661,7 @@
     "events": 13,
     "firstEventId": "2562588",
     "order": 186,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879532",
@@ -62685,7 +62685,7 @@
     "events": 5,
     "firstEventId": "2562631",
     "order": 208,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879532",
@@ -62937,7 +62937,7 @@
     "events": 5,
     "firstEventId": "2566079",
     "order": 157,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879533",
@@ -62985,7 +62985,7 @@
     "events": 5,
     "firstEventId": "2566132",
     "order": 185,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879533",
@@ -63153,7 +63153,7 @@
     "events": 17,
     "firstEventId": "2605682",
     "order": 124,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879534",
@@ -63225,7 +63225,7 @@
     "events": 1,
     "firstEventId": "2605831",
     "order": 202,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879535",
@@ -63405,7 +63405,7 @@
     "events": 6,
     "firstEventId": "2564535",
     "order": 150,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879535",
@@ -63645,7 +63645,7 @@
     "events": 1,
     "firstEventId": "2605021",
     "order": 194,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879536",
@@ -63657,7 +63657,7 @@
     "events": 10,
     "firstEventId": "2605030",
     "order": 200,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879536",
@@ -63741,7 +63741,7 @@
     "events": 8,
     "firstEventId": "2562769",
     "order": 65,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879537",
@@ -63861,7 +63861,7 @@
     "events": 1,
     "firstEventId": "2562968",
     "order": 170,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879537",
@@ -63933,7 +63933,7 @@
     "events": 16,
     "firstEventId": "2603880",
     "order": 3,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879538",
@@ -64089,7 +64089,7 @@
     "events": 6,
     "firstEventId": "2604515",
     "order": 139,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879538",
@@ -64341,7 +64341,7 @@
     "events": 7,
     "firstEventId": "2564837",
     "order": 126,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879540",
@@ -64389,7 +64389,7 @@
     "events": 7,
     "firstEventId": "2564894",
     "order": 156,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879540",
@@ -64641,7 +64641,7 @@
     "events": 11,
     "firstEventId": "2606991",
     "order": 158,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879542",
@@ -64929,7 +64929,7 @@
     "events": 11,
     "firstEventId": "2565317",
     "order": 191,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879543",
@@ -65109,7 +65109,7 @@
     "events": 4,
     "firstEventId": "2566402",
     "order": 116,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879544",
@@ -65157,7 +65157,7 @@
     "events": 2,
     "firstEventId": "2566438",
     "order": 134,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879544",
@@ -65253,7 +65253,7 @@
     "events": 14,
     "firstEventId": "2566571",
     "order": 205,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879544",
@@ -65265,7 +65265,7 @@
     "events": 5,
     "firstEventId": "2566607",
     "order": 224,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879545",
@@ -65277,7 +65277,7 @@
     "events": 7,
     "firstEventId": "2606285",
     "order": 3,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879545",
@@ -65385,7 +65385,7 @@
     "events": 2,
     "firstEventId": "2606473",
     "order": 101,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879545",
@@ -65589,7 +65589,7 @@
     "events": 7,
     "firstEventId": "2566689",
     "order": 36,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879546",
@@ -65673,7 +65673,7 @@
     "events": 3,
     "firstEventId": "2566834",
     "order": 112,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879546",
@@ -65757,7 +65757,7 @@
     "events": 1,
     "firstEventId": "2566928",
     "order": 163,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879546",
@@ -65865,7 +65865,7 @@
     "events": 4,
     "firstEventId": "2567112",
     "order": 33,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879547",
@@ -66033,7 +66033,7 @@
     "events": 7,
     "firstEventId": "2567377",
     "order": 175,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879547",
@@ -66081,7 +66081,7 @@
     "events": 2,
     "firstEventId": "2567450",
     "order": 213,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879547",
@@ -66177,7 +66177,7 @@
     "events": 4,
     "firstEventId": "2567611",
     "order": 73,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879548",
@@ -66201,7 +66201,7 @@
     "events": 3,
     "firstEventId": "2567642",
     "order": 88,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879548",
@@ -66273,7 +66273,7 @@
     "events": 5,
     "firstEventId": "2567758",
     "order": 148,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879548",
@@ -66297,7 +66297,7 @@
     "events": 9,
     "firstEventId": "2567783",
     "order": 161,
-    "result": "Pass Completion"
+    "result": "Downs"
   },
   {
     "gameId": "2879548",
@@ -66393,7 +66393,7 @@
     "events": 5,
     "firstEventId": "2607197",
     "order": 45,
-    "result": "Punt"
+    "result": "Turnover"
   },
   {
     "gameId": "2879549",
@@ -66609,7 +66609,7 @@
     "events": 8,
     "firstEventId": "2607459",
     "order": 187,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879549",
@@ -66669,7 +66669,7 @@
     "events": 5,
     "firstEventId": "2567891",
     "order": 22,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879550",
@@ -66993,7 +66993,7 @@
     "events": 5,
     "firstEventId": "2568406",
     "order": 96,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879551",
@@ -67257,7 +67257,7 @@
     "events": 7,
     "firstEventId": "2607673",
     "order": 100,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879552",
@@ -67401,7 +67401,7 @@
     "events": 14,
     "firstEventId": "2568744",
     "order": 17,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879553",
@@ -67425,7 +67425,7 @@
     "events": 11,
     "firstEventId": "2568816",
     "order": 56,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879553",
@@ -67689,7 +67689,7 @@
     "events": 4,
     "firstEventId": "2608003",
     "order": 52,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879554",
@@ -67713,7 +67713,7 @@
     "events": 4,
     "firstEventId": "2608022",
     "order": 62,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879554",
@@ -67773,7 +67773,7 @@
     "events": 6,
     "firstEventId": "2608102",
     "order": 106,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879554",
@@ -67797,7 +67797,7 @@
     "events": 9,
     "firstEventId": "2608128",
     "order": 119,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879554",
@@ -67821,7 +67821,7 @@
     "events": 7,
     "firstEventId": "2608161",
     "order": 136,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879554",
@@ -67881,7 +67881,7 @@
     "events": 4,
     "firstEventId": "2608250",
     "order": 184,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879554",
@@ -68181,7 +68181,7 @@
     "events": 3,
     "firstEventId": "2608328",
     "order": 15,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879556",
@@ -68361,7 +68361,7 @@
     "events": 12,
     "firstEventId": "2608625",
     "order": 173,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879556",
@@ -68373,7 +68373,7 @@
     "events": 4,
     "firstEventId": "2608654",
     "order": 188,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879556",
@@ -68385,7 +68385,7 @@
     "events": 5,
     "firstEventId": "2608662",
     "order": 192,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879556",
@@ -68457,7 +68457,7 @@
     "events": 5,
     "firstEventId": "2651829",
     "order": 58,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879580",
@@ -68481,7 +68481,7 @@
     "events": 5,
     "firstEventId": "2651868",
     "order": 80,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879580",
@@ -68661,7 +68661,7 @@
     "events": 4,
     "firstEventId": "2651495",
     "order": 3,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879581",
@@ -68769,7 +68769,7 @@
     "events": 4,
     "firstEventId": "2651571",
     "order": 79,
-    "result": "Punt"
+    "result": "Turnover"
   },
   {
     "gameId": "2879581",
@@ -68781,7 +68781,7 @@
     "events": 7,
     "firstEventId": "2651579",
     "order": 87,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879581",
@@ -68865,7 +68865,7 @@
     "events": 4,
     "firstEventId": "2651642",
     "order": 157,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879581",
@@ -68961,7 +68961,7 @@
     "events": 4,
     "firstEventId": "2651698",
     "order": 221,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879581",
@@ -69021,7 +69021,7 @@
     "events": 7,
     "firstEventId": "2652571",
     "order": 30,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879583",
@@ -69213,7 +69213,7 @@
     "events": 10,
     "firstEventId": "2652864",
     "order": 188,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879583",
@@ -69273,7 +69273,7 @@
     "events": 4,
     "firstEventId": "2652941",
     "order": 23,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879584",
@@ -69357,7 +69357,7 @@
     "events": 11,
     "firstEventId": "2653081",
     "order": 98,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879584",
@@ -69417,7 +69417,7 @@
     "events": 5,
     "firstEventId": "2653182",
     "order": 152,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879584",
@@ -69441,7 +69441,7 @@
     "events": 15,
     "firstEventId": "2653205",
     "order": 166,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879584",
@@ -69501,7 +69501,7 @@
     "events": 7,
     "firstEventId": "2653314",
     "order": 31,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879586",
@@ -69549,7 +69549,7 @@
     "events": 3,
     "firstEventId": "2653388",
     "order": 71,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879586",
@@ -69645,7 +69645,7 @@
     "events": 4,
     "firstEventId": "2653544",
     "order": 156,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879586",
@@ -69741,7 +69741,7 @@
     "events": 3,
     "firstEventId": "2653736",
     "order": 48,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879588",
@@ -69789,7 +69789,7 @@
     "events": 1,
     "firstEventId": "2653844",
     "order": 104,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879588",
@@ -69813,7 +69813,7 @@
     "events": 2,
     "firstEventId": "2653854",
     "order": 111,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879588",
@@ -69993,7 +69993,7 @@
     "events": 7,
     "firstEventId": "2654124",
     "order": 8,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879589",
@@ -70017,7 +70017,7 @@
     "events": 2,
     "firstEventId": "2654169",
     "order": 32,
-    "result": "Pass Completion"
+    "result": "Turnover"
   },
   {
     "gameId": "2879589",
@@ -70101,7 +70101,7 @@
     "events": 7,
     "firstEventId": "2654302",
     "order": 103,
-    "result": "Sack"
+    "result": "Downs"
   },
   {
     "gameId": "2879589",
@@ -70149,7 +70149,7 @@
     "events": 4,
     "firstEventId": "2654361",
     "order": 133,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879589",
@@ -70173,7 +70173,7 @@
     "events": 7,
     "firstEventId": "2654387",
     "order": 147,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879589",
@@ -70305,7 +70305,7 @@
     "events": 2,
     "firstEventId": "2654537",
     "order": 51,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879590",
@@ -70461,7 +70461,7 @@
     "events": 3,
     "firstEventId": "2654715",
     "order": 151,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879590",
@@ -70473,7 +70473,7 @@
     "events": 5,
     "firstEventId": "2654723",
     "order": 156,
-    "result": "Run"
+    "result": "Turnover"
   },
   {
     "gameId": "2879590",
@@ -70569,7 +70569,7 @@
     "events": 5,
     "firstEventId": "2654855",
     "order": 226,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879590",
@@ -70665,7 +70665,7 @@
     "events": 9,
     "firstEventId": "2654993",
     "order": 65,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2879591",
@@ -70797,7 +70797,7 @@
     "events": 12,
     "firstEventId": "2655184",
     "order": 168,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879591",
@@ -70953,7 +70953,7 @@
     "events": 11,
     "firstEventId": "2655392",
     "order": 45,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879594",
@@ -70977,7 +70977,7 @@
     "events": 6,
     "firstEventId": "2655434",
     "order": 66,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879594",
@@ -71313,7 +71313,7 @@
     "events": 6,
     "firstEventId": "2655872",
     "order": 115,
-    "result": "Punt"
+    "result": "Turnover"
   },
   {
     "gameId": "2879595",
@@ -71385,7 +71385,7 @@
     "events": 15,
     "firstEventId": "2655985",
     "order": 176,
-    "result": "Incomplete Pass"
+    "result": "Downs"
   },
   {
     "gameId": "2879595",
@@ -71637,7 +71637,7 @@
     "events": 5,
     "firstEventId": "2656333",
     "order": 141,
-    "result": "Sack"
+    "result": "Turnover"
   },
   {
     "gameId": "2879596",
@@ -71817,7 +71817,7 @@
     "events": 7,
     "firstEventId": "2652243",
     "order": 48,
-    "result": "Run"
+    "result": "Downs"
   },
   {
     "gameId": "2880473",
