@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.env*.local
+data/raw/
+data/external/
+data/processed/*.parquet
+public/data/*.parquet
+__pycache__/
+.DS_Store
+
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+.vercel/
+work/

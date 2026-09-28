@@ -1,0 +1,114 @@
+[
+  {
+    "down": 1,
+    "distance": "long",
+    "plays": 580,
+    "run": 193,
+    "pass": 362
+  },
+  {
+    "down": 1,
+    "distance": "medium",
+    "plays": 406,
+    "run": 236,
+    "pass": 125
+  },
+  {
+    "down": 1,
+    "distance": "short",
+    "plays": 350,
+    "run": 211,
+    "pass": 93
+  },
+  {
+    "down": 1,
+    "distance": "standard",
+    "plays": 15013,
+    "run": 7537,
+    "pass": 6551
+  },
+  {
+    "down": 2,
+    "distance": "long",
+    "plays": 1904,
+    "run": 478,
+    "pass": 1251
+  },
+  {
+    "down": 2,
+    "distance": "medium",
+    "plays": 3003,
+    "run": 1395,
+    "pass": 1380
+  },
+  {
+    "down": 2,
+    "distance": "short",
+    "plays": 2047,
+    "run": 1242,
+    "pass": 617
+  },
+  {
+    "down": 2,
+    "distance": "standard",
+    "plays": 5709,
+    "run": 1717,
+    "pass": 3482
+  },
+  {
+    "down": 3,
+    "distance": "long",
+    "plays": 1563,
+    "run": 268,
+    "pass": 1094
+  },
+  {
+    "down": 3,
+    "distance": "medium",
+    "plays": 2025,
+    "run": 267,
+    "pass": 1479
+  },
+  {
+    "down": 3,
+    "distance": "short",
+    "plays": 2403,
+    "run": 1191,
+    "pass": 934
+  },
+  {
+    "down": 3,
+    "distance": "standard",
+    "plays": 2296,
+    "run": 241,
+    "pass": 1756
+  },
+  {
+    "down": 4,
+    "distance": "long",
+    "plays": 1093,
+    "run": 6,
+    "pass": 52
+  },
+  {
+    "down": 4,
+    "distance": "medium",
+    "plays": 1068,
+    "run": 11,
+    "pass": 160
+  },
+  {
+    "down": 4,
+    "distance": "short",
+    "plays": 1393,
+    "run": 314,
+    "pass": 304
+  },
+  {
+    "down": 4,
+    "distance": "standard",
+    "plays": 1103,
+    "run": 8,
+    "pass": 81
+  }
+]

@@ -1,0 +1,3 @@
+import teams from '@/public/data/teams_enriched.json';
+import SiteNav from '@/app/components/SiteNav';
+export default function Teams(){return <main><SiteNav/><div className="data-content"><div className="eyebrow">THE LEAGUE</div><h1>ALL<br/><span>SIDES.</span></h1><p className="dek">Explore every team's season, results, and play selection.</p><div className="team-grid">{teams.map(t=><a className="team-card" href={`/teams/${t.abbrev}`} key={t.abbrev} style={{borderTopColor:t.color}}><img className="team-logo" src={t.logo} alt=""/><b>{t.abbrev}</b><span>{t.name}</span><small>{t.wins}–{t.losses}–{t.ties} · including postseason</small><i>ENTER TEAM HUB ↗</i></a>)}</div></div></main>}

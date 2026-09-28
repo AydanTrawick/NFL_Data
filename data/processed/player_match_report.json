@@ -1,0 +1,1397 @@
+{
+  "matched": 1786,
+  "unmatched": 163,
+  "unmatchedPlayers": [
+    {
+      "name": "A.J. Green III",
+      "team": "MIA",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "A.J. Terrell Jr.",
+      "team": "ATL",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 75
+    },
+    {
+      "name": "Aaron Jones Sr.",
+      "team": "MIN",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "RUSHER",
+        "SCORING_PLAYER"
+      ],
+      "events": 188
+    },
+    {
+      "name": "Ahkello Witherspoon",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 11
+    },
+    {
+      "name": "Ajani Carter",
+      "team": "HOU",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 1,
+      "reason": "roster match has no headshot URL"
+    },
+    {
+      "name": "Albert Okwuegbunam Jr.",
+      "team": "LV",
+      "roles": [
+        "RECEIVER"
+      ],
+      "events": 6
+    },
+    {
+      "name": "Alex Ward",
+      "team": "LAR",
+      "roles": [
+        "PASSER"
+      ],
+      "events": 25
+    },
+    {
+      "name": "Anthony Richardson Sr.",
+      "team": "IND",
+      "roles": [
+        "PASSER",
+        "RECEIVER",
+        "RUSHER"
+      ],
+      "events": 7
+    },
+    {
+      "name": "Antonio Hamilton Sr.",
+      "team": "WAS",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 16
+    },
+    {
+      "name": "Audric Estime",
+      "team": "NO",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "RUSHER",
+        "SCORING_PLAYER"
+      ],
+      "events": 62
+    },
+    {
+      "name": "Blake Corum",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "RUSHER",
+        "SCORING_PLAYER"
+      ],
+      "events": 218
+    },
+    {
+      "name": "Boogie Basham",
+      "team": "CAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 3
+    },
+    {
+      "name": "Braden Fiske",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 28
+    },
+    {
+      "name": "Brandon Johnson",
+      "team": "PHI",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 1,
+      "reason": "roster match has no headshot URL"
+    },
+    {
+      "name": "Brian Robinson Jr.",
+      "team": "SF",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "RUSHER",
+        "SCORING_PLAYER"
+      ],
+      "events": 129
+    },
+    {
+      "name": "Broderick Washington Jr.",
+      "team": "BAL",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 4
+    },
+    {
+      "name": "Byron Murphy Jr.",
+      "team": "MIN",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 69
+    },
+    {
+      "name": "Byron Young",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 75
+    },
+    {
+      "name": "C.J. Okoye",
+      "team": "BAL",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 8
+    },
+    {
+      "name": "Cam Bynum",
+      "team": "IND",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 75
+    },
+    {
+      "name": "Carl Jones Jr.",
+      "team": "CHI",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 7
+    },
+    {
+      "name": "Charvarius Ward Sr.",
+      "team": "IND",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 32
+    },
+    {
+      "name": "Chris Roland-Wallace",
+      "team": "KC",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 30
+    },
+    {
+      "name": "Christopher Edmonds",
+      "team": "CLE",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 4
+    },
+    {
+      "name": "Christopher Smith",
+      "team": "LV",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Cobie Durant",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER",
+        "SCORING_PLAYER"
+      ],
+      "events": 57
+    },
+    {
+      "name": "Colby Parkinson",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "RUSHER",
+        "SCORING_PLAYER"
+      ],
+      "events": 89
+    },
+    {
+      "name": "Darious Williams",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 38
+    },
+    {
+      "name": "Daron Payne",
+      "team": "DAL",
+      "roles": [
+        "SCORING_PLAYER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Davante Adams",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "SCORING_PLAYER"
+      ],
+      "events": 165
+    },
+    {
+      "name": "David Sills V",
+      "team": "ATL",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "SCORING_PLAYER"
+      ],
+      "events": 43
+    },
+    {
+      "name": "Davis Allen",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "SCORING_PLAYER"
+      ],
+      "events": 43
+    },
+    {
+      "name": "Dax Hill",
+      "team": "CIN",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 86
+    },
+    {
+      "name": "Deatrich Wise Jr.",
+      "team": "WAS",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 3
+    },
+    {
+      "name": "Demani Richardson",
+      "team": "ARI",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Derion Kendrick",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 3
+    },
+    {
+      "name": "Derrick Barnes",
+      "team": "CIN",
+      "roles": [
+        "SCORING_PLAYER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Derwin James Jr.",
+      "team": "LAC",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 85
+    },
+    {
+      "name": "Desjuan Johnson",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 14
+    },
+    {
+      "name": "Devaughn Vele",
+      "team": "MIA",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Dexter Lawrence II",
+      "team": "NYG",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 29
+    },
+    {
+      "name": "Donovan Ezeiruaku",
+      "team": "LV",
+      "roles": [
+        "SCORING_PLAYER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Drew Ogletree",
+      "team": "IND",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "SCORING_PLAYER"
+      ],
+      "events": 16
+    },
+    {
+      "name": "Dru Phillips",
+      "team": "NYG",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 73
+    },
+    {
+      "name": "Elias Neal",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 4
+    },
+    {
+      "name": "Emmanuel Forbes Jr.",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 65
+    },
+    {
+      "name": "Eric Johnson II",
+      "team": "IND",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 4
+    },
+    {
+      "name": "Erick Hallett II",
+      "team": "DET",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 15
+    },
+    {
+      "name": "Erick Hallett II",
+      "team": "TEN",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 2
+    },
+    {
+      "name": "Ernest Jones IV",
+      "team": "HOU",
+      "roles": [
+        "SCORING_PLAYER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Ernest Jones IV",
+      "team": "SEA",
+      "roles": [
+        "DEFENDER",
+        "SCORING_PLAYER"
+      ],
+      "events": 134
+    },
+    {
+      "name": "Ethan Evans",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER",
+        "PASSER"
+      ],
+      "events": 109
+    },
+    {
+      "name": "Folorunso Fatukasi",
+      "team": "HOU",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 5
+    },
+    {
+      "name": "Foyesade Oluokun",
+      "team": "JAX",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 124
+    },
+    {
+      "name": "Gage Larvadain",
+      "team": "NE",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Gardner Minshew II",
+      "team": "KC",
+      "roles": [
+        "PASSER",
+        "RUSHER"
+      ],
+      "events": 20
+    },
+    {
+      "name": "Harrison Mevis",
+      "team": "LAR",
+      "roles": [
+        "SCORING_PLAYER"
+      ],
+      "events": 66
+    },
+    {
+      "name": "Hollywood Brown",
+      "team": "KC",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "RUSHER",
+        "SCORING_PLAYER"
+      ],
+      "events": 87
+    },
+    {
+      "name": "Jack Campbell",
+      "team": "DAL",
+      "roles": [
+        "SCORING_PLAYER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Jack Heflin",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Jake Hummel",
+      "team": "BAL",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 16
+    },
+    {
+      "name": "Jake McQuaide",
+      "team": "LAR",
+      "roles": [
+        "PASSER"
+      ],
+      "events": 40
+    },
+    {
+      "name": "Jakobie Keeney-James",
+      "team": "GB",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER"
+      ],
+      "events": 5,
+      "reason": "roster match has no headshot URL"
+    },
+    {
+      "name": "James Cook III",
+      "team": "BUF",
+      "roles": [
+        "RECEIVER",
+        "RUSHER",
+        "SCORING_PLAYER"
+      ],
+      "events": 428
+    },
+    {
+      "name": "James Proche II",
+      "team": "TEN",
+      "roles": [
+        "RECEIVER"
+      ],
+      "events": 15
+    },
+    {
+      "name": "James Williams Sr.",
+      "team": "TEN",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 24
+    },
+    {
+      "name": "Jamon Johnson",
+      "team": "GB",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 5,
+      "reason": "roster match has no headshot URL"
+    },
+    {
+      "name": "Jared Verse",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER",
+        "SCORING_PLAYER"
+      ],
+      "events": 64
+    },
+    {
+      "name": "Jarquez Hunter",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Jay Higgins IV",
+      "team": "BAL",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 8
+    },
+    {
+      "name": "Jaylahn Tuimoloau",
+      "team": "IND",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 15
+    },
+    {
+      "name": "Jaylen McCollough",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 54
+    },
+    {
+      "name": "Jeffery Simmons",
+      "team": "KC",
+      "roles": [
+        "SCORING_PLAYER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Jessie Bates III",
+      "team": "ATL",
+      "roles": [
+        "DEFENDER",
+        "SCORING_PLAYER"
+      ],
+      "events": 84
+    },
+    {
+      "name": "Jimmy Garoppolo",
+      "team": "LAR",
+      "roles": [
+        "RUSHER"
+      ],
+      "events": 9
+    },
+    {
+      "name": "John Ridgeway III",
+      "team": "NO",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 7
+    },
+    {
+      "name": "Johnathan Baldwin II",
+      "team": "GB",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 6
+    },
+    {
+      "name": "Jordan Whittington",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "RUSHER"
+      ],
+      "events": 61
+    },
+    {
+      "name": "Josaiah Stewart",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 24
+    },
+    {
+      "name": "Joseph Noteboom",
+      "team": "BAL",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Josh Hines-Allen",
+      "team": "IND",
+      "roles": [
+        "SCORING_PLAYER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Josh Uche",
+      "team": "PHI",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 22
+    },
+    {
+      "name": "Josh Wallace",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 24
+    },
+    {
+      "name": "Joshua Karty",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER",
+        "PASSER",
+        "SCORING_PLAYER"
+      ],
+      "events": 35
+    },
+    {
+      "name": "Joshua Metellus",
+      "team": "MIN",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 74
+    },
+    {
+      "name": "Joshua Palmer",
+      "team": "BUF",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER"
+      ],
+      "events": 44
+    },
+    {
+      "name": "JuJu Brents",
+      "team": "MIA",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 14
+    },
+    {
+      "name": "Kaevon Merriweather",
+      "team": "PHI",
+      "roles": [
+        "SCORING_PLAYER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Kam Curl",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 136
+    },
+    {
+      "name": "Kamren Kinchens",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 88
+    },
+    {
+      "name": "Kenny Gainwell",
+      "team": "PIT",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "RUSHER",
+        "SCORING_PLAYER"
+      ],
+      "events": 265
+    },
+    {
+      "name": "Kevin Byard III",
+      "team": "CHI",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 88
+    },
+    {
+      "name": "Kiko Mauigoa",
+      "team": "NYJ",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 30
+    },
+    {
+      "name": "Kobie Turner",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 43
+    },
+    {
+      "name": "Konata Mumpfield",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "SCORING_PLAYER"
+      ],
+      "events": 35
+    },
+    {
+      "name": "Kris Jenkins Jr.",
+      "team": "CIN",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 29
+    },
+    {
+      "name": "Kyle Dugger",
+      "team": "DET",
+      "roles": [
+        "SCORING_PLAYER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Kyle Pitts Sr.",
+      "team": "ATL",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "SCORING_PLAYER"
+      ],
+      "events": 133
+    },
+    {
+      "name": "Kyren Williams",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "RUSHER",
+        "SCORING_PLAYER"
+      ],
+      "events": 398
+    },
+    {
+      "name": "Larrell Murchison",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 3
+    },
+    {
+      "name": "Lew Nichols",
+      "team": "PIT",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Lonnie Johnson Jr.",
+      "team": "LV",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 24
+    },
+    {
+      "name": "Mack Wilson Sr.",
+      "team": "ARI",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 58
+    },
+    {
+      "name": "Mario Edwards Jr.",
+      "team": "HOU",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 8
+    },
+    {
+      "name": "Markquese Bell",
+      "team": "GB",
+      "roles": [
+        "SCORING_PLAYER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Matt Orzech",
+      "team": "GB",
+      "roles": [
+        "DEFENDER",
+        "PASSER"
+      ],
+      "events": 58
+    },
+    {
+      "name": "Matthew Stafford",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER",
+        "PASSER",
+        "RUSHER"
+      ],
+      "events": 842
+    },
+    {
+      "name": "Maurice Hurst II",
+      "team": "CLE",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 2
+    },
+    {
+      "name": "Mecole Hardman Jr.",
+      "team": "BUF",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "RUSHER",
+        "SCORING_PLAYER"
+      ],
+      "events": 10
+    },
+    {
+      "name": "Michael Badgley",
+      "team": "BUF",
+      "roles": [
+        "SCORING_PLAYER"
+      ],
+      "events": 3
+    },
+    {
+      "name": "Michael Badgley",
+      "team": "IND",
+      "roles": [
+        "SCORING_PLAYER"
+      ],
+      "events": 28
+    },
+    {
+      "name": "Michael Pittman Jr.",
+      "team": "IND",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "SCORING_PLAYER"
+      ],
+      "events": 131
+    },
+    {
+      "name": "Mike Danna",
+      "team": "KC",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 16
+    },
+    {
+      "name": "Mike Ford Jr.",
+      "team": "ATL",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 16
+    },
+    {
+      "name": "Minkah Fitzpatrick",
+      "team": "NO",
+      "roles": [
+        "SCORING_PLAYER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Mitch Tinsley",
+      "team": "CIN",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "SCORING_PLAYER"
+      ],
+      "events": 32
+    },
+    {
+      "name": "Nate Landman",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 131
+    },
+    {
+      "name": "Nick Hampton",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 6
+    },
+    {
+      "name": "Nolan Smith Jr.",
+      "team": "PHI",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 25
+    },
+    {
+      "name": "Nyheim Miller-Hines",
+      "team": "LAC",
+      "roles": [
+        "DEFENDER",
+        "RUSHER"
+      ],
+      "events": 9
+    },
+    {
+      "name": "Nyheim Miller-Hines",
+      "team": "NO",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Omar Speights",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 79
+    },
+    {
+      "name": "Oren Burks",
+      "team": "CHI",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Parker Romo",
+      "team": "ATL",
+      "roles": [
+        "SCORING_PLAYER"
+      ],
+      "events": 23
+    },
+    {
+      "name": "Pat Jones II",
+      "team": "CAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 7
+    },
+    {
+      "name": "Poona Ford",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 37
+    },
+    {
+      "name": "Puka Nacua",
+      "team": "LAR",
+      "roles": [
+        "RECEIVER",
+        "RUSHER",
+        "SCORING_PLAYER"
+      ],
+      "events": 250
+    },
+    {
+      "name": "Quentin Lake",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 77
+    },
+    {
+      "name": "Ray-Ray McCloud III",
+      "team": "ATL",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER"
+      ],
+      "events": 24
+    },
+    {
+      "name": "Ray-Ray McCloud III",
+      "team": "NYG",
+      "roles": [
+        "RECEIVER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Reuben Lowery III",
+      "team": "BAL",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 2
+    },
+    {
+      "name": "Rodney Thomas II",
+      "team": "IND",
+      "roles": [
+        "DEFENDER",
+        "RUSHER"
+      ],
+      "events": 18
+    },
+    {
+      "name": "Roger McCreary",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 11
+    },
+    {
+      "name": "Ronnie Harrison Jr.",
+      "team": "ATL",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 30
+    },
+    {
+      "name": "Ronnie Hickman",
+      "team": "CLE",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 78
+    },
+    {
+      "name": "Ronnie Rivers",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "RUSHER"
+      ],
+      "events": 35
+    },
+    {
+      "name": "Russell Gage Jr.",
+      "team": "SF",
+      "roles": [
+        "RECEIVER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Sal Cannella",
+      "team": "CLE",
+      "roles": [
+        "RECEIVER"
+      ],
+      "events": 5,
+      "reason": "roster match has no headshot URL"
+    },
+    {
+      "name": "Samuel Womack III",
+      "team": "NYJ",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 8
+    },
+    {
+      "name": "Samuel Womack III",
+      "team": "TEN",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 5
+    },
+    {
+      "name": "Scotty Miller",
+      "team": "PIT",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER"
+      ],
+      "events": 19
+    },
+    {
+      "name": "Shaun Dolac",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 22
+    },
+    {
+      "name": "Steve Avila",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "T.J. Slaton Jr.",
+      "team": "CIN",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 41
+    },
+    {
+      "name": "T.J. Tampa Jr.",
+      "team": "BAL",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 24
+    },
+    {
+      "name": "Tanner Ingle",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 2
+    },
+    {
+      "name": "Terrance Ferguson",
+      "team": "LAR",
+      "roles": [
+        "RECEIVER",
+        "RUSHER",
+        "SCORING_PLAYER"
+      ],
+      "events": 39
+    },
+    {
+      "name": "Thomas Booker IV",
+      "team": "LV",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 35
+    },
+    {
+      "name": "Tim Settle Jr.",
+      "team": "HOU",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 15
+    },
+    {
+      "name": "Travis Etienne Jr.",
+      "team": "JAX",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "RUSHER",
+        "SCORING_PLAYER"
+      ],
+      "events": 359
+    },
+    {
+      "name": "Tre Brown",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Trent Sherfield Sr.",
+      "team": "ARI",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER"
+      ],
+      "events": 3
+    },
+    {
+      "name": "Trent Sherfield Sr.",
+      "team": "DEN",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER"
+      ],
+      "events": 6
+    },
+    {
+      "name": "Troy Reeder",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 25
+    },
+    {
+      "name": "Tutu Atwell",
+      "team": "LAR",
+      "roles": [
+        "RECEIVER",
+        "SCORING_PLAYER"
+      ],
+      "events": 19
+    },
+    {
+      "name": "Ty Hamilton",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 6
+    },
+    {
+      "name": "Tyler Davis",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 35
+    },
+    {
+      "name": "Tyler Higbee",
+      "team": "LAR",
+      "roles": [
+        "RECEIVER",
+        "SCORING_PLAYER"
+      ],
+      "events": 45
+    },
+    {
+      "name": "Tyree Wilson",
+      "team": "KC",
+      "roles": [
+        "SCORING_PLAYER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Walter Nolen III",
+      "team": "ARI",
+      "roles": [
+        "DEFENDER",
+        "SCORING_PLAYER"
+      ],
+      "events": 12
+    },
+    {
+      "name": "Xavier Smith",
+      "team": "LAR",
+      "roles": [
+        "DEFENDER",
+        "RECEIVER",
+        "RUSHER"
+      ],
+      "events": 101
+    },
+    {
+      "name": "Zach Bako-Bewele",
+      "team": "GB",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 1
+    },
+    {
+      "name": "Zach Carter",
+      "team": "ARI",
+      "roles": [
+        "DEFENDER"
+      ],
+      "events": 11
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "every-snap",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "data:build": "python3 pipeline/clean.py && python3 pipeline/aggregate.py && python3 pipeline/validate.py",
+    "data:enrich": "python3 pipeline/enrich.py"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^9.8.1",
+    "@types/three": "^0.186.0",
+    "next": "15.5.9",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "eventRows": 59415,
+  "games": 285,
+  "teams": 32,
+  "superBowl": {
+    "id": "2879596",
+    "date": "02-08-2026",
+    "type": "Super Bowl",
+    "week": null,
+    "home": "",
+    "away": "",
+    "offense": "NE",
+    "defense": "Sea",
+    "offenseScore": 13,
+    "defenseScore": 29,
+    "events": 230,
+    "countedPlays": 226
+  },
+  "status": "passed",
+  "caveat": "PLAY_CNTS includes special-teams events; it is not an offensive snap total."
+}
