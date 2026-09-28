@@ -42,7 +42,7 @@ npm run build && npm start
 npm run test:e2e
 ```
 
-GitHub Actions builds the app, runs 23 data/SQL checks, desktop/mobile Playwright and accessibility checks, then enforces landing Lighthouse performance >=85. Reports are uploaded as workflow artifacts. Local Chromium automation may be blocked by macOS sandbox policy; a skipped or blocked browser run is not a pass.
+GitHub Actions builds the app, runs 24 data/SQL checks, desktop/mobile Playwright and accessibility checks, then enforces landing Lighthouse performance >=85. Reports are uploaded as workflow artifacts. Local Chromium automation may be blocked by macOS sandbox policy; a skipped or blocked browser run is not a pass.
 
 ## Deployment and scope
 

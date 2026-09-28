@@ -42,7 +42,7 @@
     }
   },
   {
-    "title": "WILD CARD PLAYOFF",
+    "title": "WILD CARD",
     "subtitle": "Win and keep moving.",
     "games": 6,
     "plays": 774,
@@ -56,7 +56,7 @@
     }
   },
   {
-    "title": "DIVISIONAL PLAYOFF",
+    "title": "DIVISIONAL",
     "subtitle": "Win and keep moving.",
     "games": 4,
     "plays": 552,
@@ -72,11 +72,16 @@
   {
     "title": "CONFERENCE CHAMPIONSHIP",
     "subtitle": "Win and keep moving.",
-    "games": 0,
-    "plays": 0,
-    "yards": 0,
-    "points": 0,
-    "best": null
+    "games": 2,
+    "plays": 245,
+    "yards": 1293,
+    "points": 75,
+    "best": {
+      "gameId": "2879594",
+      "team": "DEN",
+      "yards": 52,
+      "event": "Pass Completion"
+    }
   },
   {
     "title": "SUPER BOWL",

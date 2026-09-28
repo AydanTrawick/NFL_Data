@@ -93,11 +93,13 @@ def main():
  high=[p for p in players if p['touches']>=50];missing=[{'name':p['name'],'team':p['team'],'touches':p['touches']} for p in high if not p['headshotUrl']]
  publish_json('touch_match_report.json',{'playersWith50PlusTouches':len(high),'matched':len(high)-len(missing),'coverage':round((len(high)-len(missing))/max(1,len(high)),4),'unmatched':missing,'definition':'Counted rush attempts + completed receptions; returns excluded.'})
  dates=pd.to_datetime(d.GAME_DATE,format='%m-%d-%Y');stages=[('OPENING WEEK','The first statement.',(dates<'2025-09-10')),('MIDSEASON','The league takes shape.',(dates>='2025-09-10')&(dates<'2025-11-01')),('PLAYOFF RACE','Every yard matters.',(dates>='2025-11-01')&(d.GAME_TYPE_DESC=='Regular Season'))]
- for typ in ['Wild Card','Divisional Playoff','Conference Championship','Super Bowl']:
-  actual=next((x for x in d.GAME_TYPE_DESC.unique() if typ.lower().split()[0] in x.lower()),typ);stages.append((actual.upper(),'Win and keep moving.',d.GAME_TYPE_DESC.eq(actual)))
+ for typ,title in [('Wild Card Playoff','WILD CARD'),('Divisional Playoff','DIVISIONAL'),('Conf. Championship','CONFERENCE CHAMPIONSHIP'),('Super Bowl','SUPER BOWL')]:
+  assert typ in set(d.GAME_TYPE_DESC),f'Missing postseason type: {typ}'
+  stages.append((title,'Win and keep moving.',d.GAME_TYPE_DESC.eq(typ)))
  for title,subtitle,mask in stages:
   g=d[mask];ids=set(g.GAME_CODE.astype(str));v=valid[valid.GAME_CODE.isin(ids)];best=v.loc[num(v,'YD_GAINED').idxmax()] if len(v) else None
   chapters.append({'title':title,'subtitle':subtitle,'games':len(ids),'plays':len(v),'yards':int(num(v,'YD_GAINED').sum()),'points':sum(s['points'] for s in scored if s['gameId'] in ids),'best':None if best is None else {'gameId':str(best.GAME_CODE),'team':best.team,'yards':n(best.YD_GAINED),'event':best.EVENT_NAME}})
+ assert sum(c['games'] for c in chapters)==len(games),'Chapters must cover all games'
  publish_json('chapters.json',chapters)
  md=json.loads((PUBLIC/'metadata.json').read_text());md.update({'offensivePlays':len(valid),'offensiveYards':int(num(valid,'YD_GAINED').sum()),'touchdowns':sum(s['points']==6 for s in scored),'scoringEvents':len(scored)});publish_json('metadata.json',md)
  # Only aggregate tables enter the deployable Film Room database.
