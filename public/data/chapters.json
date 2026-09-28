@@ -1,0 +1,95 @@
+[
+  {
+    "title": "OPENING WEEK",
+    "subtitle": "The first statement.",
+    "games": 16,
+    "plays": 1942,
+    "yards": 10233,
+    "points": 661,
+    "best": {
+      "gameId": "2879328",
+      "team": "JAX",
+      "yards": 71,
+      "event": "Run"
+    }
+  },
+  {
+    "title": "MIDSEASON",
+    "subtitle": "The league takes shape.",
+    "games": 106,
+    "plays": 12954,
+    "yards": 72374,
+    "points": 5000,
+    "best": {
+      "gameId": "2879546",
+      "team": "LAR",
+      "yards": 88,
+      "event": "Pass Completion"
+    }
+  },
+  {
+    "title": "PLAYOFF RACE",
+    "subtitle": "Every yard matters.",
+    "games": 150,
+    "plays": 18429,
+    "yards": 100389,
+    "points": 6858,
+    "best": {
+      "gameId": "2879470",
+      "team": "ATL",
+      "yards": 93,
+      "event": "Run"
+    }
+  },
+  {
+    "title": "WILD CARD PLAYOFF",
+    "subtitle": "Win and keep moving.",
+    "games": 6,
+    "plays": 774,
+    "yards": 4299,
+    "points": 271,
+    "best": {
+      "gameId": "2879583",
+      "team": "SF",
+      "yards": 61,
+      "event": "Pass Completion"
+    }
+  },
+  {
+    "title": "DIVISIONAL PLAYOFF",
+    "subtitle": "Win and keep moving.",
+    "games": 4,
+    "plays": 552,
+    "yards": 2761,
+    "points": 191,
+    "best": {
+      "gameId": "2879588",
+      "team": "BUF",
+      "yards": 46,
+      "event": "Pass Completion"
+    }
+  },
+  {
+    "title": "CONFERENCE CHAMPIONSHIP",
+    "subtitle": "Win and keep moving.",
+    "games": 0,
+    "plays": 0,
+    "yards": 0,
+    "points": 0,
+    "best": null
+  },
+  {
+    "title": "SUPER BOWL",
+    "subtitle": "Win and keep moving.",
+    "games": 1,
+    "plays": 138,
+    "yards": 684,
+    "points": 42,
+    "best": {
+      "gameId": "2879596",
+      "team": "NE",
+      "yards": 35,
+      "event": "Pass Completion"
+    }
+  }
+]

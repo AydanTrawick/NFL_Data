@@ -14,3 +14,8 @@ __pycache__/
 !.env.example
 .vercel/
 work/
+playwright-report/
+test-results/
+coverage/
+
+lighthouse.json

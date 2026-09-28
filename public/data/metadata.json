@@ -3,7 +3,7 @@
   "columnsRetained": 216,
   "uniqueEventIds": 59415,
   "countedEvents": 56697,
-  "scoringEvents": 3888,
+  "scoringEvents": 3777,
   "countedEventsPerGame": {
     "min": 153,
     "max": 261
@@ -28,5 +28,8 @@
     "defenseScore": 29,
     "events": 230,
     "countedPlays": 226
-  }
+  },
+  "offensivePlays": 35034,
+  "offensiveYards": 192033,
+  "touchdowns": 1459
 }

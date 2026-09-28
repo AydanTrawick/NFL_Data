@@ -1,0 +1,4592 @@
+{
+  "2879178": {
+    "stadiumId": "PHI00",
+    "stadium": "Lincoln Financial Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-05T00:20:00+00:00",
+    "weather": {
+      "temperatureF": 74.2,
+      "windMph": 6.3,
+      "precipitationMm": 0.3,
+      "hourUTC": "2025-09-05T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772510",
+    "lat": 39.9009099,
+    "lon": -75.167489156059
+  },
+  "2879222": {
+    "stadiumId": "WAS00",
+    "stadium": "FedExField",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-20T22:00:00+00:00",
+    "weather": {
+      "temperatureF": 39.1,
+      "windMph": 7.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-20T22:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772612",
+    "lat": 38.9077002,
+    "lon": -76.8633260869022
+  },
+  "2879223": {
+    "stadiumId": "CHI98",
+    "stadium": "Soldier Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-21T01:20:00+00:00",
+    "weather": {
+      "temperatureF": 36.0,
+      "windMph": 14.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-21T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772613",
+    "lat": 41.86245145,
+    "lon": -87.6167151470407
+  },
+  "2879224": {
+    "stadiumId": "KAN00",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-26T01:15:00+00:00",
+    "weather": {
+      "temperatureF": 63.7,
+      "windMph": 11.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-26T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772622",
+    "lat": 39.04894045,
+    "lon": -94.4849938110271
+  },
+  "2879225": {
+    "stadiumId": "PHI00",
+    "stadium": "Lincoln Financial Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-28T20:00:00+00:00",
+    "weather": {
+      "temperatureF": 41.2,
+      "windMph": 16.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-28T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772621",
+    "lat": 39.9009099,
+    "lon": -75.167489156059
+  },
+  "2879236": {
+    "stadiumId": "ESPN4737",
+    "stadium": "Croke Park",
+    "roof": "unknown",
+    "isDome": false,
+    "kickoff": "2025-09-28T13:30:00+00:00",
+    "weather": {
+      "temperatureF": 58.6,
+      "windMph": 2.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-28T14:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772632",
+    "lat": 53.360695,
+    "lon": -6.251373
+  },
+  "2879237": {
+    "stadiumId": "ESPN5534",
+    "stadium": "Tottenham Hotspur Stadium",
+    "roof": "unknown",
+    "isDome": false,
+    "kickoff": "2025-10-05T13:30:00+00:00",
+    "weather": {
+      "temperatureF": 59.8,
+      "windMph": 15.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-05T14:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772633",
+    "lat": 51.6041916,
+    "lon": -0.066234905259181
+  },
+  "2879238": {
+    "stadiumId": "ESPN5534",
+    "stadium": "Tottenham Hotspur Stadium",
+    "roof": "unknown",
+    "isDome": false,
+    "kickoff": "2025-10-12T13:30:00+00:00",
+    "weather": {
+      "temperatureF": 58.7,
+      "windMph": 5.9,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-12T14:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772634",
+    "lat": 51.6041916,
+    "lon": -0.066234905259181
+  },
+  "2879239": {
+    "stadiumId": "ESPN2455",
+    "stadium": "Wembley Stadium",
+    "roof": "unknown",
+    "isDome": false,
+    "kickoff": "2025-10-19T13:30:00+00:00",
+    "weather": {
+      "temperatureF": 59.0,
+      "windMph": 10.2,
+      "precipitationMm": 0.2,
+      "hourUTC": "2025-10-19T14:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772635",
+    "lat": 51.55606945,
+    "lon": -0.279603393794014
+  },
+  "2879240": {
+    "stadiumId": "ESPN7696",
+    "stadium": "Olympic Stadium Berlin",
+    "roof": "unknown",
+    "isDome": false,
+    "kickoff": "2025-11-09T14:30:00+00:00",
+    "weather": {
+      "temperatureF": 45.1,
+      "windMph": 0.7,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-09T15:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772636",
+    "lat": 52.514722,
+    "lon": 13.239444
+  },
+  "2879241": {
+    "stadiumId": "ESPN1353",
+    "stadium": "Santiago Bernabéu",
+    "roof": "unknown",
+    "isDome": false,
+    "kickoff": "2025-11-16T14:30:00+00:00",
+    "weather": {
+      "temperatureF": 55.0,
+      "windMph": 10.9,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-16T15:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772631",
+    "lat": 40.453054,
+    "lon": -3.688347
+  },
+  "2879242": {
+    "stadiumId": "GNB00",
+    "stadium": "Lambeau Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-11T01:15:00+00:00",
+    "weather": {
+      "temperatureF": 31.0,
+      "windMph": 8.7,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-11T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772630",
+    "lat": 44.50095825,
+    "lon": -88.0610340437601
+  },
+  "2879287": {
+    "stadiumId": "DAL00",
+    "stadium": "AT&T Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-11-27T21:30:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772694",
+    "lat": 32.74785025,
+    "lon": -97.0928337073774
+  },
+  "2879291": {
+    "stadiumId": "WAS00",
+    "stadium": "FedExField",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-25T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 51.4,
+      "windMph": 5.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-25T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772710",
+    "lat": 38.9077002,
+    "lon": -76.8633260869022
+  },
+  "2879292": {
+    "stadiumId": "MIN01",
+    "stadium": "U.S. Bank Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-12-25T21:30:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772711",
+    "lat": 44.9749861,
+    "lon": -93.2598737
+  },
+  "2879296": {
+    "stadiumId": "ESPN8748",
+    "stadium": "Corinthians Arena",
+    "roof": "unknown",
+    "isDome": false,
+    "kickoff": "2025-09-06T00:00:00+00:00",
+    "weather": {
+      "temperatureF": 60.1,
+      "windMph": 6.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-06T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772714",
+    "lat": -23.545531,
+    "lon": -46.473373
+  },
+  "2879297": {
+    "stadiumId": "HOU00",
+    "stadium": "NRG Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-11-21T01:15:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772946",
+    "lat": 29.6848581,
+    "lon": -95.4108014532699
+  },
+  "2879298": {
+    "stadiumId": "BAL00",
+    "stadium": "M&T Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-23T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 56.6,
+      "windMph": 6.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-23T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772782",
+    "lat": 39.2779664,
+    "lon": -76.6238093083547
+  },
+  "2879299": {
+    "stadiumId": "LAX01",
+    "stadium": "SoFi Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-10-03T00:15:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772939",
+    "lat": 33.95354625,
+    "lon": -118.338793383194
+  },
+  "2879300": {
+    "stadiumId": "CHI98",
+    "stadium": "Soldier Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-23T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 50.2,
+      "windMph": 3.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-23T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772780",
+    "lat": 41.86245145,
+    "lon": -87.6167151470407
+  },
+  "2879301": {
+    "stadiumId": "BOS00",
+    "stadium": "Gillette Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-07T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 61.5,
+      "windMph": 7.5,
+      "precipitationMm": 1.9,
+      "hourUTC": "2025-09-07T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772720",
+    "lat": 42.0912526,
+    "lon": -71.2644646105907
+  },
+  "2879302": {
+    "stadiumId": "NYC01",
+    "stadium": "MetLife Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-07T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 65.7,
+      "windMph": 3.6,
+      "precipitationMm": 0.6,
+      "hourUTC": "2025-09-07T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772721",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118
+  },
+  "2879303": {
+    "stadiumId": "CIN00",
+    "stadium": "Paycor Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-23T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 53.5,
+      "windMph": 3.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-23T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772781",
+    "lat": 39.0954645,
+    "lon": -84.5160488350198
+  },
+  "2879304": {
+    "stadiumId": "BAL00",
+    "stadium": "M&T Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-05T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 75.2,
+      "windMph": 3.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-05T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772743",
+    "lat": 39.2779664,
+    "lon": -76.6238093083547
+  },
+  "2879305": {
+    "stadiumId": "DET00",
+    "stadium": "Ford Field",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-11-23T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772888",
+    "lat": 42.33995675,
+    "lon": -83.045616574037
+  },
+  "2879306": {
+    "stadiumId": "CAR00",
+    "stadium": "Bank of America Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-05T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 77.3,
+      "windMph": 7.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-05T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772852",
+    "lat": 35.225737,
+    "lon": -80.8536869740441
+  },
+  "2879307": {
+    "stadiumId": "TAM00",
+    "stadium": "Raymond James Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-12T01:15:00+00:00",
+    "weather": {
+      "temperatureF": 55.9,
+      "windMph": 4.0,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-12T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772948",
+    "lat": 27.97597925,
+    "lon": -82.5042179967362
+  },
+  "2879308": {
+    "stadiumId": "GNB00",
+    "stadium": "Lambeau Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-23T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 45.1,
+      "windMph": 8.0,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-23T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772887",
+    "lat": 44.50095825,
+    "lon": -88.0610340437601
+  },
+  "2879309": {
+    "stadiumId": "IND00",
+    "stadium": "Lucas Oil Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-10-05T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772851",
+    "lat": 39.760085,
+    "lon": -86.1637037946731
+  },
+  "2879310": {
+    "stadiumId": "ATL97",
+    "stadium": "Mercedes-Benz Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-09-07T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772830",
+    "lat": 33.75539625,
+    "lon": -84.4008156749447
+  },
+  "2879311": {
+    "stadiumId": "CHI98",
+    "stadium": "Soldier Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-14T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 5.9,
+      "windMph": 9.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-14T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772904",
+    "lat": 41.86245145,
+    "lon": -87.6167151470407
+  },
+  "2879312": {
+    "stadiumId": "KAN00",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-23T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 55.5,
+      "windMph": 3.7,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-23T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772779",
+    "lat": 39.04894045,
+    "lon": -94.4849938110271
+  },
+  "2879314": {
+    "stadiumId": "NOR00",
+    "stadium": "Mercedes-Benz Superdome",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-10-05T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772744",
+    "lat": 29.9510489,
+    "lon": -90.082307625389
+  },
+  "2879315": {
+    "stadiumId": "IND00",
+    "stadium": "Lucas Oil Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-09-07T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772719",
+    "lat": 39.760085,
+    "lon": -86.1637037946731
+  },
+  "2879316": {
+    "stadiumId": "NAS00",
+    "stadium": "Nissan Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-23T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 59.1,
+      "windMph": 0.7,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-23T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772886",
+    "lat": 36.16649655,
+    "lon": -86.7712644420847
+  },
+  "2879317": {
+    "stadiumId": "CIN00",
+    "stadium": "Paycor Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-14T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 8.3,
+      "windMph": 7.7,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-14T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772796",
+    "lat": 39.0954645,
+    "lon": -84.5160488350198
+  },
+  "2879318": {
+    "stadiumId": "NYC01",
+    "stadium": "MetLife Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-05T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 81.8,
+      "windMph": 2.0,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-05T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772850",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118
+  },
+  "2879319": {
+    "stadiumId": "NOR00",
+    "stadium": "Mercedes-Benz Superdome",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-09-07T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772718",
+    "lat": 29.9510489,
+    "lon": -90.082307625389
+  },
+  "2879320": {
+    "stadiumId": "PHI00",
+    "stadium": "Lincoln Financial Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-05T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 80.2,
+      "windMph": 3.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-05T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772745",
+    "lat": 39.9009099,
+    "lon": -75.167489156059
+  },
+  "2879321": {
+    "stadiumId": "PHO00",
+    "stadium": "State Farm Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-11-23T21:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772783",
+    "lat": 33.52770765,
+    "lon": -112.262564902643
+  },
+  "2879322": {
+    "stadiumId": "HOU00",
+    "stadium": "NRG Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-12-14T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772903",
+    "lat": 29.6848581,
+    "lon": -95.4108014532699
+  },
+  "2879323": {
+    "stadiumId": "PHO00",
+    "stadium": "State Farm Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-10-05T20:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772747",
+    "lat": 33.52770765,
+    "lon": -112.262564902643
+  },
+  "2879324": {
+    "stadiumId": "WAS00",
+    "stadium": "FedExField",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-07T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 68.8,
+      "windMph": 4.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-07T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772827",
+    "lat": 38.9077002,
+    "lon": -76.8633260869022
+  },
+  "2879325": {
+    "stadiumId": "VEG00",
+    "stadium": "Allegiant Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-11-23T21:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772784",
+    "lat": 36.09083455,
+    "lon": -115.182477977026
+  },
+  "2879326": {
+    "stadiumId": "JAX00",
+    "stadium": "TIAA Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-14T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 73.1,
+      "windMph": 8.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-14T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772797",
+    "lat": 30.32398105,
+    "lon": -81.6373045703404
+  },
+  "2879327": {
+    "stadiumId": "SEA00",
+    "stadium": "Lumen Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-05T20:05:00+00:00",
+    "weather": {
+      "temperatureF": 59.4,
+      "windMph": 9.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-05T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772746",
+    "lat": 47.5953459,
+    "lon": -122.331644311961
+  },
+  "2879328": {
+    "stadiumId": "JAX00",
+    "stadium": "TIAA Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-07T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 80.2,
+      "windMph": 1.2,
+      "precipitationMm": 0.2,
+      "hourUTC": "2025-09-07T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772828",
+    "lat": 30.32398105,
+    "lon": -81.6373045703404
+  },
+  "2879329": {
+    "stadiumId": "DAL00",
+    "stadium": "AT&T Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-11-23T21:25:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772890",
+    "lat": 32.74785025,
+    "lon": -97.0928337073774
+  },
+  "2879331": {
+    "stadiumId": "CIN00",
+    "stadium": "Paycor Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-05T20:25:00+00:00",
+    "weather": {
+      "temperatureF": 82.0,
+      "windMph": 6.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-05T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772854",
+    "lat": 39.0954645,
+    "lon": -84.5160488350198
+  },
+  "2879332": {
+    "stadiumId": "NOR00",
+    "stadium": "Mercedes-Benz Superdome",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-11-23T21:25:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772889",
+    "lat": 29.9510489,
+    "lon": -90.082307625389
+  },
+  "2879333": {
+    "stadiumId": "CLE00",
+    "stadium": "FirstEnergy Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-07T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 61.1,
+      "windMph": 8.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-07T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772829",
+    "lat": 41.5060559,
+    "lon": -81.6997118452595
+  },
+  "2879334": {
+    "stadiumId": "KAN00",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-14T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 18.3,
+      "windMph": 1.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-14T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772798",
+    "lat": 39.04894045,
+    "lon": -94.4849938110271
+  },
+  "2879335": {
+    "stadiumId": "LAX01",
+    "stadium": "SoFi Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-10-05T20:25:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772853",
+    "lat": 33.95354625,
+    "lon": -118.338793383194
+  },
+  "2879336": {
+    "stadiumId": "LAX01",
+    "stadium": "SoFi Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-11-24T01:20:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772929",
+    "lat": 33.95354625,
+    "lon": -118.338793383194
+  },
+  "2879337": {
+    "stadiumId": "BOS00",
+    "stadium": "Gillette Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-14T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 31.6,
+      "windMph": 9.7,
+      "precipitationMm": 0.4,
+      "hourUTC": "2025-12-14T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772795",
+    "lat": 42.0912526,
+    "lon": -71.2644646105907
+  },
+  "2879338": {
+    "stadiumId": "DEN00",
+    "stadium": "Empower Field at Mile High",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-07T20:05:00+00:00",
+    "weather": {
+      "temperatureF": 82.3,
+      "windMph": 1.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-07T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772832",
+    "lat": 39.743952,
+    "lon": -105.019222812368
+  },
+  "2879339": {
+    "stadiumId": "BUF00",
+    "stadium": "New Era Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-06T00:20:00+00:00",
+    "weather": {
+      "temperatureF": 72.1,
+      "windMph": 2.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-06T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772922",
+    "lat": 42.7737131,
+    "lon": -78.7869032106025
+  },
+  "2879340": {
+    "stadiumId": "SFO01",
+    "stadium": "Levi's Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-25T01:15:00+00:00",
+    "weather": {
+      "temperatureF": 54.3,
+      "windMph": 2.9,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-25T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772820",
+    "lat": 37.40303995,
+    "lon": -121.969681705055
+  },
+  "2879341": {
+    "stadiumId": "NYC01",
+    "stadium": "MetLife Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-14T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 27.5,
+      "windMph": 10.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-14T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772905",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118
+  },
+  "2879342": {
+    "stadiumId": "JAX00",
+    "stadium": "TIAA Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-07T00:15:00+00:00",
+    "weather": {
+      "temperatureF": 77.7,
+      "windMph": 10.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-07T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772814",
+    "lat": 30.32398105,
+    "lon": -81.6373045703404
+  },
+  "2879343": {
+    "stadiumId": "SEA00",
+    "stadium": "Lumen Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-07T20:05:00+00:00",
+    "weather": {
+      "temperatureF": 68.5,
+      "windMph": 5.7,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-07T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772831",
+    "lat": 47.5953459,
+    "lon": -122.331644311961
+  },
+  "2879344": {
+    "stadiumId": "PHI00",
+    "stadium": "Lincoln Financial Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-14T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 27.1,
+      "windMph": 12.7,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-14T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772906",
+    "lat": 39.9009099,
+    "lon": -75.167489156059
+  },
+  "2879345": {
+    "stadiumId": "DEN00",
+    "stadium": "Empower Field at Mile High",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-14T21:25:00+00:00",
+    "weather": {
+      "temperatureF": 57.4,
+      "windMph": 1.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-14T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772800",
+    "lat": 39.743952,
+    "lon": -105.019222812368
+  },
+  "2879346": {
+    "stadiumId": "GNB00",
+    "stadium": "Lambeau Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-07T20:25:00+00:00",
+    "weather": {
+      "temperatureF": 62.7,
+      "windMph": 6.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-07T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772722",
+    "lat": 44.50095825,
+    "lon": -88.0610340437601
+  },
+  "2879347": {
+    "stadiumId": "NYC01",
+    "stadium": "MetLife Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-10T00:15:00+00:00",
+    "weather": {
+      "temperatureF": 52.1,
+      "windMph": 5.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-10T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772940",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118
+  },
+  "2879348": {
+    "stadiumId": "DET00",
+    "stadium": "Ford Field",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-11-27T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772891",
+    "lat": 42.33995675,
+    "lon": -83.045616574037
+  },
+  "2879349": {
+    "stadiumId": "LAX01",
+    "stadium": "SoFi Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-12-14T21:25:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772909",
+    "lat": 33.95354625,
+    "lon": -118.338793383194
+  },
+  "2879350": {
+    "stadiumId": "LAX01",
+    "stadium": "SoFi Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-09-07T20:25:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772723",
+    "lat": 33.95354625,
+    "lon": -118.338793383194
+  },
+  "2879351": {
+    "stadiumId": "BAL00",
+    "stadium": "M&T Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-12T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 65.9,
+      "windMph": 13.4,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-12T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772855",
+    "lat": 39.2779664,
+    "lon": -76.6238093083547
+  },
+  "2879352": {
+    "stadiumId": "BAL00",
+    "stadium": "M&T Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-28T01:20:00+00:00",
+    "weather": {
+      "temperatureF": 36.9,
+      "windMph": 8.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-28T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772930",
+    "lat": 39.2779664,
+    "lon": -76.6238093083547
+  },
+  "2879353": {
+    "stadiumId": "NOR00",
+    "stadium": "Mercedes-Benz Superdome",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-12-14T21:25:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772908",
+    "lat": 29.9510489,
+    "lon": -90.082307625389
+  },
+  "2879354": {
+    "stadiumId": "CAR00",
+    "stadium": "Bank of America Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-12T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 66.9,
+      "windMph": 15.4,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-12T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772858",
+    "lat": 35.225737,
+    "lon": -80.8536869740441
+  },
+  "2879355": {
+    "stadiumId": "SEA00",
+    "stadium": "Lumen Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-14T21:25:00+00:00",
+    "weather": {
+      "temperatureF": 53.6,
+      "windMph": 8.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-14T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772799",
+    "lat": 47.5953459,
+    "lon": -122.331644311961
+  },
+  "2879356": {
+    "stadiumId": "CAR00",
+    "stadium": "Bank of America Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-30T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 44.0,
+      "windMph": 3.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-30T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772894",
+    "lat": 35.225737,
+    "lon": -80.8536869740441
+  },
+  "2879357": {
+    "stadiumId": "IND00",
+    "stadium": "Lucas Oil Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-10-12T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772856",
+    "lat": 39.760085,
+    "lon": -86.1637037946731
+  },
+  "2879358": {
+    "stadiumId": "SFO01",
+    "stadium": "Levi's Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-14T21:25:00+00:00",
+    "weather": {
+      "temperatureF": 51.2,
+      "windMph": 3.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-14T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772907",
+    "lat": 37.40303995,
+    "lon": -121.969681705055
+  },
+  "2879359": {
+    "stadiumId": "BUF00",
+    "stadium": "New Era Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-08T00:20:00+00:00",
+    "weather": {
+      "temperatureF": 59.7,
+      "windMph": 8.4,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-08T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772918",
+    "lat": 42.7737131,
+    "lon": -78.7869032106025
+  },
+  "2879360": {
+    "stadiumId": "CLE00",
+    "stadium": "FirstEnergy Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-30T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 34.7,
+      "windMph": 24.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-30T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772785",
+    "lat": 41.5060559,
+    "lon": -81.6997118452595
+  },
+  "2879361": {
+    "stadiumId": "JAX00",
+    "stadium": "TIAA Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-12T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 75.2,
+      "windMph": 8.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-12T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772857",
+    "lat": 30.32398105,
+    "lon": -81.6373045703404
+  },
+  "2879362": {
+    "stadiumId": "DAL00",
+    "stadium": "AT&T Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-12-15T01:20:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772933",
+    "lat": 32.74785025,
+    "lon": -97.0928337073774
+  },
+  "2879363": {
+    "stadiumId": "IND00",
+    "stadium": "Lucas Oil Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-11-30T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772787",
+    "lat": 39.760085,
+    "lon": -86.1637037946731
+  },
+  "2879364": {
+    "stadiumId": "MIA00",
+    "stadium": "Hard Rock Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-12T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 81.5,
+      "windMph": 0.9,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-12T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772750",
+    "lat": 25.95790315,
+    "lon": -80.2388497396752
+  },
+  "2879365": {
+    "stadiumId": "PIT00",
+    "stadium": "Acrisure Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-16T01:15:00+00:00",
+    "weather": {
+      "temperatureF": 15.4,
+      "windMph": 5.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-16T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772823",
+    "lat": 40.44671645,
+    "lon": -80.0157549334943
+  },
+  "2879366": {
+    "stadiumId": "MIA00",
+    "stadium": "Hard Rock Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-30T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 76.2,
+      "windMph": 9.1,
+      "precipitationMm": 0.9,
+      "hourUTC": "2025-11-30T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772892",
+    "lat": 25.95790315,
+    "lon": -80.2388497396752
+  },
+  "2879367": {
+    "stadiumId": "PIT00",
+    "stadium": "Acrisure Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-12T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 64.9,
+      "windMph": 8.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-12T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772748",
+    "lat": 40.44671645,
+    "lon": -80.0157549334943
+  },
+  "2879368": {
+    "stadiumId": "NYC01",
+    "stadium": "MetLife Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-30T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 38.7,
+      "windMph": 7.1,
+      "precipitationMm": 0.6,
+      "hourUTC": "2025-11-30T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772893",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118
+  },
+  "2879369": {
+    "stadiumId": "TAM00",
+    "stadium": "Raymond James Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-12T20:25:00+00:00",
+    "weather": {
+      "temperatureF": 82.6,
+      "windMph": 7.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-12T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772749",
+    "lat": 27.97597925,
+    "lon": -82.5042179967362
+  },
+  "2879370": {
+    "stadiumId": "TAM00",
+    "stadium": "Raymond James Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-30T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 82.2,
+      "windMph": 5.7,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-30T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772895",
+    "lat": 27.97597925,
+    "lon": -82.5042179967362
+  },
+  "2879371": {
+    "stadiumId": "MIA00",
+    "stadium": "Hard Rock Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-31T00:15:00+00:00",
+    "weather": {
+      "temperatureF": 69.8,
+      "windMph": 3.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-31T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772943",
+    "lat": 25.95790315,
+    "lon": -80.2388497396752
+  },
+  "2879372": {
+    "stadiumId": "SEA00",
+    "stadium": "Lumen Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-19T01:15:00+00:00",
+    "weather": {
+      "temperatureF": 52.0,
+      "windMph": 21.4,
+      "precipitationMm": 0.1,
+      "hourUTC": "2025-12-19T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772949",
+    "lat": 47.5953459,
+    "lon": -122.331644311961
+  },
+  "2879373": {
+    "stadiumId": "NAS00",
+    "stadium": "Nissan Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-30T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 41.9,
+      "windMph": 7.0,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-30T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772786",
+    "lat": 36.16649655,
+    "lon": -86.7712644420847
+  },
+  "2879374": {
+    "stadiumId": "VEG00",
+    "stadium": "Allegiant Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-10-12T20:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772859",
+    "lat": 36.09083455,
+    "lon": -115.182477977026
+  },
+  "2879375": {
+    "stadiumId": "GNB00",
+    "stadium": "Lambeau Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-12T00:15:00+00:00",
+    "weather": {
+      "temperatureF": 66.4,
+      "windMph": 5.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-12T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772936",
+    "lat": 44.50095825,
+    "lon": -88.0610340437601
+  },
+  "2879376": {
+    "stadiumId": "CIN00",
+    "stadium": "Paycor Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-02T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 47.7,
+      "windMph": 1.7,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-02T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772765",
+    "lat": 39.0954645,
+    "lon": -84.5160488350198
+  },
+  "2879377": {
+    "stadiumId": "SEA00",
+    "stadium": "Lumen Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-30T21:05:00+00:00",
+    "weather": {
+      "temperatureF": 44.2,
+      "windMph": 2.9,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-30T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772896",
+    "lat": 47.5953459,
+    "lon": -122.331644311961
+  },
+  "2879378": {
+    "stadiumId": "GNB00",
+    "stadium": "Lambeau Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-12T20:25:00+00:00",
+    "weather": {
+      "temperatureF": 63.3,
+      "windMph": 10.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-12T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772752",
+    "lat": 44.50095825,
+    "lon": -88.0610340437601
+  },
+  "2879379": {
+    "stadiumId": "DET00",
+    "stadium": "Ford Field",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-11-02T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772871",
+    "lat": 42.33995675,
+    "lon": -83.045616574037
+  },
+  "2879380": {
+    "stadiumId": "LAX01",
+    "stadium": "SoFi Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-11-30T21:25:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772788",
+    "lat": 33.95354625,
+    "lon": -118.338793383194
+  },
+  "2879381": {
+    "stadiumId": "BAL00",
+    "stadium": "M&T Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-14T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 79.9,
+      "windMph": 3.4,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-14T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772726",
+    "lat": 39.2779664,
+    "lon": -76.6238093083547
+  },
+  "2879382": {
+    "stadiumId": "BAL00",
+    "stadium": "M&T Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-22T01:20:00+00:00",
+    "weather": {
+      "temperatureF": 35.4,
+      "windMph": 5.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-22T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772804",
+    "lat": 39.2779664,
+    "lon": -76.6238093083547
+  },
+  "2879383": {
+    "stadiumId": "NOR00",
+    "stadium": "Mercedes-Benz Superdome",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-10-12T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772751",
+    "lat": 29.9510489,
+    "lon": -90.082307625389
+  },
+  "2879384": {
+    "stadiumId": "PIT00",
+    "stadium": "Acrisure Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-30T21:25:00+00:00",
+    "weather": {
+      "temperatureF": 34.3,
+      "windMph": 13.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-30T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772789",
+    "lat": 40.44671645,
+    "lon": -80.0157549334943
+  },
+  "2879385": {
+    "stadiumId": "GNB00",
+    "stadium": "Lambeau Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-02T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 47.4,
+      "windMph": 10.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-02T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772872",
+    "lat": 44.50095825,
+    "lon": -88.0610340437601
+  },
+  "2879386": {
+    "stadiumId": "KAN00",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-13T00:20:00+00:00",
+    "weather": {
+      "temperatureF": 79.5,
+      "windMph": 9.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-13T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772923",
+    "lat": 39.04894045,
+    "lon": -94.4849938110271
+  },
+  "2879387": {
+    "stadiumId": "CAR00",
+    "stadium": "Bank of America Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-21T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 59.6,
+      "windMph": 7.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-21T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772912",
+    "lat": 35.225737,
+    "lon": -80.8536869740441
+  },
+  "2879388": {
+    "stadiumId": "WAS00",
+    "stadium": "FedExField",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-01T01:20:00+00:00",
+    "weather": {
+      "temperatureF": 38.7,
+      "windMph": 5.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-01T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772931",
+    "lat": 38.9077002,
+    "lon": -76.8633260869022
+  },
+  "2879389": {
+    "stadiumId": "HOU00",
+    "stadium": "NRG Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-11-02T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772870",
+    "lat": 29.6848581,
+    "lon": -95.4108014532699
+  },
+  "2879390": {
+    "stadiumId": "CLE00",
+    "stadium": "FirstEnergy Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-21T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 28.0,
+      "windMph": 15.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-21T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772802",
+    "lat": 41.5060559,
+    "lon": -81.6997118452595
+  },
+  "2879391": {
+    "stadiumId": "BOS00",
+    "stadium": "Gillette Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-02T01:15:00+00:00",
+    "weather": {
+      "temperatureF": 30.8,
+      "windMph": 6.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-02T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772821",
+    "lat": 42.0912526,
+    "lon": -71.2644646105907
+  },
+  "2879392": {
+    "stadiumId": "ATL97",
+    "stadium": "Mercedes-Benz Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-10-13T23:15:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772815",
+    "lat": 33.75539625,
+    "lon": -84.4008156749447
+  },
+  "2879393": {
+    "stadiumId": "BOS00",
+    "stadium": "Gillette Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-02T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 51.7,
+      "windMph": 7.4,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-02T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772763",
+    "lat": 42.0912526,
+    "lon": -71.2644646105907
+  },
+  "2879394": {
+    "stadiumId": "DAL00",
+    "stadium": "AT&T Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-12-21T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772910",
+    "lat": 32.74785025,
+    "lon": -97.0928337073774
+  },
+  "2879395": {
+    "stadiumId": "WAS00",
+    "stadium": "FedExField",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-14T00:15:00+00:00",
+    "weather": {
+      "temperatureF": 55.8,
+      "windMph": 12.7,
+      "precipitationMm": 0.2,
+      "hourUTC": "2025-10-14T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772717",
+    "lat": 38.9077002,
+    "lon": -76.8633260869022
+  },
+  "2879396": {
+    "stadiumId": "NOR00",
+    "stadium": "Mercedes-Benz Superdome",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-12-21T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772801",
+    "lat": 29.9510489,
+    "lon": -90.082307625389
+  },
+  "2879397": {
+    "stadiumId": "NYC01",
+    "stadium": "MetLife Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-02T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 57.0,
+      "windMph": 4.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-02T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772767",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118
+  },
+  "2879398": {
+    "stadiumId": "CIN00",
+    "stadium": "Paycor Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-17T00:15:00+00:00",
+    "weather": {
+      "temperatureF": 59.4,
+      "windMph": 3.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-17T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772941",
+    "lat": 39.0954645,
+    "lon": -84.5160488350198
+  },
+  "2879399": {
+    "stadiumId": "NYC01",
+    "stadium": "MetLife Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-21T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 45.4,
+      "windMph": 11.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-21T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772911",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118
+  },
+  "2879400": {
+    "stadiumId": "NAS00",
+    "stadium": "Nissan Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-21T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 51.7,
+      "windMph": 7.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-21T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772803",
+    "lat": 36.16649655,
+    "lon": -86.7712644420847
+  },
+  "2879401": {
+    "stadiumId": "PIT00",
+    "stadium": "Acrisure Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-02T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 53.9,
+      "windMph": 1.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-02T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772766",
+    "lat": 40.44671645,
+    "lon": -80.0157549334943
+  },
+  "2879402": {
+    "stadiumId": "CHI98",
+    "stadium": "Soldier Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-19T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 51.5,
+      "windMph": 12.5,
+      "precipitationMm": 0.3,
+      "hourUTC": "2025-10-19T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772861",
+    "lat": 41.86245145,
+    "lon": -87.6167151470407
+  },
+  "2879403": {
+    "stadiumId": "PHO00",
+    "stadium": "State Farm Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-12-21T21:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772914",
+    "lat": 33.52770765,
+    "lon": -112.262564902643
+  },
+  "2879404": {
+    "stadiumId": "DET00",
+    "stadium": "Ford Field",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-12-05T01:15:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772947",
+    "lat": 42.33995675,
+    "lon": -83.045616574037
+  },
+  "2879405": {
+    "stadiumId": "DEN00",
+    "stadium": "Empower Field at Mile High",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-21T21:05:00+00:00",
+    "weather": {
+      "temperatureF": 58.0,
+      "windMph": 2.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-21T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772913",
+    "lat": 39.743952,
+    "lon": -105.019222812368
+  },
+  "2879406": {
+    "stadiumId": "CLE00",
+    "stadium": "FirstEnergy Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-19T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 61.8,
+      "windMph": 18.7,
+      "precipitationMm": 3.3,
+      "hourUTC": "2025-10-19T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772754",
+    "lat": 41.5060559,
+    "lon": -81.6997118452595
+  },
+  "2879407": {
+    "stadiumId": "CHI98",
+    "stadium": "Soldier Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-09T00:15:00+00:00",
+    "weather": {
+      "temperatureF": 65.7,
+      "windMph": 4.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-09T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772810",
+    "lat": 41.86245145,
+    "lon": -87.6167151470407
+  },
+  "2879408": {
+    "stadiumId": "NAS00",
+    "stadium": "Nissan Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-02T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 49.0,
+      "windMph": 4.1,
+      "precipitationMm": 0.2,
+      "hourUTC": "2025-11-02T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772764",
+    "lat": 36.16649655,
+    "lon": -86.7712644420847
+  },
+  "2879409": {
+    "stadiumId": "ATL97",
+    "stadium": "Mercedes-Benz Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-12-07T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772900",
+    "lat": 33.75539625,
+    "lon": -84.4008156749447
+  },
+  "2879410": {
+    "stadiumId": "DET00",
+    "stadium": "Ford Field",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-12-21T21:25:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772806",
+    "lat": 42.33995675,
+    "lon": -83.045616574037
+  },
+  "2879411": {
+    "stadiumId": "KAN00",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-19T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 56.6,
+      "windMph": 8.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-19T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772753",
+    "lat": 39.04894045,
+    "lon": -94.4849938110271
+  },
+  "2879412": {
+    "stadiumId": "HOU00",
+    "stadium": "NRG Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-12-21T21:25:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772805",
+    "lat": 29.6848581,
+    "lon": -95.4108014532699
+  },
+  "2879413": {
+    "stadiumId": "CIN00",
+    "stadium": "Paycor Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-14T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 83.0,
+      "windMph": 3.0,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-14T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772725",
+    "lat": 39.0954645,
+    "lon": -84.5160488350198
+  },
+  "2879414": {
+    "stadiumId": "LAX01",
+    "stadium": "SoFi Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-11-02T21:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772874",
+    "lat": 33.95354625,
+    "lon": -118.338793383194
+  },
+  "2879415": {
+    "stadiumId": "BAL00",
+    "stadium": "M&T Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-07T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 39.7,
+      "windMph": 2.8,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-07T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772791",
+    "lat": 39.2779664,
+    "lon": -76.6238093083547
+  },
+  "2879416": {
+    "stadiumId": "MIN01",
+    "stadium": "U.S. Bank Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-10-19T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772862",
+    "lat": 44.9749861,
+    "lon": -93.2598737
+  },
+  "2879417": {
+    "stadiumId": "MIA00",
+    "stadium": "Hard Rock Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-21T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 80.0,
+      "windMph": 3.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-21T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772934",
+    "lat": 25.95790315,
+    "lon": -80.2388497396752
+  },
+  "2879418": {
+    "stadiumId": "CLE00",
+    "stadium": "FirstEnergy Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-07T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 33.6,
+      "windMph": 6.7,
+      "precipitationMm": 0.1,
+      "hourUTC": "2025-12-07T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772898",
+    "lat": 41.5060559,
+    "lon": -81.6997118452595
+  },
+  "2879419": {
+    "stadiumId": "NYC01",
+    "stadium": "MetLife Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-19T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 69.3,
+      "windMph": 11.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-19T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772860",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118
+  },
+  "2879420": {
+    "stadiumId": "DAL00",
+    "stadium": "AT&T Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-09-14T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772834",
+    "lat": 32.74785025,
+    "lon": -97.0928337073774
+  },
+  "2879421": {
+    "stadiumId": "VEG00",
+    "stadium": "Allegiant Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-11-02T21:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772873",
+    "lat": 36.09083455,
+    "lon": -115.182477977026
+  },
+  "2879422": {
+    "stadiumId": "IND00",
+    "stadium": "Lucas Oil Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-12-23T01:15:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772824",
+    "lat": 39.760085,
+    "lon": -86.1637037946731
+  },
+  "2879423": {
+    "stadiumId": "GNB00",
+    "stadium": "Lambeau Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-07T21:25:00+00:00",
+    "weather": {
+      "temperatureF": 15.3,
+      "windMph": 4.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-07T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772897",
+    "lat": 44.50095825,
+    "lon": -88.0610340437601
+  },
+  "2879424": {
+    "stadiumId": "DET00",
+    "stadium": "Ford Field",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-09-14T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772835",
+    "lat": 42.33995675,
+    "lon": -83.045616574037
+  },
+  "2879425": {
+    "stadiumId": "NAS00",
+    "stadium": "Nissan Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-19T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 60.4,
+      "windMph": 16.9,
+      "precipitationMm": 0.4,
+      "hourUTC": "2025-10-19T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772755",
+    "lat": 36.16649655,
+    "lon": -86.7712644420847
+  },
+  "2879426": {
+    "stadiumId": "BUF00",
+    "stadium": "New Era Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-02T21:25:00+00:00",
+    "weather": {
+      "temperatureF": 53.9,
+      "windMph": 1.8,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-02T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772768",
+    "lat": 42.7737131,
+    "lon": -78.7869032106025
+  },
+  "2879427": {
+    "stadiumId": "JAX00",
+    "stadium": "TIAA Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-07T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 62.3,
+      "windMph": 3.7,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-07T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772793",
+    "lat": 30.32398105,
+    "lon": -81.6373045703404
+  },
+  "2879428": {
+    "stadiumId": "DEN00",
+    "stadium": "Empower Field at Mile High",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-19T20:05:00+00:00",
+    "weather": {
+      "temperatureF": 72.8,
+      "windMph": 2.8,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-19T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772757",
+    "lat": 39.743952,
+    "lon": -105.019222812368
+  },
+  "2879429": {
+    "stadiumId": "CAR00",
+    "stadium": "Bank of America Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-28T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 43.2,
+      "windMph": 2.4,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-28T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772952",
+    "lat": 35.225737,
+    "lon": -80.8536869740441
+  },
+  "2879430": {
+    "stadiumId": "MIN01",
+    "stadium": "U.S. Bank Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-12-07T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772899",
+    "lat": 44.9749861,
+    "lon": -93.2598737
+  },
+  "2879431": {
+    "stadiumId": "MIA00",
+    "stadium": "Hard Rock Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-14T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 86.6,
+      "windMph": 1.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-14T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772728",
+    "lat": 25.95790315,
+    "lon": -80.2388497396752
+  },
+  "2879432": {
+    "stadiumId": "CIN00",
+    "stadium": "Paycor Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-28T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 65.4,
+      "windMph": 13.0,
+      "precipitationMm": 0.1,
+      "hourUTC": "2025-12-28T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772954",
+    "lat": 39.0954645,
+    "lon": -84.5160488350198
+  },
+  "2879433": {
+    "stadiumId": "WAS00",
+    "stadium": "FedExField",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-03T01:20:00+00:00",
+    "weather": {
+      "temperatureF": 51.7,
+      "windMph": 4.4,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-03T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772926",
+    "lat": 38.9077002,
+    "lon": -76.8633260869022
+  },
+  "2879434": {
+    "stadiumId": "LAX01",
+    "stadium": "SoFi Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-10-19T20:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772756",
+    "lat": 33.95354625,
+    "lon": -118.338793383194
+  },
+  "2879435": {
+    "stadiumId": "NYC01",
+    "stadium": "MetLife Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-07T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 40.8,
+      "windMph": 5.8,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-07T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772790",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118
+  },
+  "2879436": {
+    "stadiumId": "GNB00",
+    "stadium": "Lambeau Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-28T01:00:00+00:00",
+    "weather": {
+      "temperatureF": 35.3,
+      "windMph": 9.7,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-28T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772953",
+    "lat": 44.50095825,
+    "lon": -88.0610340437601
+  },
+  "2879437": {
+    "stadiumId": "NOR00",
+    "stadium": "Mercedes-Benz Superdome",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-09-14T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772833",
+    "lat": 29.9510489,
+    "lon": -90.082307625389
+  },
+  "2879438": {
+    "stadiumId": "PHO00",
+    "stadium": "State Farm Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-10-19T20:25:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772863",
+    "lat": 33.52770765,
+    "lon": -112.262564902643
+  },
+  "2879439": {
+    "stadiumId": "LAX01",
+    "stadium": "SoFi Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-12-27T21:30:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772951",
+    "lat": 33.95354625,
+    "lon": -118.338793383194
+  },
+  "2879440": {
+    "stadiumId": "TAM00",
+    "stadium": "Raymond James Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-07T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 72.3,
+      "windMph": 6.5,
+      "precipitationMm": 0.1,
+      "hourUTC": "2025-12-07T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772792",
+    "lat": 27.97597925,
+    "lon": -82.5042179967362
+  },
+  "2879441": {
+    "stadiumId": "VEG00",
+    "stadium": "Allegiant Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-12-28T21:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772950",
+    "lat": 36.09083455,
+    "lon": -115.182477977026
+  },
+  "2879442": {
+    "stadiumId": "DAL00",
+    "stadium": "AT&T Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-10-19T20:25:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772864",
+    "lat": 32.74785025,
+    "lon": -97.0928337073774
+  },
+  "2879443": {
+    "stadiumId": "NYC01",
+    "stadium": "MetLife Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-14T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 82.8,
+      "windMph": 3.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-14T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772727",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118
+  },
+  "2879444": {
+    "stadiumId": "VEG00",
+    "stadium": "Allegiant Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-12-07T21:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772794",
+    "lat": 36.09083455,
+    "lon": -115.182477977026
+  },
+  "2879445": {
+    "stadiumId": "DAL00",
+    "stadium": "AT&T Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-11-04T01:15:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772818",
+    "lat": 32.74785025,
+    "lon": -97.0928337073774
+  },
+  "2879446": {
+    "stadiumId": "SFO01",
+    "stadium": "Levi's Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-20T00:20:00+00:00",
+    "weather": {
+      "temperatureF": 73.7,
+      "windMph": 3.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-20T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772924",
+    "lat": 37.40303995,
+    "lon": -121.969681705055
+  },
+  "2879447": {
+    "stadiumId": "CLE00",
+    "stadium": "FirstEnergy Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-28T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 44.7,
+      "windMph": 15.2,
+      "precipitationMm": 1.5,
+      "hourUTC": "2025-12-28T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772807",
+    "lat": 41.5060559,
+    "lon": -81.6997118452595
+  },
+  "2879448": {
+    "stadiumId": "PIT00",
+    "stadium": "Acrisure Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-14T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 80.2,
+      "windMph": 4.9,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-14T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772836",
+    "lat": 40.44671645,
+    "lon": -80.0157549334943
+  },
+  "2879449": {
+    "stadiumId": "PHO00",
+    "stadium": "State Farm Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-12-07T21:25:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772901",
+    "lat": 33.52770765,
+    "lon": -112.262564902643
+  },
+  "2879450": {
+    "stadiumId": "IND00",
+    "stadium": "Lucas Oil Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-12-28T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772915",
+    "lat": 39.760085,
+    "lon": -86.1637037946731
+  },
+  "2879451": {
+    "stadiumId": "DET00",
+    "stadium": "Ford Field",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-10-20T23:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772816",
+    "lat": 42.33995675,
+    "lon": -83.045616574037
+  },
+  "2879452": {
+    "stadiumId": "MIA00",
+    "stadium": "Hard Rock Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-28T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 78.3,
+      "windMph": 0.7,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-28T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772916",
+    "lat": 25.95790315,
+    "lon": -80.2388497396752
+  },
+  "2879453": {
+    "stadiumId": "NAS00",
+    "stadium": "Nissan Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-14T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 88.2,
+      "windMph": 1.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-14T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772724",
+    "lat": 36.16649655,
+    "lon": -86.7712644420847
+  },
+  "2879454": {
+    "stadiumId": "BUF00",
+    "stadium": "New Era Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-07T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 31.0,
+      "windMph": 12.1,
+      "precipitationMm": 0.8,
+      "hourUTC": "2025-12-07T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772902",
+    "lat": 42.7737131,
+    "lon": -78.7869032106025
+  },
+  "2879455": {
+    "stadiumId": "SEA00",
+    "stadium": "Lumen Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-21T02:00:00+00:00",
+    "weather": {
+      "temperatureF": 54.5,
+      "windMph": 6.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-21T02:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772826",
+    "lat": 47.5953459,
+    "lon": -122.331644311961
+  },
+  "2879456": {
+    "stadiumId": "NYC01",
+    "stadium": "MetLife Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-28T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 24.9,
+      "windMph": 2.7,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-28T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772808",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118
+  },
+  "2879457": {
+    "stadiumId": "KAN00",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-08T01:20:00+00:00",
+    "weather": {
+      "temperatureF": 28.0,
+      "windMph": 6.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-08T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772932",
+    "lat": 39.04894045,
+    "lon": -94.4849938110271
+  },
+  "2879458": {
+    "stadiumId": "PHO00",
+    "stadium": "State Farm Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-09-14T20:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772730",
+    "lat": 33.52770765,
+    "lon": -112.262564902643
+  },
+  "2879459": {
+    "stadiumId": "LAX01",
+    "stadium": "SoFi Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-10-24T00:15:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772942",
+    "lat": 33.95354625,
+    "lon": -118.338793383194
+  },
+  "2879460": {
+    "stadiumId": "NAS00",
+    "stadium": "Nissan Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-28T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 70.4,
+      "windMph": 15.9,
+      "precipitationMm": 0.1,
+      "hourUTC": "2025-12-28T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772809",
+    "lat": 36.16649655,
+    "lon": -86.7712644420847
+  },
+  "2879461": {
+    "stadiumId": "LAX01",
+    "stadium": "SoFi Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-12-09T01:15:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772822",
+    "lat": 33.95354625,
+    "lon": -118.338793383194
+  },
+  "2879462": {
+    "stadiumId": "ATL97",
+    "stadium": "Mercedes-Benz Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-10-26T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772760",
+    "lat": 33.75539625,
+    "lon": -84.4008156749447
+  },
+  "2879463": {
+    "stadiumId": "BUF00",
+    "stadium": "New Era Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-28T21:25:00+00:00",
+    "weather": {
+      "temperatureF": 39.7,
+      "windMph": 6.2,
+      "precipitationMm": 3.0,
+      "hourUTC": "2025-12-28T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772917",
+    "lat": 42.7737131,
+    "lon": -78.7869032106025
+  },
+  "2879464": {
+    "stadiumId": "IND00",
+    "stadium": "Lucas Oil Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-09-14T20:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772729",
+    "lat": 39.760085,
+    "lon": -86.1637037946731
+  },
+  "2879465": {
+    "stadiumId": "BAL00",
+    "stadium": "M&T Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-26T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 59.5,
+      "windMph": 1.4,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-26T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772759",
+    "lat": 39.2779664,
+    "lon": -76.6238093083547
+  },
+  "2879466": {
+    "stadiumId": "SFO01",
+    "stadium": "Levi's Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-12-29T01:20:00+00:00",
+    "weather": {
+      "temperatureF": 51.4,
+      "windMph": 4.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-12-29T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772935",
+    "lat": 37.40303995,
+    "lon": -121.969681705055
+  },
+  "2879467": {
+    "stadiumId": "DEN00",
+    "stadium": "Empower Field at Mile High",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-07T01:15:00+00:00",
+    "weather": {
+      "temperatureF": 56.2,
+      "windMph": 7.0,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-07T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772944",
+    "lat": 39.743952,
+    "lon": -105.019222812368
+  },
+  "2879468": {
+    "stadiumId": "KAN00",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-14T20:25:00+00:00",
+    "weather": {
+      "temperatureF": 93.0,
+      "windMph": 10.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-14T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772837",
+    "lat": 39.04894045,
+    "lon": -94.4849938110271
+  },
+  "2879469": {
+    "stadiumId": "CAR00",
+    "stadium": "Bank of America Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-26T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 61.1,
+      "windMph": 7.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-26T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772865",
+    "lat": 35.225737,
+    "lon": -80.8536869740441
+  },
+  "2879470": {
+    "stadiumId": "ATL97",
+    "stadium": "Mercedes-Benz Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-12-30T01:15:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772825",
+    "lat": 33.75539625,
+    "lon": -84.4008156749447
+  },
+  "2879471": {
+    "stadiumId": "CIN00",
+    "stadium": "Paycor Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-26T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 57.1,
+      "windMph": 7.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-26T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772758",
+    "lat": 39.0954645,
+    "lon": -84.5160488350198
+  },
+  "2879472": {
+    "stadiumId": "ATL97",
+    "stadium": "Mercedes-Benz Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2026-01-04T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772966",
+    "lat": 33.75539625,
+    "lon": -84.4008156749447
+  },
+  "2879473": {
+    "stadiumId": "MIN01",
+    "stadium": "U.S. Bank Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-09-15T00:20:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772919",
+    "lat": 44.9749861,
+    "lon": -93.2598737
+  },
+  "2879474": {
+    "stadiumId": "CAR00",
+    "stadium": "Bank of America Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-09T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 73.7,
+      "windMph": 11.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-09T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772877",
+    "lat": 35.225737,
+    "lon": -80.8536869740441
+  },
+  "2879475": {
+    "stadiumId": "BUF00",
+    "stadium": "New Era Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-04T21:25:00+00:00",
+    "weather": {
+      "temperatureF": 26.8,
+      "windMph": 10.8,
+      "precipitationMm": 0.1,
+      "hourUTC": "2026-01-04T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772967",
+    "lat": 42.7737131,
+    "lon": -78.7869032106025
+  },
+  "2879476": {
+    "stadiumId": "HOU00",
+    "stadium": "NRG Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-10-26T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772866",
+    "lat": 29.6848581,
+    "lon": -95.4108014532699
+  },
+  "2879477": {
+    "stadiumId": "BOS00",
+    "stadium": "Gillette Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-26T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 54.0,
+      "windMph": 7.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-26T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772868",
+    "lat": 42.0912526,
+    "lon": -71.2644646105907
+  },
+  "2879478": {
+    "stadiumId": "CHI98",
+    "stadium": "Soldier Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-04T21:25:00+00:00",
+    "weather": {
+      "temperatureF": 30.9,
+      "windMph": 5.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-04T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772965",
+    "lat": 41.86245145,
+    "lon": -87.6167151470407
+  },
+  "2879479": {
+    "stadiumId": "HOU00",
+    "stadium": "NRG Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-09-15T23:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772715",
+    "lat": 29.6848581,
+    "lon": -95.4108014532699
+  },
+  "2879480": {
+    "stadiumId": "CHI98",
+    "stadium": "Soldier Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-09T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 33.3,
+      "windMph": 15.0,
+      "precipitationMm": 0.1,
+      "hourUTC": "2025-11-09T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772875",
+    "lat": 41.86245145,
+    "lon": -87.6167151470407
+  },
+  "2879481": {
+    "stadiumId": "CIN00",
+    "stadium": "Paycor Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-04T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 35.0,
+      "windMph": 0.7,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-04T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772964",
+    "lat": 39.0954645,
+    "lon": -84.5160488350198
+  },
+  "2879482": {
+    "stadiumId": "PHI00",
+    "stadium": "Lincoln Financial Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-26T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 61.9,
+      "windMph": 3.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-26T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772867",
+    "lat": 39.9009099,
+    "lon": -75.167489156059
+  },
+  "2879483": {
+    "stadiumId": "DEN00",
+    "stadium": "Empower Field at Mile High",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-04T21:25:00+00:00",
+    "weather": {
+      "temperatureF": 67.2,
+      "windMph": 2.4,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-04T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772956",
+    "lat": 39.743952,
+    "lon": -105.019222812368
+  },
+  "2879484": {
+    "stadiumId": "HOU00",
+    "stadium": "NRG Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-11-09T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772770",
+    "lat": 29.6848581,
+    "lon": -95.4108014532699
+  },
+  "2879485": {
+    "stadiumId": "NOR00",
+    "stadium": "Mercedes-Benz Superdome",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-10-26T20:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772869",
+    "lat": 29.9510489,
+    "lon": -90.082307625389
+  },
+  "2879486": {
+    "stadiumId": "VEG00",
+    "stadium": "Allegiant Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-09-16T02:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772811",
+    "lat": 36.09083455,
+    "lon": -115.182477977026
+  },
+  "2879487": {
+    "stadiumId": "DEN00",
+    "stadium": "Empower Field at Mile High",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-26T20:25:00+00:00",
+    "weather": {
+      "temperatureF": 71.4,
+      "windMph": 3.4,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-26T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772762",
+    "lat": 39.743952,
+    "lon": -105.019222812368
+  },
+  "2879488": {
+    "stadiumId": "MIA00",
+    "stadium": "Hard Rock Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-09T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 82.3,
+      "windMph": 3.7,
+      "precipitationMm": 0.4,
+      "hourUTC": "2025-11-09T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772771",
+    "lat": 25.95790315,
+    "lon": -80.2388497396752
+  },
+  "2879489": {
+    "stadiumId": "HOU00",
+    "stadium": "NRG Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2026-01-04T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772962",
+    "lat": 29.6848581,
+    "lon": -95.4108014532699
+  },
+  "2879490": {
+    "stadiumId": "IND00",
+    "stadium": "Lucas Oil Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-10-26T20:25:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772761",
+    "lat": 39.760085,
+    "lon": -86.1637037946731
+  },
+  "2879491": {
+    "stadiumId": "JAX00",
+    "stadium": "TIAA Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-04T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 55.4,
+      "windMph": 8.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-04T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772970",
+    "lat": 30.32398105,
+    "lon": -81.6373045703404
+  },
+  "2879492": {
+    "stadiumId": "BUF00",
+    "stadium": "New Era Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-19T00:15:00+00:00",
+    "weather": {
+      "temperatureF": 66.7,
+      "windMph": 7.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-19T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772937",
+    "lat": 42.7737131,
+    "lon": -78.7869032106025
+  },
+  "2879493": {
+    "stadiumId": "LAX01",
+    "stadium": "SoFi Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2026-01-04T21:25:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772955",
+    "lat": 33.95354625,
+    "lon": -118.338793383194
+  },
+  "2879494": {
+    "stadiumId": "MIN01",
+    "stadium": "U.S. Bank Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-11-09T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772876",
+    "lat": 44.9749861,
+    "lon": -93.2598737
+  },
+  "2879495": {
+    "stadiumId": "PIT00",
+    "stadium": "Acrisure Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-27T00:20:00+00:00",
+    "weather": {
+      "temperatureF": 47.8,
+      "windMph": 6.0,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-27T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772925",
+    "lat": 40.44671645,
+    "lon": -80.0157549334943
+  },
+  "2879496": {
+    "stadiumId": "NYC01",
+    "stadium": "MetLife Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-09T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 59.0,
+      "windMph": 6.9,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-09T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772769",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118
+  },
+  "2879497": {
+    "stadiumId": "KAN00",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-10-28T00:15:00+00:00",
+    "weather": {
+      "temperatureF": 53.6,
+      "windMph": 5.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-10-28T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772817",
+    "lat": 39.04894045,
+    "lon": -94.4849938110271
+  },
+  "2879498": {
+    "stadiumId": "VEG00",
+    "stadium": "Allegiant Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2026-01-04T21:25:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772957",
+    "lat": 36.09083455,
+    "lon": -115.182477977026
+  },
+  "2879499": {
+    "stadiumId": "CAR00",
+    "stadium": "Bank of America Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-21T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 81.6,
+      "windMph": 6.0,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-21T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772838",
+    "lat": 35.225737,
+    "lon": -80.8536869740441
+  },
+  "2879500": {
+    "stadiumId": "MIN01",
+    "stadium": "U.S. Bank Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2026-01-04T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772968",
+    "lat": 44.9749861,
+    "lon": -93.2598737
+  },
+  "2879501": {
+    "stadiumId": "CLE00",
+    "stadium": "FirstEnergy Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-21T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 77.8,
+      "windMph": 7.4,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-21T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772842",
+    "lat": 41.5060559,
+    "lon": -81.6997118452595
+  },
+  "2879502": {
+    "stadiumId": "BOS00",
+    "stadium": "Gillette Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-04T21:25:00+00:00",
+    "weather": {
+      "temperatureF": 27.9,
+      "windMph": 6.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-04T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772958",
+    "lat": 42.0912526,
+    "lon": -71.2644646105907
+  },
+  "2879503": {
+    "stadiumId": "NYC01",
+    "stadium": "MetLife Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-04T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 32.8,
+      "windMph": 6.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-04T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772963",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118
+  },
+  "2879504": {
+    "stadiumId": "PHI00",
+    "stadium": "Lincoln Financial Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-04T21:25:00+00:00",
+    "weather": {
+      "temperatureF": 34.1,
+      "windMph": 5.9,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-04T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772959",
+    "lat": 39.9009099,
+    "lon": -75.167489156059
+  },
+  "2879505": {
+    "stadiumId": "JAX00",
+    "stadium": "TIAA Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-21T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 85.6,
+      "windMph": 10.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-21T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772734",
+    "lat": 30.32398105,
+    "lon": -81.6373045703404
+  },
+  "2879506": {
+    "stadiumId": "MIN01",
+    "stadium": "U.S. Bank Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-09-21T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772731",
+    "lat": 44.9749861,
+    "lon": -93.2598737
+  },
+  "2879507": {
+    "stadiumId": "TAM00",
+    "stadium": "Raymond James Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-09T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 74.4,
+      "windMph": 5.6,
+      "precipitationMm": 0.1,
+      "hourUTC": "2025-11-09T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772772",
+    "lat": 27.97597925,
+    "lon": -82.5042179967362
+  },
+  "2879508": {
+    "stadiumId": "BOS00",
+    "stadium": "Gillette Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-21T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 65.2,
+      "windMph": 5.0,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-21T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772732",
+    "lat": 42.0912526,
+    "lon": -71.2644646105907
+  },
+  "2879509": {
+    "stadiumId": "PIT00",
+    "stadium": "Acrisure Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-05T01:20:00+00:00",
+    "weather": {
+      "temperatureF": 26.1,
+      "windMph": 0.0,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-05T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772960",
+    "lat": 40.44671645,
+    "lon": -80.0157549334943
+  },
+  "2879510": {
+    "stadiumId": "SEA00",
+    "stadium": "Lumen Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-09T21:05:00+00:00",
+    "weather": {
+      "temperatureF": 58.6,
+      "windMph": 4.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-09T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772773",
+    "lat": 47.5953459,
+    "lon": -122.331644311961
+  },
+  "2879511": {
+    "stadiumId": "SFO01",
+    "stadium": "Levi's Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-04T01:00:00+00:00",
+    "weather": {
+      "temperatureF": 57.5,
+      "windMph": 7.0,
+      "precipitationMm": 0.1,
+      "hourUTC": "2026-01-04T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772961",
+    "lat": 37.40303995,
+    "lon": -121.969681705055
+  },
+  "2879512": {
+    "stadiumId": "TAM00",
+    "stadium": "Raymond James Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-03T21:30:00+00:00",
+    "weather": {
+      "temperatureF": 67.6,
+      "windMph": 6.1,
+      "precipitationMm": 1.3,
+      "hourUTC": "2026-01-03T22:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772969",
+    "lat": 27.97597925,
+    "lon": -82.5042179967362
+  },
+  "2879513": {
+    "stadiumId": "PHI00",
+    "stadium": "Lincoln Financial Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-21T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 73.1,
+      "windMph": 5.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-21T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772839",
+    "lat": 39.9009099,
+    "lon": -75.167489156059
+  },
+  "2879514": {
+    "stadiumId": "SFO01",
+    "stadium": "Levi's Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-09T21:25:00+00:00",
+    "weather": {
+      "temperatureF": 76.6,
+      "windMph": 3.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-09T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772879",
+    "lat": 37.40303995,
+    "lon": -121.969681705055
+  },
+  "2879515": {
+    "stadiumId": "TAM00",
+    "stadium": "Raymond James Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-21T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 89.1,
+      "windMph": 5.8,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-21T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772840",
+    "lat": 27.97597925,
+    "lon": -82.5042179967362
+  },
+  "2879516": {
+    "stadiumId": "WAS00",
+    "stadium": "FedExField",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-09T21:25:00+00:00",
+    "weather": {
+      "temperatureF": 66.9,
+      "windMph": 7.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-09T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772878",
+    "lat": 38.9077002,
+    "lon": -76.8633260869022
+  },
+  "2879517": {
+    "stadiumId": "NAS00",
+    "stadium": "Nissan Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-21T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 85.9,
+      "windMph": 4.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-21T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772733",
+    "lat": 36.16649655,
+    "lon": -86.7712644420847
+  },
+  "2879518": {
+    "stadiumId": "LAX01",
+    "stadium": "SoFi Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-11-10T01:20:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772927",
+    "lat": 33.95354625,
+    "lon": -118.338793383194
+  },
+  "2879519": {
+    "stadiumId": "WAS00",
+    "stadium": "FedExField",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-21T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 72.2,
+      "windMph": 6.0,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-21T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772841",
+    "lat": 38.9077002,
+    "lon": -76.8633260869022
+  },
+  "2879520": {
+    "stadiumId": "LAX01",
+    "stadium": "SoFi Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-09-21T20:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772735",
+    "lat": 33.95354625,
+    "lon": -118.338793383194
+  },
+  "2879521": {
+    "stadiumId": "BOS00",
+    "stadium": "Gillette Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-14T01:15:00+00:00",
+    "weather": {
+      "temperatureF": 39.6,
+      "windMph": 10.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-14T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772945",
+    "lat": 42.0912526,
+    "lon": -71.2644646105907
+  },
+  "2879522": {
+    "stadiumId": "ATL97",
+    "stadium": "Mercedes-Benz Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-11-16T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772882",
+    "lat": 33.75539625,
+    "lon": -84.4008156749447
+  },
+  "2879523": {
+    "stadiumId": "SEA00",
+    "stadium": "Lumen Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-21T20:05:00+00:00",
+    "weather": {
+      "temperatureF": 63.9,
+      "windMph": 5.9,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-21T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772736",
+    "lat": 47.5953459,
+    "lon": -122.331644311961
+  },
+  "2879524": {
+    "stadiumId": "PHO00",
+    "stadium": "State Farm Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-09-26T00:15:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772938",
+    "lat": 33.52770765,
+    "lon": -112.262564902643
+  },
+  "2879525": {
+    "stadiumId": "BUF00",
+    "stadium": "New Era Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-16T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 39.7,
+      "windMph": 21.0,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-16T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772776",
+    "lat": 42.7737131,
+    "lon": -78.7869032106025
+  },
+  "2879526": {
+    "stadiumId": "ATL97",
+    "stadium": "Mercedes-Benz Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-09-28T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772739",
+    "lat": 33.75539625,
+    "lon": -84.4008156749447
+  },
+  "2879527": {
+    "stadiumId": "CHI98",
+    "stadium": "Soldier Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-21T20:25:00+00:00",
+    "weather": {
+      "temperatureF": 76.6,
+      "windMph": 7.4,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-21T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772844",
+    "lat": 41.86245145,
+    "lon": -87.6167151470407
+  },
+  "2879528": {
+    "stadiumId": "JAX00",
+    "stadium": "TIAA Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-16T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 76.6,
+      "windMph": 11.8,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-16T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772775",
+    "lat": 30.32398105,
+    "lon": -81.6373045703404
+  },
+  "2879529": {
+    "stadiumId": "SFO01",
+    "stadium": "Levi's Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-21T20:25:00+00:00",
+    "weather": {
+      "temperatureF": 79.6,
+      "windMph": 3.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-21T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772843",
+    "lat": 37.40303995,
+    "lon": -121.969681705055
+  },
+  "2879530": {
+    "stadiumId": "MIN01",
+    "stadium": "U.S. Bank Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-11-16T18:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772880",
+    "lat": 44.9749861,
+    "lon": -93.2598737
+  },
+  "2879531": {
+    "stadiumId": "BUF00",
+    "stadium": "New Era Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-28T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 73.0,
+      "windMph": 5.0,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-28T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772740",
+    "lat": 42.7737131,
+    "lon": -78.7869032106025
+  },
+  "2879532": {
+    "stadiumId": "NYC01",
+    "stadium": "MetLife Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-22T00:20:00+00:00",
+    "weather": {
+      "temperatureF": 63.0,
+      "windMph": 3.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-22T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772920",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118
+  },
+  "2879533": {
+    "stadiumId": "DET00",
+    "stadium": "Ford Field",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-09-28T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772846",
+    "lat": 42.33995675,
+    "lon": -83.045616574037
+  },
+  "2879534": {
+    "stadiumId": "NYC01",
+    "stadium": "MetLife Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-16T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 52.3,
+      "windMph": 16.0,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-16T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772883",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118
+  },
+  "2879535": {
+    "stadiumId": "HOU00",
+    "stadium": "NRG Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-09-28T17:00:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772738",
+    "lat": 29.6848581,
+    "lon": -95.4108014532699
+  },
+  "2879536": {
+    "stadiumId": "PIT00",
+    "stadium": "Acrisure Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-16T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 45.5,
+      "windMph": 15.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-16T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772774",
+    "lat": 40.44671645,
+    "lon": -80.0157549334943
+  },
+  "2879537": {
+    "stadiumId": "BAL00",
+    "stadium": "M&T Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-23T00:15:00+00:00",
+    "weather": {
+      "temperatureF": 68.4,
+      "windMph": 4.0,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-23T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772812",
+    "lat": 39.2779664,
+    "lon": -76.6238093083547
+  },
+  "2879538": {
+    "stadiumId": "NAS00",
+    "stadium": "Nissan Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-16T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 65.0,
+      "windMph": 6.8,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-16T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772881",
+    "lat": 36.16649655,
+    "lon": -86.7712644420847
+  },
+  "2879540": {
+    "stadiumId": "BOS00",
+    "stadium": "Gillette Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-28T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 77.1,
+      "windMph": 7.0,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-28T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772847",
+    "lat": 42.0912526,
+    "lon": -71.2644646105907
+  },
+  "2879542": {
+    "stadiumId": "PHO00",
+    "stadium": "State Farm Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-11-16T21:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772885",
+    "lat": 33.52770765,
+    "lon": -112.262564902643
+  },
+  "2879543": {
+    "stadiumId": "NYC01",
+    "stadium": "MetLife Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-28T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 77.8,
+      "windMph": 3.7,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-28T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772737",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118
+  },
+  "2879544": {
+    "stadiumId": "TAM00",
+    "stadium": "Raymond James Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-28T17:00:00+00:00",
+    "weather": {
+      "temperatureF": 89.0,
+      "windMph": 4.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-28T17:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772845",
+    "lat": 27.97597925,
+    "lon": -82.5042179967362
+  },
+  "2879545": {
+    "stadiumId": "LAX01",
+    "stadium": "SoFi Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-11-16T21:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772884",
+    "lat": 33.95354625,
+    "lon": -118.338793383194
+  },
+  "2879546": {
+    "stadiumId": "LAX01",
+    "stadium": "SoFi Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-09-28T20:05:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772849",
+    "lat": 33.95354625,
+    "lon": -118.338793383194
+  },
+  "2879547": {
+    "stadiumId": "SFO01",
+    "stadium": "Levi's Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-28T20:05:00+00:00",
+    "weather": {
+      "temperatureF": 78.1,
+      "windMph": 7.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-28T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772848",
+    "lat": 37.40303995,
+    "lon": -121.969681705055
+  },
+  "2879548": {
+    "stadiumId": "KAN00",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-28T20:25:00+00:00",
+    "weather": {
+      "temperatureF": 86.0,
+      "windMph": 5.2,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-28T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772741",
+    "lat": 39.04894045,
+    "lon": -94.4849938110271
+  },
+  "2879549": {
+    "stadiumId": "CLE00",
+    "stadium": "FirstEnergy Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-16T21:25:00+00:00",
+    "weather": {
+      "temperatureF": 43.4,
+      "windMph": 20.7,
+      "precipitationMm": 0.1,
+      "hourUTC": "2025-11-16T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772777",
+    "lat": 41.5060559,
+    "lon": -81.6997118452595
+  },
+  "2879550": {
+    "stadiumId": "VEG00",
+    "stadium": "Allegiant Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-09-28T20:25:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772742",
+    "lat": 36.09083455,
+    "lon": -115.182477977026
+  },
+  "2879551": {
+    "stadiumId": "DAL00",
+    "stadium": "AT&T Stadium",
+    "roof": "closed",
+    "isDome": true,
+    "kickoff": "2025-09-29T00:20:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772921",
+    "lat": 32.74785025,
+    "lon": -97.0928337073774
+  },
+  "2879552": {
+    "stadiumId": "DEN00",
+    "stadium": "Empower Field at Mile High",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-16T21:25:00+00:00",
+    "weather": {
+      "temperatureF": 70.4,
+      "windMph": 3.6,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-16T21:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772778",
+    "lat": 39.743952,
+    "lon": -105.019222812368
+  },
+  "2879553": {
+    "stadiumId": "MIA00",
+    "stadium": "Hard Rock Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-29T23:15:00+00:00",
+    "weather": {
+      "temperatureF": 80.9,
+      "windMph": 7.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-29T23:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772813",
+    "lat": 25.95790315,
+    "lon": -80.2388497396752
+  },
+  "2879554": {
+    "stadiumId": "PHI00",
+    "stadium": "Lincoln Financial Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-11-17T01:20:00+00:00",
+    "weather": {
+      "temperatureF": 44.9,
+      "windMph": 11.8,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-11-17T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772928",
+    "lat": 39.9009099,
+    "lon": -75.167489156059
+  },
+  "2879555": {
+    "stadiumId": "DEN00",
+    "stadium": "Empower Field at Mile High",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2025-09-30T00:15:00+00:00",
+    "weather": {
+      "temperatureF": 70.5,
+      "windMph": 1.7,
+      "precipitationMm": 0.0,
+      "hourUTC": "2025-09-30T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772716",
+    "lat": 39.743952,
+    "lon": -105.019222812368
+  },
+  "2879556": {
+    "stadiumId": "VEG00",
+    "stadium": "Allegiant Stadium",
+    "roof": "dome",
+    "isDome": true,
+    "kickoff": "2025-11-18T01:15:00+00:00",
+    "weather": null,
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772819",
+    "lat": 36.09083455,
+    "lon": -115.182477977026
+  },
+  "2879580": {
+    "stadiumId": "CHI98",
+    "stadium": "Soldier Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-11T01:00:00+00:00",
+    "weather": {
+      "temperatureF": 32.4,
+      "windMph": 10.5,
+      "precipitationMm": 0.1,
+      "hourUTC": "2026-01-11T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772981",
+    "lat": 41.86245145,
+    "lon": -87.6167151470407
+  },
+  "2879581": {
+    "stadiumId": "CAR00",
+    "stadium": "Bank of America Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-10T21:30:00+00:00",
+    "weather": {
+      "temperatureF": 71.4,
+      "windMph": 15.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-10T22:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772979",
+    "lat": 35.225737,
+    "lon": -80.8536869740441
+  },
+  "2879583": {
+    "stadiumId": "PHI00",
+    "stadium": "Lincoln Financial Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-11T21:30:00+00:00",
+    "weather": {
+      "temperatureF": 39.7,
+      "windMph": 14.4,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-11T22:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772980",
+    "lat": 39.9009099,
+    "lon": -75.167489156059
+  },
+  "2879584": {
+    "stadiumId": "BOS00",
+    "stadium": "Gillette Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-12T01:00:00+00:00",
+    "weather": {
+      "temperatureF": 34.9,
+      "windMph": 12.8,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-12T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772978",
+    "lat": 42.0912526,
+    "lon": -71.2644646105907
+  },
+  "2879586": {
+    "stadiumId": "PIT00",
+    "stadium": "Acrisure Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-13T01:00:00+00:00",
+    "weather": {
+      "temperatureF": 31.0,
+      "windMph": 8.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-13T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772976",
+    "lat": 40.44671645,
+    "lon": -80.0157549334943
+  },
+  "2879588": {
+    "stadiumId": "DEN00",
+    "stadium": "Empower Field at Mile High",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-17T21:30:00+00:00",
+    "weather": {
+      "temperatureF": 34.6,
+      "windMph": 4.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-17T22:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772982",
+    "lat": 39.743952,
+    "lon": -105.019222812368
+  },
+  "2879589": {
+    "stadiumId": "SEA00",
+    "stadium": "Lumen Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-18T01:00:00+00:00",
+    "weather": {
+      "temperatureF": 45.0,
+      "windMph": 4.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-18T01:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772984",
+    "lat": 47.5953459,
+    "lon": -122.331644311961
+  },
+  "2879590": {
+    "stadiumId": "BOS00",
+    "stadium": "Gillette Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-18T20:00:00+00:00",
+    "weather": {
+      "temperatureF": 33.2,
+      "windMph": 3.6,
+      "precipitationMm": 0.3,
+      "hourUTC": "2026-01-18T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772983",
+    "lat": 42.0912526,
+    "lon": -71.2644646105907
+  },
+  "2879591": {
+    "stadiumId": "CHI98",
+    "stadium": "Soldier Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-18T23:30:00+00:00",
+    "weather": {
+      "temperatureF": 17.2,
+      "windMph": 9.0,
+      "precipitationMm": 0.1,
+      "hourUTC": "2026-01-19T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772985",
+    "lat": 41.86245145,
+    "lon": -87.6167151470407
+  },
+  "2879594": {
+    "stadiumId": "DEN00",
+    "stadium": "Empower Field at Mile High",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-25T20:00:00+00:00",
+    "weather": {
+      "temperatureF": 24.2,
+      "windMph": 2.5,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-25T20:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772986",
+    "lat": 39.743952,
+    "lon": -105.019222812368
+  },
+  "2879595": {
+    "stadiumId": "SEA00",
+    "stadium": "Lumen Field",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-25T23:30:00+00:00",
+    "weather": {
+      "temperatureF": 39.8,
+      "windMph": 1.1,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-26T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772987",
+    "lat": 47.5953459,
+    "lon": -122.331644311961
+  },
+  "2879596": {
+    "stadiumId": "SFO01",
+    "stadium": "Levi's Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-02-08T23:30:00+00:00",
+    "weather": {
+      "temperatureF": 64.0,
+      "windMph": 8.8,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-02-09T00:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772988",
+    "lat": 37.40303995,
+    "lon": -121.969681705055
+  },
+  "2880473": {
+    "stadiumId": "JAX00",
+    "stadium": "TIAA Bank Stadium",
+    "roof": "outdoors",
+    "isDome": false,
+    "kickoff": "2026-01-11T18:00:00+00:00",
+    "weather": {
+      "temperatureF": 62.3,
+      "windMph": 9.3,
+      "precipitationMm": 0.0,
+      "hourUTC": "2026-01-11T18:00",
+      "source": "Open-Meteo historical reanalysis"
+    },
+    "source": "https://github.com/nflverse/nfldata/blob/master/data/games.csv",
+    "espnId": "401772977",
+    "lat": 30.32398105,
+    "lon": -81.6373045703404
+  }
+}

@@ -1,0 +1,3 @@
+export type ReplayEvent={id:string;order:number;driveId:string;driveKey:string;team:string;opponent:string;quarter:number|null;clock:number|null;down:number|null;yardsToGo:number|null;yardLine:number|null;yardsGained:number|null;hangTime:number|null;offenseScore:number|null;defenseScore:number|null;scoreA:number;scoreB:number;scoring:boolean;counts:boolean;points:number;scoringPlayer:string;scoringTeam:string|null;call:string;result:string};
+export type Drive={gameId:string;driveId:string;driveKey:string;team:string;startYard:number|null;endYard:number|null;events:number;firstEventId:string;order:number;result:string};
+export const clock=(seconds:number|null)=>seconds==null?'—:—':`${Math.floor(seconds/60)}:${String(seconds%60).padStart(2,'0')}`;

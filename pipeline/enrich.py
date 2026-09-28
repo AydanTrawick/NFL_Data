@@ -3,7 +3,7 @@
 Network access is required only for the first run. Raw enrichment downloads are kept in
 data/external/ (never published); the outputs here contain the minimal public fields.
 """
-import csv, json, re, ssl, urllib.request
+import csv, json, re, ssl, urllib.request, unicodedata
 import certifi
 from pathlib import Path
 from common import ROOT, PROCESSED, PUBLIC, write_json
@@ -18,11 +18,14 @@ def fetch(name,url):
     path=EXTERNAL/name
     if not path.exists():
         EXTERNAL.mkdir(parents=True,exist_ok=True)
-        req=urllib.request.Request(url,headers={"User-Agent":"every-snap-data-pipeline/1.0"})
+        req=urllib.request.Request(url)
         with urllib.request.urlopen(req,timeout=30,context=ssl.create_default_context(cafile=certifi.where())) as response: path.write_bytes(response.read())
     return path
 
-def norm(s): return re.sub(r"[^a-z]","",(s or "").lower())
+def norm(s):
+    s=unicodedata.normalize("NFKD",s or "").encode("ascii","ignore").decode().lower()
+    s=re.sub(r"\b(jr|sr|ii|iii|iv)\.?$","",s).strip()
+    return re.sub(r"[^a-z]","",s)
 
 def main():
     try:
@@ -37,6 +40,7 @@ def main():
     with roster_path.open(encoding="utf-8-sig",newline="") as f:
         for r in csv.DictReader(f):
             team=(r.get("team") or r.get("team_abbr") or "").upper()
+            team={"LA":"LAR","WSH":"WAS"}.get(team,team)
             season=str(r.get("season",""))
             if season and season!="2025": continue
             full=(r.get("full_name") or r.get("display_name") or r.get("player_name") or "").strip()
@@ -49,6 +53,7 @@ def main():
     for p in players:
         name=p["name"].split(); key=(p["team"],norm(name[0]) if name else "",norm(" ".join(name[1:])))
         r=roster.get(key)
+        if r is None and key[1]=="kenny": r=roster.get((key[0],"kenneth",key[2]))
         if r:
             p["headshotUrl"]=r.get("headshot_url") or r.get("headshot") or ""
             p["position"]=r.get("position") or r.get("pos") or ""

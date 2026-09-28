@@ -1,0 +1,10 @@
+{
+  "gameId": "2879178",
+  "officialOffensivePlays": {
+    "DAL": 56,
+    "PHI": 62
+  },
+  "source": "https://static.www.nfl.com/image/upload/v1757104719/gamecenter/f5908b6d-311e-11f0-b670-ae1250fadad1.pdf",
+  "definition": "PLAY_CNTS and FROM_SCRIMMAGE, limited to Run, Pass Completion, Incomplete Pass, Sack, Intercepted Pass",
+  "clock": "PLAY_START_TIME is seconds remaining in quarter; opener scoring timestamps reconcile to the NFL gamebook."
+}

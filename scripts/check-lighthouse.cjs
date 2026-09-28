@@ -1,0 +1,1 @@
+const fs=require('node:fs');const r=JSON.parse(fs.readFileSync('lighthouse.json','utf8'));const scores=Object.fromEntries(Object.entries(r.categories).map(([k,v])=>[k,Math.round(v.score*100)]));console.log(JSON.stringify(scores));if(scores.performance<85)process.exitCode=1;

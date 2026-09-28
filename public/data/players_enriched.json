@@ -36,6 +36,28 @@
     "matchedName": "A.J. Epenesa"
   },
   {
+    "name": "A.J. Green III",
+    "team": "MIA",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 1,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lacmlfcdn7rcfdxkfkfp",
+    "position": "DB",
+    "matchedName": "A.J. Green"
+  },
+  {
+    "name": "A.J. Terrell Jr.",
+    "team": "ATL",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 75,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/etcev3yjoqtp5tay2ndo",
+    "position": "DB",
+    "matchedName": "A.J. Terrell"
+  },
+  {
     "name": "AJ Barner",
     "team": "SEA",
     "roles": [
@@ -97,6 +119,20 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/acczyg9uo4jbervsjb4o",
     "position": "OL",
     "matchedName": "Aaron Brewer"
+  },
+  {
+    "name": "Aaron Jones Sr.",
+    "team": "MIN",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "RUSHER",
+      "SCORING_PLAYER"
+    ],
+    "events": 188,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bktkfvgfwujkdbzkcfim",
+    "position": "RB",
+    "matchedName": "Aaron Jones"
   },
   {
     "name": "Aaron Rodgers",
@@ -289,6 +325,17 @@
     "matchedName": "Aeneas Peebles"
   },
   {
+    "name": "Ahkello Witherspoon",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 11,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ub7code8rbhomboifmob",
+    "position": "DB",
+    "matchedName": "Ahkello Witherspoon"
+  },
+  {
     "name": "Aidan Hutchinson",
     "team": "DET",
     "roles": [
@@ -343,6 +390,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lmpiwh2pphphimm6bnxq",
     "position": "DL",
     "matchedName": "Al-Quadin Muhammad"
+  },
+  {
+    "name": "Albert Okwuegbunam Jr.",
+    "team": "LV",
+    "roles": [
+      "RECEIVER"
+    ],
+    "events": 6,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gww1gus87vabpsalkrpc",
+    "position": "TE",
+    "matchedName": "Albert Okwuegbunam"
   },
   {
     "name": "Ale Kaho",
@@ -458,6 +516,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zohji3gr704zraihhqyl",
     "position": "LB",
     "matchedName": "Alex Singleton"
+  },
+  {
+    "name": "Alex Ward",
+    "team": "LAR",
+    "roles": [
+      "PASSER"
+    ],
+    "events": 25,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bck0h02cdfjklvhxe9vq",
+    "position": "LS",
+    "matchedName": "Alex Ward"
   },
   {
     "name": "Alex Wright",
@@ -913,6 +982,19 @@
     "matchedName": "Anthony Pittman"
   },
   {
+    "name": "Anthony Richardson Sr.",
+    "team": "IND",
+    "roles": [
+      "PASSER",
+      "RECEIVER",
+      "RUSHER"
+    ],
+    "events": 7,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wrddeyklfcgk9qybgofq",
+    "position": "QB",
+    "matchedName": "Anthony Richardson"
+  },
+  {
     "name": "Antoine Winfield Jr.",
     "team": "TB",
     "roles": [
@@ -936,6 +1018,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j7ixpkm7u4tdoqwzmbt4",
     "position": "RB",
     "matchedName": "Antonio Gibson"
+  },
+  {
+    "name": "Antonio Hamilton Sr.",
+    "team": "WAS",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 16,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ezqh9yn3k2gnriphk8q8",
+    "position": "DB",
+    "matchedName": "Antonio Hamilton"
   },
   {
     "name": "Antonio Johnson",
@@ -1109,6 +1202,20 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/f1yyvajikoqdnqunml6i",
     "position": "DB",
     "matchedName": "Ashtyn Davis"
+  },
+  {
+    "name": "Audric Estime",
+    "team": "NO",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "RUSHER",
+      "SCORING_PLAYER"
+    ],
+    "events": 62,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ll8ruvwhtxuopqtjjvxp",
+    "position": "RB",
+    "matchedName": "Audric Estimé"
   },
   {
     "name": "Austin Ajiake",
@@ -1605,6 +1712,20 @@
     "matchedName": "Blake Cashman"
   },
   {
+    "name": "Blake Corum",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "RUSHER",
+      "SCORING_PLAYER"
+    ],
+    "events": 218,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gytdgnrjj3jk8rlfxz85",
+    "position": "RB",
+    "matchedName": "Blake Corum"
+  },
+  {
     "name": "Blake Gillikin",
     "team": "ARI",
     "roles": [
@@ -1744,6 +1865,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vhvczed44djnv8vrfwly",
     "position": "P",
     "matchedName": "Brad Robbins"
+  },
+  {
+    "name": "Braden Fiske",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 28,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/eviqsptyuqhpsxjcann2",
+    "position": "DL",
+    "matchedName": "Braden Fiske"
   },
   {
     "name": "Braden Mann",
@@ -2201,6 +2333,20 @@
     "matchedName": "Brian Burns"
   },
   {
+    "name": "Brian Robinson Jr.",
+    "team": "SF",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "RUSHER",
+      "SCORING_PLAYER"
+    ],
+    "events": 129,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/n1xhex1ytisxcbcggqu7",
+    "position": "RB",
+    "matchedName": "Brian Robinson"
+  },
+  {
     "name": "Brian Thomas Jr.",
     "team": "JAX",
     "roles": [
@@ -2291,6 +2437,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bd8sqnzheg7zetlhvku5",
     "position": "TE",
     "matchedName": "Brock Wright"
+  },
+  {
+    "name": "Broderick Washington Jr.",
+    "team": "BAL",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 4,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/p5tkzkh6v2hda70lwojk",
+    "position": "DL",
+    "matchedName": "Broderick Washington"
   },
   {
     "name": "Bryan Anger",
@@ -2442,6 +2599,28 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xeq70yetr8qznbkjjiye",
     "position": "DL",
     "matchedName": "Byron Murphy II"
+  },
+  {
+    "name": "Byron Murphy Jr.",
+    "team": "MIN",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 69,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/secfzfwznyhcgiow4rvq",
+    "position": "DB",
+    "matchedName": "Byron Murphy"
+  },
+  {
+    "name": "Byron Young",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 75,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q68ctteciw57fgxh8c4u",
+    "position": "LB",
+    "matchedName": "Byron Young"
   },
   {
     "name": "Byron Young",
@@ -3021,6 +3200,17 @@
     "matchedName": "Carl Granderson"
   },
   {
+    "name": "Carl Jones Jr.",
+    "team": "CHI",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 7,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/a4lmh1641vpgogdu5hfy",
+    "position": "LB",
+    "matchedName": "Carl Jones"
+  },
+  {
     "name": "Carl Lawson",
     "team": "BAL",
     "roles": [
@@ -3353,6 +3543,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tflwxcx2ohrc6e8j0n5a",
     "position": "TE",
     "matchedName": "Charlie Woerner"
+  },
+  {
+    "name": "Charvarius Ward Sr.",
+    "team": "IND",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 32,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vbxv5ynhjrayfzbe2lda",
+    "position": "DB",
+    "matchedName": "Charvarius Ward"
   },
   {
     "name": "Chase Brown",
@@ -3981,6 +4182,18 @@
     "matchedName": "Cobee Bryant"
   },
   {
+    "name": "Cobie Durant",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER",
+      "SCORING_PLAYER"
+    ],
+    "events": 57,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vkte59jemwhdeuobis0e",
+    "position": "DB",
+    "matchedName": "Cobie Durant"
+  },
+  {
     "name": "Coby Bryant",
     "team": "SEA",
     "roles": [
@@ -4049,6 +4262,20 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tt9wl5yecg6zcnfnledb",
     "position": "WR",
     "matchedName": "Cody White"
+  },
+  {
+    "name": "Colby Parkinson",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "RUSHER",
+      "SCORING_PLAYER"
+    ],
+    "events": 89,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b1qzivnz0zqa8cjgah8r",
+    "position": "TE",
+    "matchedName": "Colby Parkinson"
   },
   {
     "name": "Colby Wooden",
@@ -5210,6 +5437,17 @@
     "matchedName": "Darien Porter"
   },
   {
+    "name": "Darious Williams",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 38,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nzrgn9doxy57s7si8uyf",
+    "position": "DB",
+    "matchedName": "Darious Williams"
+  },
+  {
     "name": "Darius Alexander",
     "team": "NYG",
     "roles": [
@@ -5429,6 +5667,19 @@
     "matchedName": "Darren Waller"
   },
   {
+    "name": "Davante Adams",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "SCORING_PLAYER"
+    ],
+    "events": 165,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qtonvcqpixixqhc6lhnc",
+    "position": "WR",
+    "matchedName": "Davante Adams"
+  },
+  {
     "name": "David Martin-Robinson",
     "team": "TEN",
     "roles": [
@@ -5502,6 +5753,19 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zzqx9ig8ltlva2uo0cgd",
     "position": "DL",
     "matchedName": "David Onyemata"
+  },
+  {
+    "name": "Davis Allen",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "SCORING_PLAYER"
+    ],
+    "events": 43,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/knzujvs0ge3lozkyilsf",
+    "position": "TE",
+    "matchedName": "Davis Allen"
   },
   {
     "name": "Davis Mills",
@@ -5736,6 +6000,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jk2a21dqnjr8ssq5s0tv",
     "position": "DB",
     "matchedName": "Deane Leonard"
+  },
+  {
+    "name": "Deatrich Wise Jr.",
+    "team": "WAS",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 3,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kmshfa3dfehklgdh1lrk",
+    "position": "DL",
+    "matchedName": "Deatrich Wise"
   },
   {
     "name": "Decamerion Richardson",
@@ -6050,6 +6325,17 @@
   },
   {
     "name": "Derion Kendrick",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 3,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jqmngrtmkviwleea8i40",
+    "position": "DB",
+    "matchedName": "Derion Kendrick"
+  },
+  {
+    "name": "Derion Kendrick",
     "team": "SEA",
     "roles": [
       "DEFENDER"
@@ -6131,6 +6417,28 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dbzhxihrdflpqcgcn7z4",
     "position": "DL",
     "matchedName": "Derrick Nnadi"
+  },
+  {
+    "name": "Derwin James Jr.",
+    "team": "LAC",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 85,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z9au0ajgcwoeozfdu0ec",
+    "position": "DB",
+    "matchedName": "Derwin James"
+  },
+  {
+    "name": "Desjuan Johnson",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 14,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/daqugeefmqpj99qzpjmh",
+    "position": "DL",
+    "matchedName": "Desjuan Johnson"
   },
   {
     "name": "Devaughn Vele",
@@ -6293,6 +6601,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/d8qrpenynncwink7dqs2",
     "position": "WR",
     "matchedName": "Devontez Walker"
+  },
+  {
+    "name": "Dexter Lawrence II",
+    "team": "NYG",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 29,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/t204hku4pnzartvixi2m",
+    "position": "DL",
+    "matchedName": "Dexter Lawrence"
   },
   {
     "name": "Dillon Gabriel",
@@ -6840,6 +7159,17 @@
     "matchedName": "Eli Apple"
   },
   {
+    "name": "Elias Neal",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 4,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fteuyr6ahmsckhvdn9rx",
+    "position": "LB",
+    "matchedName": "Elias Neal"
+  },
+  {
     "name": "Elic Ayomanor",
     "team": "TEN",
     "roles": [
@@ -7088,6 +7418,17 @@
     "matchedName": "Emery Jones Jr."
   },
   {
+    "name": "Emmanuel Forbes Jr.",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 65,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zuqfigu7eadzoeo0uymt",
+    "position": "DB",
+    "matchedName": "Emmanuel Forbes"
+  },
+  {
     "name": "Emmanuel Ogbah",
     "team": "JAX",
     "roles": [
@@ -7119,6 +7460,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/aqt97dv8q3qkwfwjuipm",
     "position": "DL",
     "matchedName": "Eric Gregory"
+  },
+  {
+    "name": "Eric Johnson II",
+    "team": "IND",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 4,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fsvxbdkpnaondae99zbl",
+    "position": "DL",
+    "matchedName": "Eric Johnson"
   },
   {
     "name": "Eric Kendricks",
@@ -7189,6 +7541,40 @@
     "matchedName": "Eric Wilson"
   },
   {
+    "name": "Erick Hallett II",
+    "team": "DET",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 15,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hnpxgdu65sr9w51rkp6g",
+    "position": "DB",
+    "matchedName": "Erick Hallett"
+  },
+  {
+    "name": "Erick Hallett II",
+    "team": "TEN",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 2,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hnpxgdu65sr9w51rkp6g",
+    "position": "DB",
+    "matchedName": "Erick Hallett"
+  },
+  {
+    "name": "Ernest Jones IV",
+    "team": "SEA",
+    "roles": [
+      "DEFENDER",
+      "SCORING_PLAYER"
+    ],
+    "events": 134,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zn0pz6okty7vbj5ryryt",
+    "position": "LB",
+    "matchedName": "Ernest Jones"
+  },
+  {
     "name": "Esezi Otomewo",
     "team": "PIT",
     "roles": [
@@ -7220,6 +7606,18 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/somszafluhppwnnplu8i",
     "position": "DL",
     "matchedName": "Ethan Downs"
+  },
+  {
+    "name": "Ethan Evans",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER",
+      "PASSER"
+    ],
+    "events": 109,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xqev6nqi3dzbwf6q5xkg",
+    "position": "P",
+    "matchedName": "Ethan Evans"
   },
   {
     "name": "Evan Brown",
@@ -7420,6 +7818,18 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ghzcze6fe8cmvu2vrkyo",
     "position": "WR",
     "matchedName": "Gage Larvadain"
+  },
+  {
+    "name": "Gardner Minshew II",
+    "team": "KC",
+    "roles": [
+      "PASSER",
+      "RUSHER"
+    ],
+    "events": 20,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lggwtoj1m0jxxiawtzpw",
+    "position": "QB",
+    "matchedName": "Gardner Minshew"
   },
   {
     "name": "Garett Bolles",
@@ -7898,6 +8308,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ove4pmnrtqtuyta6rrlc",
     "position": "K",
     "matchedName": "Harrison Butker"
+  },
+  {
+    "name": "Harrison Mevis",
+    "team": "LAR",
+    "roles": [
+      "SCORING_PLAYER"
+    ],
+    "events": 66,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/llxz144jnuzivgcvbxrl",
+    "position": "K",
+    "matchedName": "Harrison Mevis"
   },
   {
     "name": "Harrison Phillips",
@@ -8580,6 +9001,17 @@
     "matchedName": "Jack Gibbens"
   },
   {
+    "name": "Jack Heflin",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 1,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fpbxakmvdtvwmxmu6rl4",
+    "position": "DL",
+    "matchedName": "Jack Heflin"
+  },
+  {
     "name": "Jack Jones",
     "team": "MIA",
     "roles": [
@@ -9046,6 +9478,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/erhayhjdrny0fua2nizx",
     "position": "OL",
     "matchedName": "Jake Matthews"
+  },
+  {
+    "name": "Jake McQuaide",
+    "team": "LAR",
+    "roles": [
+      "PASSER"
+    ],
+    "events": 40,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gjtq2nbl0i8ejcx4dx9u",
+    "position": "LS",
+    "matchedName": "Jake McQuaide"
   },
   {
     "name": "Jake Moody",
@@ -9556,6 +9999,19 @@
     "matchedName": "James Conner"
   },
   {
+    "name": "James Cook III",
+    "team": "BUF",
+    "roles": [
+      "RECEIVER",
+      "RUSHER",
+      "SCORING_PLAYER"
+    ],
+    "events": 428,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/anjbznqb9i21wzcgrtbs",
+    "position": "RB",
+    "matchedName": "James Cook"
+  },
+  {
     "name": "James Houston",
     "team": "DAL",
     "roles": [
@@ -9610,6 +10066,28 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zasdorlctouussgqzvwm",
     "position": "DB",
     "matchedName": "James Pierre"
+  },
+  {
+    "name": "James Proche II",
+    "team": "TEN",
+    "roles": [
+      "RECEIVER"
+    ],
+    "events": 15,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s1jyxzrzgn2od1sempye",
+    "position": "WR",
+    "matchedName": "James Proche"
+  },
+  {
+    "name": "James Williams Sr.",
+    "team": "TEN",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 24,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/r31rpfa1ju3bqddeuhom",
+    "position": "LB",
+    "matchedName": "James Williams"
   },
   {
     "name": "James Winchester",
@@ -9720,6 +10198,18 @@
     "matchedName": "Jared Goff"
   },
   {
+    "name": "Jared Verse",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER",
+      "SCORING_PLAYER"
+    ],
+    "events": 64,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rapkhulnj8vsblkkgcca",
+    "position": "LB",
+    "matchedName": "Jared Verse"
+  },
+  {
     "name": "Jared Wayne",
     "team": "HOU",
     "roles": [
@@ -9766,6 +10256,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tea6ronjzs4ulorylah1",
     "position": "DB",
     "matchedName": "Jarius Monroe"
+  },
+  {
+    "name": "Jarquez Hunter",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 1,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k4mncnazqbnewpg5uwdm",
+    "position": "RB",
+    "matchedName": "Jarquez Hunter"
   },
   {
     "name": "Jarran Reed",
@@ -10026,6 +10527,17 @@
     "matchedName": "Jaxson Dart"
   },
   {
+    "name": "Jay Higgins IV",
+    "team": "BAL",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 8,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zsbevehh3h4bsqiyga5q",
+    "position": "LB",
+    "matchedName": "Jay Higgins"
+  },
+  {
     "name": "Jay Toia",
     "team": "DAL",
     "roles": [
@@ -10145,6 +10657,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bchqpne0r2pz0plq34pv",
     "position": "LB",
     "matchedName": "Jaylen Harrell"
+  },
+  {
+    "name": "Jaylen McCollough",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 54,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ofhqho42cem1dxzez96u",
+    "position": "DB",
+    "matchedName": "Jaylen McCollough"
   },
   {
     "name": "Jaylen Reed",
@@ -10560,6 +11083,18 @@
     "matchedName": "Jeshaun Jones"
   },
   {
+    "name": "Jessie Bates III",
+    "team": "ATL",
+    "roles": [
+      "DEFENDER",
+      "SCORING_PLAYER"
+    ],
+    "events": 84,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ypv1sfm8zjghyzvmx0a1",
+    "position": "DB",
+    "matchedName": "Jessie Bates"
+  },
+  {
     "name": "Jevon Holland",
     "team": "NYG",
     "roles": [
@@ -10603,6 +11138,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/btmkbywpoicg8fcgvfhc",
     "position": "LB",
     "matchedName": "Jihad Ward"
+  },
+  {
+    "name": "Jimmy Garoppolo",
+    "team": "LAR",
+    "roles": [
+      "RUSHER"
+    ],
+    "events": 9,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ivz3zwvjxvgcu4dzabur",
+    "position": "QB",
+    "matchedName": "Jimmy Garoppolo"
   },
   {
     "name": "Jimmy Horn Jr.",
@@ -10872,6 +11418,28 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rry6syvecvbzcw3zsgzb",
     "position": "WR",
     "matchedName": "John Metchie III"
+  },
+  {
+    "name": "John Ridgeway III",
+    "team": "NO",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 7,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/irpvoorgwwezk7qxrp0m",
+    "position": "DL",
+    "matchedName": "John Ridgeway"
+  },
+  {
+    "name": "Johnathan Baldwin II",
+    "team": "GB",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 6,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nszonpbrnxmspkzxo5x6",
+    "position": "DB",
+    "matchedName": "Johnathan Baldwin"
   },
   {
     "name": "Johnathan Edwards",
@@ -11411,6 +11979,19 @@
     "matchedName": "Jordan Watkins"
   },
   {
+    "name": "Jordan Whittington",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "RUSHER"
+    ],
+    "events": 61,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/w5h5q9jwyaimdjlnracx",
+    "position": "WR",
+    "matchedName": "Jordan Whittington"
+  },
+  {
     "name": "Jordon Riley",
     "team": "GB",
     "roles": [
@@ -11431,6 +12012,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fqpdggqc3fngvkta63zy",
     "position": "LB",
     "matchedName": "Jordyn Brooks"
+  },
+  {
+    "name": "Josaiah Stewart",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 24,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xuhdmqisxil9rvhurdpn",
+    "position": "LB",
+    "matchedName": "Josaiah Stewart"
   },
   {
     "name": "Joseph Ossai",
@@ -11657,6 +12249,17 @@
     "matchedName": "Josh Tupou"
   },
   {
+    "name": "Josh Wallace",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 24,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/budszyjdjn52puloxjc7",
+    "position": "DB",
+    "matchedName": "Josh Wallace"
+  },
+  {
     "name": "Josh Whyle",
     "team": "GB",
     "roles": [
@@ -11713,6 +12316,19 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/az6rfypeom5vj5xymqbw",
     "position": "DL",
     "matchedName": "Joshua Farmer"
+  },
+  {
+    "name": "Joshua Karty",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER",
+      "PASSER",
+      "SCORING_PLAYER"
+    ],
+    "events": 35,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j51z79en8vs3qdgkvnn5",
+    "position": "K",
+    "matchedName": "Joshua Karty"
   },
   {
     "name": "Joshua Williams",
@@ -12214,6 +12830,17 @@
     "matchedName": "Kalif Raymond"
   },
   {
+    "name": "Kam Curl",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 136,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tm9ahrg1kvnyyghpj5sy",
+    "position": "DB",
+    "matchedName": "Kam Curl"
+  },
+  {
     "name": "Kamal Hadden",
     "team": "GB",
     "roles": [
@@ -12248,6 +12875,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ms7auybbkq1nwbd2ev0d",
     "position": "WR",
     "matchedName": "Kameron Johnson"
+  },
+  {
+    "name": "Kamren Kinchens",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 88,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ixanabxmodk5m1xp8u8s",
+    "position": "DB",
+    "matchedName": "Kamren Kinchens"
   },
   {
     "name": "Kareem Hunt",
@@ -12630,6 +13268,20 @@
     "matchedName": "Kenny Clark"
   },
   {
+    "name": "Kenny Gainwell",
+    "team": "PIT",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "RUSHER",
+      "SCORING_PLAYER"
+    ],
+    "events": 265,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/f74x1ywy7oo5kq81vblh",
+    "position": "RB",
+    "matchedName": "Kenneth Gainwell"
+  },
+  {
     "name": "Kenny Moore II",
     "team": "IND",
     "roles": [
@@ -12722,6 +13374,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fh2yaqaxkornxeb7d9ie",
     "position": "WR",
     "matchedName": "Kevin Austin Jr."
+  },
+  {
+    "name": "Kevin Byard III",
+    "team": "CHI",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 88,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ymu0jcrm7clsyhhvmcki",
+    "position": "DB",
+    "matchedName": "Kevin Byard"
   },
   {
     "name": "Kevin Givens",
@@ -13010,6 +13673,30 @@
     "matchedName": "Kobee Minor"
   },
   {
+    "name": "Kobie Turner",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 43,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tmifh6zibjgxpesgp7bf",
+    "position": "DL",
+    "matchedName": "Kobie Turner"
+  },
+  {
+    "name": "Konata Mumpfield",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "SCORING_PLAYER"
+    ],
+    "events": 35,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/psy72cl8ko1zp7vkbvga",
+    "position": "WR",
+    "matchedName": "Konata Mumpfield"
+  },
+  {
     "name": "Kool-Aid McKinstry",
     "team": "NO",
     "roles": [
@@ -13041,6 +13728,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/q96h765zxponbrs6cnon",
     "position": "DB",
     "matchedName": "Kris Abrams-Draine"
+  },
+  {
+    "name": "Kris Jenkins Jr.",
+    "team": "CIN",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 29,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nuyy0laahr8mf5dojflu",
+    "position": "DL",
+    "matchedName": "Kris Jenkins"
   },
   {
     "name": "Kristian Fulton",
@@ -13171,6 +13869,19 @@
     "matchedName": "Kyle Monangai"
   },
   {
+    "name": "Kyle Pitts Sr.",
+    "team": "ATL",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "SCORING_PLAYER"
+    ],
+    "events": 133,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tbec213me3pszzszecqo",
+    "position": "TE",
+    "matchedName": "Kyle Pitts"
+  },
+  {
     "name": "Kyle Van Noy",
     "team": "BAL",
     "roles": [
@@ -13230,6 +13941,20 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/flezsremqighwuiyu77f",
     "position": "QB",
     "matchedName": "Kyler Murray"
+  },
+  {
+    "name": "Kyren Williams",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "RUSHER",
+      "SCORING_PLAYER"
+    ],
+    "events": 398,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/smsyrjrwy0lf0hu9hkvg",
+    "position": "RB",
+    "matchedName": "Kyren Williams"
   },
   {
     "name": "Kyu Blu Kelly",
@@ -13392,6 +14117,17 @@
     "matchedName": "Laquon Treadwell"
   },
   {
+    "name": "Larrell Murchison",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 3,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b0h5qpz02cuycf85isw4",
+    "position": "DL",
+    "matchedName": "Larrell Murchison"
+  },
+  {
     "name": "Larry Ogunjobi",
     "team": "BUF",
     "roles": [
@@ -13526,6 +14262,17 @@
     "matchedName": "Levi Drake Rodriguez"
   },
   {
+    "name": "Lew Nichols",
+    "team": "PIT",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 1,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pjwn4p2al5oaxyay4z5q",
+    "position": "RB",
+    "matchedName": "Lew Nichols III"
+  },
+  {
     "name": "Liam McCullough",
     "team": "ATL",
     "roles": [
@@ -13615,6 +14362,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yricskcpoyoucmgfauek",
     "position": "LB",
     "matchedName": "Logan Wilson"
+  },
+  {
+    "name": "Lonnie Johnson Jr.",
+    "team": "LV",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 24,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/a25iox2kpt2faeivak0g",
+    "position": "DB",
+    "matchedName": "Lonnie Johnson"
   },
   {
     "name": "Loren Strickland",
@@ -13819,6 +14577,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qbz7whjzsittudcecezw",
     "position": "WR",
     "matchedName": "Mack Hollins"
+  },
+  {
+    "name": "Mack Wilson Sr.",
+    "team": "ARI",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 58,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zjazfilpr7k2agiwqpxn",
+    "position": "LB",
+    "matchedName": "Mack Wilson"
   },
   {
     "name": "Maema Njongmeta",
@@ -14147,6 +14916,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/niqp2dje7qvlegxtsttn",
     "position": "DB",
     "matchedName": "Marcus Williams"
+  },
+  {
+    "name": "Mario Edwards Jr.",
+    "team": "HOU",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 8,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cia50revbealvw5biusr",
+    "position": "DL",
+    "matchedName": "Mario Edwards"
   },
   {
     "name": "Marist Liufau",
@@ -14522,6 +15302,19 @@
     "matchedName": "Matthew Judon"
   },
   {
+    "name": "Matthew Stafford",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER",
+      "PASSER",
+      "RUSHER"
+    ],
+    "events": 842,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/svxl2pk2cuqf26zrhii4",
+    "position": "QB",
+    "matchedName": "Matthew Stafford"
+  },
+  {
     "name": "Matthew Wright",
     "team": "HOU",
     "roles": [
@@ -14553,6 +15346,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c0yn4aeivdeyo1dvangx",
     "position": "K",
     "matchedName": "Matthew Wright"
+  },
+  {
+    "name": "Maurice Hurst II",
+    "team": "CLE",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 2,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/j4y7trnt3kiptgfklo8o",
+    "position": "DL",
+    "matchedName": "Maurice Hurst"
   },
   {
     "name": "Max Brosmer",
@@ -14621,6 +15425,20 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qqi681wzmujua627n1db",
     "position": "DL",
     "matchedName": "McKinnley Jackson"
+  },
+  {
+    "name": "Mecole Hardman Jr.",
+    "team": "BUF",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "RUSHER",
+      "SCORING_PLAYER"
+    ],
+    "events": 10,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mswmia17pkencx01nswj",
+    "position": "WR",
+    "matchedName": "Mecole Hardman"
   },
   {
     "name": "Mekhi Blackmon",
@@ -14789,6 +15607,19 @@
     "matchedName": "Michael Penix Jr."
   },
   {
+    "name": "Michael Pittman Jr.",
+    "team": "IND",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "SCORING_PLAYER"
+    ],
+    "events": 131,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z78xpye9hing1e7wke8b",
+    "position": "WR",
+    "matchedName": "Michael Pittman"
+  },
+  {
     "name": "Michael Wilson",
     "team": "ARI",
     "roles": [
@@ -14846,6 +15677,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yaxorbdsvk1ucfuiyrkj",
     "position": "WR",
     "matchedName": "Mike Evans"
+  },
+  {
+    "name": "Mike Ford Jr.",
+    "team": "ATL",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 16,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/njli78vr2hcan6rfogsb",
+    "position": "DB",
+    "matchedName": "Mike Ford"
   },
   {
     "name": "Mike Gesicki",
@@ -15374,6 +16216,17 @@
     "matchedName": "Nate Hobbs"
   },
   {
+    "name": "Nate Landman",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 131,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s9kvdztegpkmihjpwj0q",
+    "position": "LB",
+    "matchedName": "Nate Landman"
+  },
+  {
     "name": "Nate Wiggins",
     "team": "BAL",
     "roles": [
@@ -15563,6 +16416,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qcfiv2cc7ky37yq9iklp",
     "position": "K",
     "matchedName": "Nick Folk"
+  },
+  {
+    "name": "Nick Hampton",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 6,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pyouk6br5ca950zlofia",
+    "position": "LB",
+    "matchedName": "Nick Hampton"
   },
   {
     "name": "Nick Herbig",
@@ -15828,6 +16692,17 @@
     "matchedName": "Nohl Williams"
   },
   {
+    "name": "Nolan Smith Jr.",
+    "team": "PHI",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 25,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mutic3dzmrlfruwqlgcb",
+    "position": "LB",
+    "matchedName": "Nolan Smith"
+  },
+  {
     "name": "Odafe Oweh",
     "team": "BAL",
     "roles": [
@@ -15886,6 +16761,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xux3tjanbookjm0wmalz",
     "position": "LB",
     "matchedName": "Oluwafemi Oladejo"
+  },
+  {
+    "name": "Omar Speights",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 79,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/amlicxegqeiqvmg9gko0",
+    "position": "LB",
+    "matchedName": "Omar Speights"
   },
   {
     "name": "Omarion Hampton",
@@ -16309,6 +17195,17 @@
     "matchedName": "Philip Rivers"
   },
   {
+    "name": "Poona Ford",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 37,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z6bvartiturag8gtidcz",
+    "position": "DL",
+    "matchedName": "Poona Ford"
+  },
+  {
     "name": "Preston Smith",
     "team": "WAS",
     "roles": [
@@ -16329,6 +17226,19 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tujabrenppanxhgla1ed",
     "position": "LB",
     "matchedName": "Princely Umanmielen"
+  },
+  {
+    "name": "Puka Nacua",
+    "team": "LAR",
+    "roles": [
+      "RECEIVER",
+      "RUSHER",
+      "SCORING_PLAYER"
+    ],
+    "events": 250,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zvi4hdm6fywcekfe7ceb",
+    "position": "WR",
+    "matchedName": "Puka Nacua"
   },
   {
     "name": "Quan Martin",
@@ -16387,6 +17297,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bpzdpin1xp1kjxmbkq6d",
     "position": "WR",
     "matchedName": "Quentin Johnston"
+  },
+  {
+    "name": "Quentin Lake",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 77,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rhyy4y6kh7kbnuglf7jp",
+    "position": "DB",
+    "matchedName": "Quentin Lake"
   },
   {
     "name": "Quentin Skinner",
@@ -16754,6 +17675,29 @@
     "matchedName": "Ray Davis"
   },
   {
+    "name": "Ray-Ray McCloud III",
+    "team": "ATL",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER"
+    ],
+    "events": 24,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nvwn3sdihyyd2itjt7vy",
+    "position": "WR",
+    "matchedName": "Ray-Ray McCloud"
+  },
+  {
+    "name": "Ray-Ray McCloud III",
+    "team": "NYG",
+    "roles": [
+      "RECEIVER"
+    ],
+    "events": 1,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nvwn3sdihyyd2itjt7vy",
+    "position": "WR",
+    "matchedName": "Ray-Ray McCloud"
+  },
+  {
     "name": "Rayshawn Jenkins",
     "team": "CLE",
     "roles": [
@@ -16842,6 +17786,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/reoqk5hmsjugiaed55fk",
     "position": "DB",
     "matchedName": "Renardo Green"
+  },
+  {
+    "name": "Reuben Lowery III",
+    "team": "BAL",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 2,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/v8t5qfjt9x2ty8zkokon",
+    "position": "DB",
+    "matchedName": "Reuben Lowery"
   },
   {
     "name": "Rex Sunahara",
@@ -17124,6 +18079,29 @@
     "matchedName": "Rock Ya-Sin"
   },
   {
+    "name": "Rodney Thomas II",
+    "team": "IND",
+    "roles": [
+      "DEFENDER",
+      "RUSHER"
+    ],
+    "events": 18,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rmch7ilcol08gczhpwp6",
+    "position": "DB",
+    "matchedName": "Rodney Thomas"
+  },
+  {
+    "name": "Roger McCreary",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 11,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ntg1yix4ehhorke1zxkb",
+    "position": "DB",
+    "matchedName": "Roger McCreary"
+  },
+  {
     "name": "Roger McCreary",
     "team": "TEN",
     "roles": [
@@ -17187,6 +18165,41 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/iz3uiudpv80vgvgjzzej",
     "position": "WR",
     "matchedName": "Ronnie Bell"
+  },
+  {
+    "name": "Ronnie Harrison Jr.",
+    "team": "ATL",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 30,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b1aa4at262sjmhtxv5lh",
+    "position": "DB",
+    "matchedName": "Ronnie Harrison"
+  },
+  {
+    "name": "Ronnie Hickman",
+    "team": "CLE",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 78,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ds24p7j86p9mwshsjvbu",
+    "position": "DB",
+    "matchedName": "Ronnie Hickman Jr."
+  },
+  {
+    "name": "Ronnie Rivers",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "RUSHER"
+    ],
+    "events": 35,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ykza0uhrd73htnmjwbrk",
+    "position": "RB",
+    "matchedName": "Ronnie Rivers"
   },
   {
     "name": "Ronnie Stanley",
@@ -17290,6 +18303,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/erx6ismqu4gmu2dy6hq2",
     "position": "DL",
     "matchedName": "Ruke Orhorhoro"
+  },
+  {
+    "name": "Russell Gage Jr.",
+    "team": "SF",
+    "roles": [
+      "RECEIVER"
+    ],
+    "events": 1,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oigboeq0amnbgw7lnda0",
+    "position": "WR",
+    "matchedName": "Russell Gage"
   },
   {
     "name": "Russell Wilson",
@@ -17539,6 +18563,28 @@
     "matchedName": "Samson Ebukam"
   },
   {
+    "name": "Samuel Womack III",
+    "team": "NYJ",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 8,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qjqal4jl2itgnfzbliys",
+    "position": "DB",
+    "matchedName": "Samuel Womack"
+  },
+  {
+    "name": "Samuel Womack III",
+    "team": "TEN",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 5,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mhorsiwogbumpbvoi41x",
+    "position": "DB",
+    "matchedName": "Samuel Womack"
+  },
+  {
     "name": "Sanoussi Kane",
     "team": "BAL",
     "roles": [
@@ -17760,6 +18806,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jybewrw2vsf17rxds4tv",
     "position": "DB",
     "matchedName": "Shaquill Griffin"
+  },
+  {
+    "name": "Shaun Dolac",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 22,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/f7nr5g6gntkjbnybt14c",
+    "position": "LB",
+    "matchedName": "Shaun Dolac"
   },
   {
     "name": "Shavon Revel Jr.",
@@ -18065,6 +19122,17 @@
     "matchedName": "Sterling Shepard"
   },
   {
+    "name": "Steve Avila",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 1,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/k8py6unecntq8dio0wrz",
+    "position": "OL",
+    "matchedName": "Steve Avila"
+  },
+  {
     "name": "Steven Sims",
     "team": "ARI",
     "roles": [
@@ -18180,6 +19248,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wxkk01nfridtywdbl86z",
     "position": "DL",
     "matchedName": "T.J. Sanders"
+  },
+  {
+    "name": "T.J. Tampa Jr.",
+    "team": "BAL",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 24,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/poanrufasprugy1q1ulq",
+    "position": "DB",
+    "matchedName": "T.J. Tampa"
   },
   {
     "name": "T.J. Watt",
@@ -18323,6 +19402,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xe86peg3bxumjzfmtait",
     "position": "TE",
     "matchedName": "Tanner Hudson"
+  },
+  {
+    "name": "Tanner Ingle",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 2,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vzeuylllstdp5udwxgzq",
+    "position": "DB",
+    "matchedName": "Tanner Ingle"
   },
   {
     "name": "Tanner McKee",
@@ -18532,6 +19622,19 @@
     "matchedName": "Terence Steele"
   },
   {
+    "name": "Terrance Ferguson",
+    "team": "LAR",
+    "roles": [
+      "RECEIVER",
+      "RUSHER",
+      "SCORING_PLAYER"
+    ],
+    "events": 39,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/usa23ax8dratptvikr9a",
+    "position": "TE",
+    "matchedName": "Terrance Ferguson"
+  },
+  {
     "name": "Terrel Bernard",
     "team": "BUF",
     "roles": [
@@ -18689,6 +19792,17 @@
     "matchedName": "Theo Wease Jr."
   },
   {
+    "name": "Thomas Booker IV",
+    "team": "LV",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 35,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/mial4vlgplowh3uxrnmk",
+    "position": "DL",
+    "matchedName": "Thomas Booker"
+  },
+  {
     "name": "Thomas Fidone II",
     "team": "NYG",
     "roles": [
@@ -18767,6 +19881,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ovltsc9sdoo5e62fpa9b",
     "position": "WR",
     "matchedName": "Tim Patrick"
+  },
+  {
+    "name": "Tim Settle Jr.",
+    "team": "HOU",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 15,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jhb7b9b6r8yybbltih4v",
+    "position": "DL",
+    "matchedName": "Tim Settle"
   },
   {
     "name": "Tip Reiman",
@@ -18921,6 +20046,20 @@
     "matchedName": "Tory Taylor"
   },
   {
+    "name": "Travis Etienne Jr.",
+    "team": "JAX",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "RUSHER",
+      "SCORING_PLAYER"
+    ],
+    "events": 359,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gc0iljgj34piecyfueyd",
+    "position": "RB",
+    "matchedName": "Travis Etienne"
+  },
+  {
     "name": "Travis Homer",
     "team": "CHI",
     "roles": [
@@ -19032,6 +20171,17 @@
   },
   {
     "name": "Tre Brown",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 1,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rsa4qgvqzrmqgonwf3co",
+    "position": "DB",
+    "matchedName": "Tre Brown"
+  },
+  {
+    "name": "Tre Brown",
     "team": "NYJ",
     "roles": [
       "DEFENDER"
@@ -19139,6 +20289,30 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nkb7xmyxy4uxe4qhablh",
     "position": "DB",
     "matchedName": "Trent McDuffie"
+  },
+  {
+    "name": "Trent Sherfield Sr.",
+    "team": "ARI",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER"
+    ],
+    "events": 3,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/euvbflse91irfzlk7yiq",
+    "position": "WR",
+    "matchedName": "Trent Sherfield"
+  },
+  {
+    "name": "Trent Sherfield Sr.",
+    "team": "DEN",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER"
+    ],
+    "events": 6,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/esdvav44ezzmwbwe1rju",
+    "position": "WR",
+    "matchedName": "Trent Sherfield"
   },
   {
     "name": "Trent Sieg",
@@ -19454,6 +20628,17 @@
     "matchedName": "Troy Franklin"
   },
   {
+    "name": "Troy Reeder",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 25,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/laiuwnorvmneuwvav61k",
+    "position": "LB",
+    "matchedName": "Troy Reeder"
+  },
+  {
     "name": "Truman Jones",
     "team": "TEN",
     "roles": [
@@ -19512,6 +20697,18 @@
     "matchedName": "Tuli Tuipulotu"
   },
   {
+    "name": "Tutu Atwell",
+    "team": "LAR",
+    "roles": [
+      "RECEIVER",
+      "SCORING_PLAYER"
+    ],
+    "events": 19,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/twlslcaa7c2wblveaafu",
+    "position": "WR",
+    "matchedName": "Tutu Atwell"
+  },
+  {
     "name": "Ty Chandler",
     "team": "MIN",
     "roles": [
@@ -19523,6 +20720,17 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/i3urodji7vrb11n4pl06",
     "position": "RB",
     "matchedName": "Ty Chandler"
+  },
+  {
+    "name": "Ty Hamilton",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 6,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ehyuqjfrgtdsallsvoo0",
+    "position": "DL",
+    "matchedName": "Ty Hamilton"
   },
   {
     "name": "Ty Johnson",
@@ -19715,6 +20923,17 @@
     "matchedName": "Tyler Conklin"
   },
   {
+    "name": "Tyler Davis",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER"
+    ],
+    "events": 35,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jbwaqwv5imuhydw4vkzc",
+    "position": "DL",
+    "matchedName": "Tyler Davis"
+  },
+  {
     "name": "Tyler Goodson",
     "team": "IND",
     "roles": [
@@ -19726,6 +20945,18 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fvuevf0apxtfjwdj7l0e",
     "position": "RB",
     "matchedName": "Tyler Goodson"
+  },
+  {
+    "name": "Tyler Higbee",
+    "team": "LAR",
+    "roles": [
+      "RECEIVER",
+      "SCORING_PLAYER"
+    ],
+    "events": 45,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/x1d4osiefibd04df6gow",
+    "position": "TE",
+    "matchedName": "Tyler Higbee"
   },
   {
     "name": "Tyler Huntley",
@@ -20177,6 +21408,18 @@
     "matchedName": "Von Miller"
   },
   {
+    "name": "Walter Nolen III",
+    "team": "ARI",
+    "roles": [
+      "DEFENDER",
+      "SCORING_PLAYER"
+    ],
+    "events": 12,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jr8karjanloyyas4erxt",
+    "position": "DL",
+    "matchedName": "Walter Nolen"
+  },
+  {
     "name": "Wan'Dale Robinson",
     "team": "NYG",
     "roles": [
@@ -20462,6 +21705,19 @@
     "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ig4zstror8jyd9s9igfd",
     "position": "WR",
     "matchedName": "Xavier Restrepo"
+  },
+  {
+    "name": "Xavier Smith",
+    "team": "LAR",
+    "roles": [
+      "DEFENDER",
+      "RECEIVER",
+      "RUSHER"
+    ],
+    "events": 101,
+    "headshotUrl": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fk4gtziqefw5etqfylbe",
+    "position": "WR",
+    "matchedName": "Xavier Smith"
   },
   {
     "name": "Xavier Watts",

@@ -1,0 +1,1 @@
+{"framework":"nextjs","buildCommand":"npm run build","functions":{"app/api/ask/route.ts":{"maxDuration":40}}}

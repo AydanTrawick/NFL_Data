@@ -1,0 +1,719 @@
+[
+  {
+    "id": "PHI00",
+    "name": "Lincoln Financial Field",
+    "lat": 39.9009099,
+    "lon": -75.167489156059,
+    "city": "Philadelphia",
+    "country": "United States",
+    "isDome": false,
+    "points": 377,
+    "games": [
+      "2879178",
+      "2879225",
+      "2879320",
+      "2879344",
+      "2879482",
+      "2879504",
+      "2879513",
+      "2879554",
+      "2879583"
+    ]
+  },
+  {
+    "id": "WAS00",
+    "name": "FedExField",
+    "lat": 38.9077002,
+    "lon": -76.8633260869022,
+    "city": "Landover",
+    "country": "United States",
+    "isDome": false,
+    "points": 412,
+    "games": [
+      "2879222",
+      "2879291",
+      "2879324",
+      "2879388",
+      "2879395",
+      "2879433",
+      "2879516",
+      "2879519"
+    ]
+  },
+  {
+    "id": "CHI98",
+    "name": "Soldier Field",
+    "lat": 41.86245145,
+    "lon": -87.6167151470407,
+    "city": "Chicago",
+    "country": "United States",
+    "isDome": false,
+    "points": 441,
+    "games": [
+      "2879223",
+      "2879300",
+      "2879311",
+      "2879402",
+      "2879407",
+      "2879478",
+      "2879480",
+      "2879527",
+      "2879580",
+      "2879591"
+    ]
+  },
+  {
+    "id": "KAN00",
+    "name": "GEHA Field at Arrowhead Stadium",
+    "lat": 39.04894045,
+    "lon": -94.4849938110271,
+    "city": "Kansas City",
+    "country": "United States",
+    "isDome": false,
+    "points": 342,
+    "games": [
+      "2879224",
+      "2879312",
+      "2879334",
+      "2879386",
+      "2879411",
+      "2879457",
+      "2879468",
+      "2879497",
+      "2879548"
+    ]
+  },
+  {
+    "id": "ESPN4737",
+    "name": "Croke Park",
+    "lat": 53.360695,
+    "lon": -6.251373,
+    "city": "Dublin",
+    "country": "Ireland",
+    "isDome": false,
+    "points": 45,
+    "games": [
+      "2879236"
+    ]
+  },
+  {
+    "id": "ESPN5534",
+    "name": "Tottenham Hotspur Stadium",
+    "lat": 51.6041916,
+    "lon": -0.066234905259181,
+    "city": "London",
+    "country": "United Kingdom",
+    "isDome": false,
+    "points": 62,
+    "games": [
+      "2879237",
+      "2879238"
+    ]
+  },
+  {
+    "id": "ESPN2455",
+    "name": "Wembley Stadium",
+    "lat": 51.55606945,
+    "lon": -0.279603393794014,
+    "city": "London",
+    "country": "United Kingdom",
+    "isDome": false,
+    "points": 42,
+    "games": [
+      "2879239"
+    ]
+  },
+  {
+    "id": "ESPN7696",
+    "name": "Olympic Stadium Berlin",
+    "lat": 52.514722,
+    "lon": 13.239444,
+    "city": "Berlin",
+    "country": "Germany",
+    "isDome": false,
+    "points": 56,
+    "games": [
+      "2879240"
+    ]
+  },
+  {
+    "id": "ESPN1353",
+    "name": "Santiago Bernabéu",
+    "lat": 40.453054,
+    "lon": -3.688347,
+    "city": "Madrid",
+    "country": "Spain",
+    "isDome": false,
+    "points": 29,
+    "games": [
+      "2879241"
+    ]
+  },
+  {
+    "id": "GNB00",
+    "name": "Lambeau Field",
+    "lat": 44.50095825,
+    "lon": -88.0610340437601,
+    "city": "Green Bay",
+    "country": "United States",
+    "isDome": false,
+    "points": 319,
+    "games": [
+      "2879242",
+      "2879308",
+      "2879346",
+      "2879375",
+      "2879378",
+      "2879385",
+      "2879423",
+      "2879436"
+    ]
+  },
+  {
+    "id": "DAL00",
+    "name": "AT&T Stadium",
+    "lat": 32.74785025,
+    "lon": -97.0928337073774,
+    "city": "Arlington",
+    "country": "United States",
+    "isDome": true,
+    "points": 482,
+    "games": [
+      "2879287",
+      "2879329",
+      "2879362",
+      "2879394",
+      "2879420",
+      "2879442",
+      "2879445",
+      "2879551"
+    ]
+  },
+  {
+    "id": "MIN01",
+    "name": "U.S. Bank Stadium",
+    "lat": 44.9749861,
+    "lon": -93.2598737,
+    "city": "Minneapolis",
+    "country": "United States",
+    "isDome": true,
+    "points": 301,
+    "games": [
+      "2879292",
+      "2879416",
+      "2879430",
+      "2879473",
+      "2879494",
+      "2879500",
+      "2879506",
+      "2879530"
+    ]
+  },
+  {
+    "id": "ESPN8748",
+    "name": "Corinthians Arena",
+    "lat": -23.545531,
+    "lon": -46.473373,
+    "city": "Sao Paulo",
+    "country": "Brazil",
+    "isDome": false,
+    "points": 48,
+    "games": [
+      "2879296"
+    ]
+  },
+  {
+    "id": "HOU00",
+    "name": "NRG Stadium",
+    "lat": 29.6848581,
+    "lon": -95.4108014532699,
+    "city": "Houston",
+    "country": "United States",
+    "isDome": true,
+    "points": 418,
+    "games": [
+      "2879297",
+      "2879322",
+      "2879389",
+      "2879412",
+      "2879476",
+      "2879479",
+      "2879484",
+      "2879489",
+      "2879535"
+    ]
+  },
+  {
+    "id": "BAL00",
+    "name": "M&T Bank Stadium",
+    "lat": 39.2779664,
+    "lon": -76.6238093083547,
+    "city": "Baltimore",
+    "country": "United States",
+    "isDome": false,
+    "points": 426,
+    "games": [
+      "2879298",
+      "2879304",
+      "2879351",
+      "2879352",
+      "2879381",
+      "2879382",
+      "2879415",
+      "2879465",
+      "2879537"
+    ]
+  },
+  {
+    "id": "LAX01",
+    "name": "SoFi Stadium",
+    "lat": 33.95354625,
+    "lon": -118.338793383194,
+    "city": "Inglewood",
+    "country": "United States",
+    "isDome": true,
+    "points": 722,
+    "games": [
+      "2879299",
+      "2879335",
+      "2879336",
+      "2879349",
+      "2879350",
+      "2879380",
+      "2879414",
+      "2879434",
+      "2879439",
+      "2879459",
+      "2879461",
+      "2879493",
+      "2879518",
+      "2879520",
+      "2879545",
+      "2879546"
+    ]
+  },
+  {
+    "id": "BOS00",
+    "name": "Gillette Stadium",
+    "lat": 42.0912526,
+    "lon": -71.2644646105907,
+    "city": "Foxborough",
+    "country": "United States",
+    "isDome": false,
+    "points": 481,
+    "games": [
+      "2879301",
+      "2879337",
+      "2879391",
+      "2879393",
+      "2879477",
+      "2879502",
+      "2879508",
+      "2879521",
+      "2879540",
+      "2879584",
+      "2879590"
+    ]
+  },
+  {
+    "id": "NYC01",
+    "name": "MetLife Stadium",
+    "lat": 40.81352375,
+    "lon": -74.0734007489118,
+    "city": "East Rutherford",
+    "country": "United States",
+    "isDome": false,
+    "points": 734,
+    "games": [
+      "2879302",
+      "2879318",
+      "2879341",
+      "2879347",
+      "2879368",
+      "2879397",
+      "2879399",
+      "2879419",
+      "2879435",
+      "2879443",
+      "2879456",
+      "2879496",
+      "2879503",
+      "2879532",
+      "2879534",
+      "2879543"
+    ]
+  },
+  {
+    "id": "CIN00",
+    "name": "Paycor Stadium",
+    "lat": 39.0954645,
+    "lon": -84.5160488350198,
+    "city": "Cincinnati",
+    "country": "United States",
+    "isDome": false,
+    "points": 508,
+    "games": [
+      "2879303",
+      "2879317",
+      "2879331",
+      "2879376",
+      "2879398",
+      "2879413",
+      "2879432",
+      "2879471",
+      "2879481"
+    ]
+  },
+  {
+    "id": "DET00",
+    "name": "Ford Field",
+    "lat": 42.33995675,
+    "lon": -83.045616574037,
+    "city": "Detroit",
+    "country": "United States",
+    "isDome": true,
+    "points": 444,
+    "games": [
+      "2879305",
+      "2879348",
+      "2879379",
+      "2879404",
+      "2879410",
+      "2879424",
+      "2879451",
+      "2879533"
+    ]
+  },
+  {
+    "id": "CAR00",
+    "name": "Bank of America Stadium",
+    "lat": 35.225737,
+    "lon": -80.8536869740441,
+    "city": "Charlotte",
+    "country": "United States",
+    "isDome": false,
+    "points": 415,
+    "games": [
+      "2879306",
+      "2879354",
+      "2879356",
+      "2879387",
+      "2879429",
+      "2879469",
+      "2879474",
+      "2879499",
+      "2879581"
+    ]
+  },
+  {
+    "id": "TAM00",
+    "name": "Raymond James Stadium",
+    "lat": 27.97597925,
+    "lon": -82.5042179967362,
+    "city": "Tampa",
+    "country": "United States",
+    "isDome": false,
+    "points": 380,
+    "games": [
+      "2879307",
+      "2879369",
+      "2879370",
+      "2879440",
+      "2879507",
+      "2879512",
+      "2879515",
+      "2879544"
+    ]
+  },
+  {
+    "id": "IND00",
+    "name": "Lucas Oil Stadium",
+    "lat": 39.760085,
+    "lon": -86.1637037946731,
+    "city": "Indianapolis",
+    "country": "United States",
+    "isDome": true,
+    "points": 405,
+    "games": [
+      "2879309",
+      "2879315",
+      "2879357",
+      "2879363",
+      "2879422",
+      "2879450",
+      "2879464",
+      "2879490"
+    ]
+  },
+  {
+    "id": "ATL97",
+    "name": "Mercedes-Benz Stadium",
+    "lat": 33.75539625,
+    "lon": -84.4008156749447,
+    "city": "Atlanta",
+    "country": "United States",
+    "isDome": true,
+    "points": 376,
+    "games": [
+      "2879310",
+      "2879392",
+      "2879409",
+      "2879462",
+      "2879470",
+      "2879472",
+      "2879522",
+      "2879526"
+    ]
+  },
+  {
+    "id": "NOR00",
+    "name": "Mercedes-Benz Superdome",
+    "lat": 29.9510489,
+    "lon": -90.082307625389,
+    "city": "New Orleans",
+    "country": "United States",
+    "isDome": true,
+    "points": 296,
+    "games": [
+      "2879314",
+      "2879319",
+      "2879332",
+      "2879353",
+      "2879383",
+      "2879396",
+      "2879437",
+      "2879485"
+    ]
+  },
+  {
+    "id": "NAS00",
+    "name": "Nissan Stadium",
+    "lat": 36.16649655,
+    "lon": -86.7712644420847,
+    "city": "Nashville-Davidson",
+    "country": "United States",
+    "isDome": false,
+    "points": 410,
+    "games": [
+      "2879316",
+      "2879373",
+      "2879400",
+      "2879408",
+      "2879425",
+      "2879453",
+      "2879460",
+      "2879517",
+      "2879538"
+    ]
+  },
+  {
+    "id": "PHO00",
+    "name": "State Farm Stadium",
+    "lat": 33.52770765,
+    "lon": -112.262564902643,
+    "city": "Glendale",
+    "country": "United States",
+    "isDome": true,
+    "points": 406,
+    "games": [
+      "2879321",
+      "2879323",
+      "2879403",
+      "2879438",
+      "2879449",
+      "2879458",
+      "2879524",
+      "2879542"
+    ]
+  },
+  {
+    "id": "VEG00",
+    "name": "Allegiant Stadium",
+    "lat": 36.09083455,
+    "lon": -115.182477977026,
+    "city": "Paradise",
+    "country": "United States",
+    "isDome": true,
+    "points": 361,
+    "games": [
+      "2879325",
+      "2879374",
+      "2879421",
+      "2879441",
+      "2879444",
+      "2879486",
+      "2879498",
+      "2879550",
+      "2879556"
+    ]
+  },
+  {
+    "id": "JAX00",
+    "name": "TIAA Bank Stadium",
+    "lat": 30.32398105,
+    "lon": -81.6373045703404,
+    "city": "Jacksonville",
+    "country": "United States",
+    "isDome": false,
+    "points": 417,
+    "games": [
+      "2879326",
+      "2879328",
+      "2879342",
+      "2879361",
+      "2879427",
+      "2879491",
+      "2879505",
+      "2879528",
+      "2880473"
+    ]
+  },
+  {
+    "id": "SEA00",
+    "name": "Lumen Field",
+    "lat": 47.5953459,
+    "lon": -122.331644311961,
+    "city": "Seattle",
+    "country": "United States",
+    "isDome": false,
+    "points": 512,
+    "games": [
+      "2879327",
+      "2879343",
+      "2879355",
+      "2879372",
+      "2879377",
+      "2879455",
+      "2879510",
+      "2879523",
+      "2879589",
+      "2879595"
+    ]
+  },
+  {
+    "id": "CLE00",
+    "name": "FirstEnergy Stadium",
+    "lat": 41.5060559,
+    "lon": -81.6997118452595,
+    "city": "Cleveland",
+    "country": "United States",
+    "isDome": false,
+    "points": 288,
+    "games": [
+      "2879333",
+      "2879360",
+      "2879390",
+      "2879406",
+      "2879418",
+      "2879447",
+      "2879501",
+      "2879549"
+    ]
+  },
+  {
+    "id": "DEN00",
+    "name": "Empower Field at Mile High",
+    "lat": 39.743952,
+    "lon": -105.019222812368,
+    "city": "Denver",
+    "country": "United States",
+    "isDome": false,
+    "points": 470,
+    "games": [
+      "2879338",
+      "2879345",
+      "2879405",
+      "2879428",
+      "2879467",
+      "2879483",
+      "2879487",
+      "2879552",
+      "2879555",
+      "2879588",
+      "2879594"
+    ]
+  },
+  {
+    "id": "BUF00",
+    "name": "New Era Field",
+    "lat": 42.7737131,
+    "lon": -78.7869032106025,
+    "city": "Orchard Park",
+    "country": "United States",
+    "isDome": false,
+    "points": 492,
+    "games": [
+      "2879339",
+      "2879359",
+      "2879426",
+      "2879454",
+      "2879463",
+      "2879475",
+      "2879492",
+      "2879525",
+      "2879531"
+    ]
+  },
+  {
+    "id": "SFO01",
+    "name": "Levi's Stadium",
+    "lat": 37.40303995,
+    "lon": -121.969681705055,
+    "city": "Santa Clara",
+    "country": "United States",
+    "isDome": false,
+    "points": 404,
+    "games": [
+      "2879340",
+      "2879358",
+      "2879446",
+      "2879466",
+      "2879511",
+      "2879514",
+      "2879529",
+      "2879547",
+      "2879596"
+    ]
+  },
+  {
+    "id": "MIA00",
+    "name": "Hard Rock Stadium",
+    "lat": 25.95790315,
+    "lon": -80.2388497396752,
+    "city": "Miami Gardens",
+    "country": "United States",
+    "isDome": false,
+    "points": 382,
+    "games": [
+      "2879364",
+      "2879366",
+      "2879371",
+      "2879417",
+      "2879431",
+      "2879452",
+      "2879488",
+      "2879553"
+    ]
+  },
+  {
+    "id": "PIT00",
+    "name": "Acrisure Stadium",
+    "lat": 40.44671645,
+    "lon": -80.0157549334943,
+    "city": "Pittsburgh",
+    "country": "United States",
+    "isDome": false,
+    "points": 395,
+    "games": [
+      "2879365",
+      "2879367",
+      "2879384",
+      "2879401",
+      "2879448",
+      "2879495",
+      "2879509",
+      "2879536",
+      "2879586"
+    ]
+  }
+]

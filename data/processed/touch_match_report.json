@@ -1,0 +1,7 @@
+{
+  "playersWith50PlusTouches": 162,
+  "matched": 162,
+  "coverage": 1.0,
+  "unmatched": [],
+  "definition": "Counted rush attempts + completed receptions; returns excluded."
+}

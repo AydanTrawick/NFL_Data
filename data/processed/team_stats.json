@@ -1,0 +1,4498 @@
+{
+  "ARI": {
+    "team": "ARI",
+    "plays": 1074,
+    "passRate": 0.6592,
+    "motionRate": 0.4472,
+    "screenRate": 0.0587,
+    "blitzFacedRate": 0.1751,
+    "blitzSentRate": 0.2034,
+    "menInBox": 6.6,
+    "releaseTime": 2.82,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 5,
+        "pass": 2,
+        "total": 7
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 4,
+        "pass": 6,
+        "total": 10
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 177,
+        "pass": 242,
+        "total": 419
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 7,
+        "pass": 20,
+        "total": 27
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 33,
+        "pass": 25,
+        "total": 58
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 24,
+        "pass": 52,
+        "total": 76
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 39,
+        "pass": 122,
+        "total": 161
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 15,
+        "pass": 49,
+        "total": 64
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 34,
+        "pass": 29,
+        "total": 63
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 5,
+        "pass": 39,
+        "total": 44
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 5,
+        "pass": 62,
+        "total": 67
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 11,
+        "pass": 39,
+        "total": 50
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 7,
+        "pass": 6,
+        "total": 13
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 6,
+        "total": 6
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 5,
+        "total": 5
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 4,
+        "total": 4
+      }
+    ],
+    "personnel": {
+      "11": 514,
+      "12": 407,
+      "13": 123,
+      "10": 19,
+      "02": 3,
+      "14": 2,
+      "01": 2,
+      "22": 2,
+      "23": 1,
+      "21": 1
+    },
+    "directionCodes": {
+      "R": 194,
+      "L": 169
+    },
+    "yards": 5698
+  },
+  "ATL": {
+    "team": "ATL",
+    "plays": 1048,
+    "passRate": 0.5448,
+    "motionRate": 0.6692,
+    "screenRate": 0.0573,
+    "blitzFacedRate": 0.2081,
+    "blitzSentRate": 0.2515,
+    "menInBox": 6.78,
+    "releaseTime": 2.72,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 5,
+        "pass": 2,
+        "total": 7
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 8,
+        "pass": 4,
+        "total": 12
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 243,
+        "pass": 184,
+        "total": 427
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 11,
+        "pass": 11,
+        "total": 22
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 40,
+        "pass": 12,
+        "total": 52
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 43,
+        "pass": 34,
+        "total": 77
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 53,
+        "pass": 109,
+        "total": 162
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 15,
+        "pass": 39,
+        "total": 54
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 33,
+        "pass": 28,
+        "total": 61
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 6,
+        "pass": 46,
+        "total": 52
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 7,
+        "pass": 55,
+        "total": 62
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 3,
+        "pass": 29,
+        "total": 32
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 9,
+        "pass": 7,
+        "total": 16
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 1,
+        "pass": 6,
+        "total": 7
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 4,
+        "total": 4
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      }
+    ],
+    "personnel": {
+      "11": 476,
+      "12": 401,
+      "21": 94,
+      "13": 72,
+      "22": 5
+    },
+    "directionCodes": {
+      "L": 244,
+      "R": 220
+    },
+    "yards": 5704
+  },
+  "BAL": {
+    "team": "BAL",
+    "plays": 974,
+    "passRate": 0.4795,
+    "motionRate": 0.5157,
+    "screenRate": 0.0431,
+    "blitzFacedRate": 0.2283,
+    "blitzSentRate": 0.2004,
+    "menInBox": 7.11,
+    "releaseTime": 2.87,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 8,
+        "pass": 4,
+        "total": 12
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 11,
+        "pass": 0,
+        "total": 11
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 238,
+        "pass": 163,
+        "total": 401
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 3,
+        "pass": 8,
+        "total": 11
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 40,
+        "pass": 6,
+        "total": 46
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 60,
+        "pass": 20,
+        "total": 80
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 67,
+        "pass": 81,
+        "total": 148
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 7,
+        "pass": 29,
+        "total": 36
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 42,
+        "pass": 21,
+        "total": 63
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 12,
+        "pass": 43,
+        "total": 55
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 7,
+        "pass": 50,
+        "total": 57
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 6,
+        "pass": 23,
+        "total": 29
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 5,
+        "pass": 11,
+        "total": 16
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 5,
+        "total": 5
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 3,
+        "total": 3
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 1,
+        "pass": 0,
+        "total": 1
+      }
+    ],
+    "personnel": {
+      "12": 350,
+      "11": 291,
+      "21": 179,
+      "22": 86,
+      "13": 56,
+      "23": 4,
+      "31": 3,
+      "00": 2,
+      "14": 1,
+      "20": 1,
+      "01": 1
+    },
+    "directionCodes": {
+      "L": 246,
+      "R": 245
+    },
+    "yards": 5760
+  },
+  "BUF": {
+    "team": "BUF",
+    "plays": 1222,
+    "passRate": 0.5016,
+    "motionRate": 0.5947,
+    "screenRate": 0.0573,
+    "blitzFacedRate": 0.2012,
+    "blitzSentRate": 0.2061,
+    "menInBox": 7.06,
+    "releaseTime": 2.8,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 11,
+        "pass": 2,
+        "total": 13
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 5,
+        "pass": 4,
+        "total": 9
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 319,
+        "pass": 189,
+        "total": 508
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 8,
+        "pass": 4,
+        "total": 12
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 47,
+        "pass": 21,
+        "total": 68
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 60,
+        "pass": 53,
+        "total": 113
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 48,
+        "pass": 132,
+        "total": 180
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 14,
+        "pass": 31,
+        "total": 45
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 56,
+        "pass": 29,
+        "total": 85
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 13,
+        "pass": 39,
+        "total": 52
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 5,
+        "pass": 66,
+        "total": 71
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 10,
+        "pass": 21,
+        "total": 31
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 13,
+        "pass": 13,
+        "total": 26
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 6,
+        "total": 6
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 2,
+        "total": 2
+      }
+    ],
+    "personnel": {
+      "11": 745,
+      "22": 155,
+      "12": 137,
+      "21": 109,
+      "13": 63,
+      "02": 6,
+      "01": 3,
+      "23": 2,
+      "03": 1,
+      "14": 1
+    },
+    "directionCodes": {
+      "L": 298,
+      "R": 284
+    },
+    "yards": 7306
+  },
+  "CAR": {
+    "team": "CAR",
+    "plays": 1075,
+    "passRate": 0.5507,
+    "motionRate": 0.4283,
+    "screenRate": 0.0447,
+    "blitzFacedRate": 0.232,
+    "blitzSentRate": 0.2095,
+    "menInBox": 6.7,
+    "releaseTime": 2.77,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 4,
+        "pass": 4,
+        "total": 8
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 3,
+        "pass": 5,
+        "total": 8
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 250,
+        "pass": 181,
+        "total": 431
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 12,
+        "pass": 5,
+        "total": 17
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 34,
+        "pass": 21,
+        "total": 55
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 40,
+        "pass": 47,
+        "total": 87
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 49,
+        "pass": 112,
+        "total": 161
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 17,
+        "pass": 31,
+        "total": 48
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 31,
+        "pass": 28,
+        "total": 59
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 12,
+        "pass": 52,
+        "total": 64
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 7,
+        "pass": 48,
+        "total": 55
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 9,
+        "pass": 30,
+        "total": 39
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 14,
+        "pass": 14,
+        "total": 28
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 8,
+        "total": 8
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 1,
+        "pass": 3,
+        "total": 4
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 3,
+        "total": 3
+      }
+    ],
+    "personnel": {
+      "11": 704,
+      "12": 218,
+      "13": 87,
+      "22": 30,
+      "21": 19,
+      "01": 8,
+      "10": 5,
+      "00": 2,
+      "20": 2
+    },
+    "directionCodes": {
+      "L": 256,
+      "R": 208
+    },
+    "yards": 5469
+  },
+  "CHI": {
+    "team": "CHI",
+    "plays": 1261,
+    "passRate": 0.5464,
+    "motionRate": 0.603,
+    "screenRate": 0.0571,
+    "blitzFacedRate": 0.2059,
+    "blitzSentRate": 0.205,
+    "menInBox": 6.84,
+    "releaseTime": 3.17,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 3,
+        "pass": 7,
+        "total": 10
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 8,
+        "pass": 4,
+        "total": 12
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 255,
+        "pass": 246,
+        "total": 501
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 9,
+        "pass": 12,
+        "total": 21
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 35,
+        "pass": 33,
+        "total": 68
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 51,
+        "pass": 35,
+        "total": 86
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 88,
+        "pass": 106,
+        "total": 194
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 21,
+        "pass": 41,
+        "total": 62
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 55,
+        "pass": 22,
+        "total": 77
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 22,
+        "pass": 53,
+        "total": 75
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 11,
+        "pass": 62,
+        "total": 73
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 4,
+        "pass": 37,
+        "total": 41
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 10,
+        "pass": 17,
+        "total": 27
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 13,
+        "total": 13
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 0,
+        "total": 0
+      }
+    ],
+    "personnel": {
+      "11": 666,
+      "12": 434,
+      "13": 126,
+      "01": 21,
+      "02": 10,
+      "10": 3,
+      "03": 1
+    },
+    "directionCodes": {
+      "R": 332,
+      "L": 228
+    },
+    "yards": 7318
+  },
+  "CIN": {
+    "team": "CIN",
+    "plays": 1057,
+    "passRate": 0.6395,
+    "motionRate": 0.5163,
+    "screenRate": 0.0378,
+    "blitzFacedRate": 0.1575,
+    "blitzSentRate": 0.1277,
+    "menInBox": 6.53,
+    "releaseTime": 2.68,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 5,
+        "pass": 3,
+        "total": 8
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 8,
+        "pass": 3,
+        "total": 11
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 182,
+        "pass": 252,
+        "total": 434
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 7,
+        "pass": 9,
+        "total": 16
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 37,
+        "pass": 25,
+        "total": 62
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 30,
+        "pass": 46,
+        "total": 76
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 50,
+        "pass": 121,
+        "total": 171
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 7,
+        "pass": 31,
+        "total": 38
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 32,
+        "pass": 30,
+        "total": 62
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 3,
+        "pass": 57,
+        "total": 60
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 6,
+        "pass": 54,
+        "total": 60
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 8,
+        "pass": 31,
+        "total": 39
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 6,
+        "pass": 7,
+        "total": 13
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 3,
+        "total": 3
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 4,
+        "total": 4
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 0,
+        "total": 0
+      }
+    ],
+    "personnel": {
+      "11": 687,
+      "12": 314,
+      "21": 20,
+      "13": 9,
+      "22": 8,
+      "10": 7,
+      "20": 4,
+      "01": 4,
+      "03": 2,
+      "02": 2
+    },
+    "directionCodes": {
+      "L": 187,
+      "R": 185
+    },
+    "yards": 5781
+  },
+  "CLE": {
+    "team": "CLE",
+    "plays": 1030,
+    "passRate": 0.5913,
+    "motionRate": 0.5078,
+    "screenRate": 0.067,
+    "blitzFacedRate": 0.1814,
+    "blitzSentRate": 0.1884,
+    "menInBox": 6.8,
+    "releaseTime": 2.93,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 6,
+        "pass": 2,
+        "total": 8
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 5,
+        "pass": 3,
+        "total": 8
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 203,
+        "pass": 189,
+        "total": 392
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 4,
+        "pass": 15,
+        "total": 19
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 33,
+        "pass": 13,
+        "total": 46
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 33,
+        "pass": 27,
+        "total": 60
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 51,
+        "pass": 119,
+        "total": 170
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 16,
+        "pass": 47,
+        "total": 63
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 37,
+        "pass": 16,
+        "total": 53
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 6,
+        "pass": 49,
+        "total": 55
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 8,
+        "pass": 64,
+        "total": 72
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 6,
+        "pass": 49,
+        "total": 55
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 12,
+        "pass": 4,
+        "total": 16
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 5,
+        "total": 5
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 3,
+        "total": 3
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 1,
+        "pass": 4,
+        "total": 5
+      }
+    ],
+    "personnel": {
+      "11": 474,
+      "12": 472,
+      "13": 52,
+      "21": 14,
+      "02": 8,
+      "10": 5,
+      "22": 3,
+      "01": 2
+    },
+    "directionCodes": {
+      "R": 218,
+      "L": 199
+    },
+    "yards": 4716
+  },
+  "DAL": {
+    "team": "DAL",
+    "plays": 1120,
+    "passRate": 0.5848,
+    "motionRate": 0.5576,
+    "screenRate": 0.0286,
+    "blitzFacedRate": 0.2006,
+    "blitzSentRate": 0.2061,
+    "menInBox": 6.65,
+    "releaseTime": 2.77,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 14,
+        "pass": 4,
+        "total": 18
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 7,
+        "pass": 5,
+        "total": 12
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 246,
+        "pass": 217,
+        "total": 463
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 6,
+        "pass": 12,
+        "total": 18
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 46,
+        "pass": 26,
+        "total": 72
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 38,
+        "pass": 47,
+        "total": 85
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 51,
+        "pass": 111,
+        "total": 162
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 11,
+        "pass": 35,
+        "total": 46
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 22,
+        "pass": 37,
+        "total": 59
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 3,
+        "pass": 54,
+        "total": 57
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 7,
+        "pass": 55,
+        "total": 62
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 6,
+        "pass": 25,
+        "total": 31
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 6,
+        "pass": 18,
+        "total": 24
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 2,
+        "pass": 5,
+        "total": 7
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 3,
+        "total": 3
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      }
+    ],
+    "personnel": {
+      "11": 750,
+      "12": 188,
+      "21": 89,
+      "22": 54,
+      "13": 18,
+      "01": 10,
+      "20": 4,
+      "23": 3,
+      "02": 2,
+      "10": 1,
+      "00": 1
+    },
+    "directionCodes": {
+      "L": 227,
+      "R": 222
+    },
+    "yards": 6837
+  },
+  "DEN": {
+    "team": "DEN",
+    "plays": 1218,
+    "passRate": 0.5878,
+    "motionRate": 0.4052,
+    "screenRate": 0.0788,
+    "blitzFacedRate": 0.1859,
+    "blitzSentRate": 0.2558,
+    "menInBox": 6.72,
+    "releaseTime": 2.86,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 6,
+        "pass": 2,
+        "total": 8
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 8,
+        "pass": 2,
+        "total": 10
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 239,
+        "pass": 243,
+        "total": 482
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 11,
+        "pass": 15,
+        "total": 26
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 46,
+        "pass": 25,
+        "total": 71
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 44,
+        "pass": 51,
+        "total": 95
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 66,
+        "pass": 112,
+        "total": 178
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 17,
+        "pass": 46,
+        "total": 63
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 38,
+        "pass": 40,
+        "total": 78
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 8,
+        "pass": 56,
+        "total": 64
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 5,
+        "pass": 64,
+        "total": 69
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 5,
+        "pass": 47,
+        "total": 52
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 8,
+        "pass": 9,
+        "total": 17
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 1,
+        "pass": 2,
+        "total": 3
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      }
+    ],
+    "personnel": {
+      "11": 782,
+      "12": 167,
+      "22": 102,
+      "21": 90,
+      "13": 35,
+      "01": 20,
+      "20": 9,
+      "10": 8,
+      "02": 4,
+      "23": 1
+    },
+    "directionCodes": {
+      "R": 251,
+      "L": 231
+    },
+    "yards": 6611
+  },
+  "DET": {
+    "team": "DET",
+    "plays": 1063,
+    "passRate": 0.5842,
+    "motionRate": 0.4933,
+    "screenRate": 0.0611,
+    "blitzFacedRate": 0.2034,
+    "blitzSentRate": 0.1782,
+    "menInBox": 6.9,
+    "releaseTime": 2.66,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 5,
+        "pass": 1,
+        "total": 6
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 7,
+        "pass": 7,
+        "total": 14
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 214,
+        "pass": 220,
+        "total": 434
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 9,
+        "pass": 9,
+        "total": 18
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 36,
+        "pass": 21,
+        "total": 57
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 43,
+        "pass": 38,
+        "total": 81
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 58,
+        "pass": 96,
+        "total": 154
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 14,
+        "pass": 40,
+        "total": 54
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 28,
+        "pass": 29,
+        "total": 57
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 10,
+        "pass": 44,
+        "total": 54
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 4,
+        "pass": 54,
+        "total": 58
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 6,
+        "pass": 39,
+        "total": 45
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 8,
+        "pass": 18,
+        "total": 26
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 5,
+        "total": 5
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 0,
+        "total": 0
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 0,
+        "total": 0
+      }
+    ],
+    "personnel": {
+      "11": 652,
+      "12": 272,
+      "13": 59,
+      "21": 37,
+      "20": 21,
+      "10": 20,
+      "22": 2
+    },
+    "directionCodes": {
+      "R": 238,
+      "L": 191
+    },
+    "yards": 6487
+  },
+  "GB": {
+    "team": "GB",
+    "plays": 1079,
+    "passRate": 0.5227,
+    "motionRate": 0.5424,
+    "screenRate": 0.0528,
+    "blitzFacedRate": 0.2246,
+    "blitzSentRate": 0.1667,
+    "menInBox": 6.77,
+    "releaseTime": 2.85,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 6,
+        "pass": 2,
+        "total": 8
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 6,
+        "pass": 2,
+        "total": 8
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 259,
+        "pass": 183,
+        "total": 442
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 4,
+        "pass": 13,
+        "total": 17
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 41,
+        "pass": 10,
+        "total": 51
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 55,
+        "pass": 40,
+        "total": 95
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 59,
+        "pass": 112,
+        "total": 171
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 10,
+        "pass": 28,
+        "total": 38
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 51,
+        "pass": 37,
+        "total": 88
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 4,
+        "pass": 33,
+        "total": 37
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 7,
+        "pass": 55,
+        "total": 62
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 5,
+        "pass": 29,
+        "total": 34
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 8,
+        "pass": 11,
+        "total": 19
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 3,
+        "total": 3
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 5,
+        "total": 5
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      }
+    ],
+    "personnel": {
+      "11": 665,
+      "12": 355,
+      "21": 37,
+      "13": 14,
+      "10": 8
+    },
+    "directionCodes": {
+      "R": 265,
+      "L": 232
+    },
+    "yards": 6230
+  },
+  "HOU": {
+    "team": "HOU",
+    "plays": 1226,
+    "passRate": 0.5693,
+    "motionRate": 0.5515,
+    "screenRate": 0.0269,
+    "blitzFacedRate": 0.2305,
+    "blitzSentRate": 0.1555,
+    "menInBox": 6.88,
+    "releaseTime": 2.73,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 9,
+        "pass": 2,
+        "total": 11
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 11,
+        "pass": 1,
+        "total": 12
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 268,
+        "pass": 204,
+        "total": 472
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 9,
+        "pass": 20,
+        "total": 29
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 45,
+        "pass": 18,
+        "total": 63
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 33,
+        "pass": 62,
+        "total": 95
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 59,
+        "pass": 129,
+        "total": 188
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 19,
+        "pass": 53,
+        "total": 72
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 37,
+        "pass": 36,
+        "total": 73
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 10,
+        "pass": 57,
+        "total": 67
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 5,
+        "pass": 67,
+        "total": 72
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 13,
+        "pass": 38,
+        "total": 51
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 10,
+        "pass": 6,
+        "total": 16
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 4,
+        "total": 4
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 0,
+        "total": 0
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      }
+    ],
+    "personnel": {
+      "11": 874,
+      "12": 176,
+      "21": 67,
+      "10": 43,
+      "20": 30,
+      "13": 18,
+      "22": 17,
+      "01": 1
+    },
+    "directionCodes": {
+      "R": 276,
+      "L": 238
+    },
+    "yards": 6392
+  },
+  "IND": {
+    "team": "IND",
+    "plays": 1018,
+    "passRate": 0.5658,
+    "motionRate": 0.5438,
+    "screenRate": 0.0324,
+    "blitzFacedRate": 0.2313,
+    "blitzSentRate": 0.2296,
+    "menInBox": 6.72,
+    "releaseTime": 2.62,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 10,
+        "pass": 2,
+        "total": 12
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 7,
+        "pass": 7,
+        "total": 14
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 212,
+        "pass": 212,
+        "total": 424
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 5,
+        "pass": 7,
+        "total": 12
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 45,
+        "pass": 14,
+        "total": 59
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 50,
+        "pass": 32,
+        "total": 82
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 35,
+        "pass": 115,
+        "total": 150
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 7,
+        "pass": 36,
+        "total": 43
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 32,
+        "pass": 27,
+        "total": 59
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 5,
+        "pass": 41,
+        "total": 46
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 7,
+        "pass": 49,
+        "total": 56
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 10,
+        "pass": 24,
+        "total": 34
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 17,
+        "pass": 7,
+        "total": 24
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      }
+    ],
+    "personnel": {
+      "11": 640,
+      "12": 266,
+      "13": 101,
+      "21": 7,
+      "02": 2,
+      "22": 1,
+      "10": 1
+    },
+    "directionCodes": {
+      "R": 226,
+      "L": 203
+    },
+    "yards": 6093
+  },
+  "JAX": {
+    "team": "JAX",
+    "plays": 1147,
+    "passRate": 0.5536,
+    "motionRate": 0.567,
+    "screenRate": 0.0584,
+    "blitzFacedRate": 0.2,
+    "blitzSentRate": 0.2116,
+    "menInBox": 6.67,
+    "releaseTime": 2.79,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 10,
+        "pass": 3,
+        "total": 13
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 14,
+        "pass": 2,
+        "total": 16
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 242,
+        "pass": 217,
+        "total": 459
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 5,
+        "pass": 12,
+        "total": 17
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 37,
+        "pass": 27,
+        "total": 64
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 41,
+        "pass": 47,
+        "total": 88
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 55,
+        "pass": 120,
+        "total": 175
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 16,
+        "pass": 43,
+        "total": 59
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 39,
+        "pass": 21,
+        "total": 60
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 15,
+        "pass": 43,
+        "total": 58
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 7,
+        "pass": 46,
+        "total": 53
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 11,
+        "pass": 44,
+        "total": 55
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 19,
+        "pass": 5,
+        "total": 24
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 2,
+        "total": 2
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 1,
+        "pass": 2,
+        "total": 3
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      }
+    ],
+    "personnel": {
+      "11": 805,
+      "12": 256,
+      "21": 40,
+      "13": 26,
+      "10": 15,
+      "23": 2,
+      "00": 2,
+      "01": 1
+    },
+    "directionCodes": {
+      "L": 249,
+      "R": 243
+    },
+    "yards": 6252
+  },
+  "KC": {
+    "team": "KC",
+    "plays": 1061,
+    "passRate": 0.5947,
+    "motionRate": 0.481,
+    "screenRate": 0.0801,
+    "blitzFacedRate": 0.155,
+    "blitzSentRate": 0.2453,
+    "menInBox": 6.52,
+    "releaseTime": 2.79,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 6,
+        "pass": 2,
+        "total": 8
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 6,
+        "pass": 4,
+        "total": 10
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 217,
+        "pass": 203,
+        "total": 420
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 1,
+        "pass": 19,
+        "total": 20
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 39,
+        "pass": 21,
+        "total": 60
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 38,
+        "pass": 47,
+        "total": 85
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 34,
+        "pass": 124,
+        "total": 158
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 10,
+        "pass": 38,
+        "total": 48
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 38,
+        "pass": 37,
+        "total": 75
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 8,
+        "pass": 39,
+        "total": 47
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 8,
+        "pass": 48,
+        "total": 56
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 11,
+        "pass": 31,
+        "total": 42
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 13,
+        "pass": 12,
+        "total": 25
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 1,
+        "pass": 3,
+        "total": 4
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 2,
+        "total": 2
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      }
+    ],
+    "personnel": {
+      "11": 609,
+      "12": 315,
+      "13": 70,
+      "21": 45,
+      "22": 15,
+      "23": 3,
+      "10": 2,
+      "02": 2
+    },
+    "directionCodes": {
+      "L": 214,
+      "R": 203
+    },
+    "yards": 5661
+  },
+  "LAC": {
+    "team": "LAC",
+    "plays": 1154,
+    "passRate": 0.5771,
+    "motionRate": 0.5026,
+    "screenRate": 0.0321,
+    "blitzFacedRate": 0.2201,
+    "blitzSentRate": 0.1968,
+    "menInBox": 6.71,
+    "releaseTime": 2.86,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 7,
+        "pass": 2,
+        "total": 9
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 10,
+        "pass": 4,
+        "total": 14
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 246,
+        "pass": 192,
+        "total": 438
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 5,
+        "pass": 16,
+        "total": 21
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 41,
+        "pass": 19,
+        "total": 60
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 37,
+        "pass": 58,
+        "total": 95
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 46,
+        "pass": 121,
+        "total": 167
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 12,
+        "pass": 53,
+        "total": 65
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 47,
+        "pass": 36,
+        "total": 83
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 9,
+        "pass": 62,
+        "total": 71
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 5,
+        "pass": 53,
+        "total": 58
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 14,
+        "pass": 35,
+        "total": 49
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 7,
+        "pass": 3,
+        "total": 10
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 1,
+        "pass": 3,
+        "total": 4
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 1,
+        "pass": 7,
+        "total": 8
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 2,
+        "total": 2
+      }
+    ],
+    "personnel": {
+      "11": 659,
+      "21": 165,
+      "22": 92,
+      "20": 77,
+      "12": 66,
+      "10": 61,
+      "13": 21,
+      "01": 12,
+      "23": 1
+    },
+    "directionCodes": {
+      "L": 248,
+      "R": 227
+    },
+    "yards": 5998
+  },
+  "LAR": {
+    "team": "LAR",
+    "plays": 1292,
+    "passRate": 0.5766,
+    "motionRate": 0.6264,
+    "screenRate": 0.0379,
+    "blitzFacedRate": 0.2284,
+    "blitzSentRate": 0.181,
+    "menInBox": 6.82,
+    "releaseTime": 2.78,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 10,
+        "pass": 8,
+        "total": 18
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 9,
+        "pass": 9,
+        "total": 18
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 282,
+        "pass": 261,
+        "total": 543
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 5,
+        "pass": 11,
+        "total": 16
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 51,
+        "pass": 35,
+        "total": 86
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 60,
+        "pass": 74,
+        "total": 134
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 37,
+        "pass": 130,
+        "total": 167
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 22,
+        "pass": 23,
+        "total": 45
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 36,
+        "pass": 55,
+        "total": 91
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 4,
+        "pass": 50,
+        "total": 54
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 5,
+        "pass": 50,
+        "total": 55
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 9,
+        "pass": 21,
+        "total": 30
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 17,
+        "pass": 11,
+        "total": 28
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 5,
+        "total": 5
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 2,
+        "total": 2
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 0,
+        "total": 0
+      }
+    ],
+    "personnel": {
+      "11": 766,
+      "13": 388,
+      "12": 125,
+      "02": 11,
+      "10": 1,
+      "00": 1
+    },
+    "directionCodes": {
+      "L": 270,
+      "R": 249
+    },
+    "yards": 8042
+  },
+  "LV": {
+    "team": "LV",
+    "plays": 948,
+    "passRate": 0.6108,
+    "motionRate": 0.4798,
+    "screenRate": 0.058,
+    "blitzFacedRate": 0.2272,
+    "blitzSentRate": 0.1472,
+    "menInBox": 6.59,
+    "releaseTime": 2.75,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 6,
+        "pass": 1,
+        "total": 7
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 1,
+        "pass": 2,
+        "total": 3
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 167,
+        "pass": 210,
+        "total": 377
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 8,
+        "pass": 6,
+        "total": 14
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 22,
+        "pass": 21,
+        "total": 43
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 35,
+        "pass": 39,
+        "total": 74
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 49,
+        "pass": 76,
+        "total": 125
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 20,
+        "pass": 40,
+        "total": 60
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 34,
+        "pass": 32,
+        "total": 66
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 4,
+        "pass": 44,
+        "total": 48
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 2,
+        "pass": 45,
+        "total": 47
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 9,
+        "pass": 43,
+        "total": 52
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 9,
+        "pass": 12,
+        "total": 21
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 2,
+        "pass": 7,
+        "total": 9
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 0,
+        "total": 0
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 1,
+        "pass": 1,
+        "total": 2
+      }
+    ],
+    "personnel": {
+      "11": 546,
+      "12": 339,
+      "13": 56,
+      "21": 3,
+      "22": 2,
+      "02": 1,
+      "00": 1
+    },
+    "directionCodes": {
+      "L": 186,
+      "R": 177
+    },
+    "yards": 4403
+  },
+  "MIA": {
+    "team": "MIA",
+    "plays": 949,
+    "passRate": 0.5448,
+    "motionRate": 0.7079,
+    "screenRate": 0.0917,
+    "blitzFacedRate": 0.1719,
+    "blitzSentRate": 0.2487,
+    "menInBox": 6.77,
+    "releaseTime": 2.56,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 2,
+        "pass": 2,
+        "total": 4
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 7,
+        "pass": 6,
+        "total": 13
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 220,
+        "pass": 166,
+        "total": 386
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 5,
+        "pass": 8,
+        "total": 13
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 34,
+        "pass": 21,
+        "total": 55
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 37,
+        "pass": 32,
+        "total": 69
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 46,
+        "pass": 88,
+        "total": 134
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 24,
+        "pass": 36,
+        "total": 60
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 27,
+        "pass": 15,
+        "total": 42
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 6,
+        "pass": 38,
+        "total": 44
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 12,
+        "pass": 55,
+        "total": 67
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 6,
+        "pass": 33,
+        "total": 39
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 6,
+        "pass": 6,
+        "total": 12
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 5,
+        "total": 5
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 2,
+        "total": 2
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 4,
+        "total": 4
+      }
+    ],
+    "personnel": {
+      "11": 396,
+      "21": 281,
+      "12": 110,
+      "22": 83,
+      "20": 50,
+      "10": 13,
+      "13": 8,
+      "31": 3,
+      "02": 2,
+      "23": 1,
+      "32": 1,
+      "00": 1
+    },
+    "directionCodes": {
+      "R": 213,
+      "L": 210
+    },
+    "yards": 5470
+  },
+  "MIN": {
+    "team": "MIN",
+    "plays": 954,
+    "passRate": 0.5702,
+    "motionRate": 0.5005,
+    "screenRate": 0.0692,
+    "blitzFacedRate": 0.1937,
+    "blitzSentRate": 0.315,
+    "menInBox": 6.77,
+    "releaseTime": 2.82,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 3,
+        "pass": 2,
+        "total": 5
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 5,
+        "pass": 8,
+        "total": 13
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 215,
+        "pass": 172,
+        "total": 387
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 3,
+        "pass": 15,
+        "total": 18
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 27,
+        "pass": 19,
+        "total": 46
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 32,
+        "pass": 43,
+        "total": 75
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 53,
+        "pass": 86,
+        "total": 139
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 15,
+        "pass": 37,
+        "total": 52
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 24,
+        "pass": 26,
+        "total": 50
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 5,
+        "pass": 43,
+        "total": 48
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 11,
+        "pass": 42,
+        "total": 53
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 8,
+        "pass": 36,
+        "total": 44
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 9,
+        "pass": 7,
+        "total": 16
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 3,
+        "total": 3
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 3,
+        "total": 3
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 2,
+        "total": 2
+      }
+    ],
+    "personnel": {
+      "11": 609,
+      "12": 202,
+      "21": 74,
+      "22": 37,
+      "13": 31,
+      "23": 1
+    },
+    "directionCodes": {
+      "R": 213,
+      "L": 183
+    },
+    "yards": 5043
+  },
+  "NE": {
+    "team": "NE",
+    "plays": 1303,
+    "passRate": 0.5311,
+    "motionRate": 0.4748,
+    "screenRate": 0.0353,
+    "blitzFacedRate": 0.2243,
+    "blitzSentRate": 0.2477,
+    "menInBox": 6.86,
+    "releaseTime": 2.9,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 8,
+        "pass": 5,
+        "total": 13
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 12,
+        "pass": 4,
+        "total": 16
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 312,
+        "pass": 227,
+        "total": 539
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 2,
+        "pass": 10,
+        "total": 12
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 46,
+        "pass": 19,
+        "total": 65
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 63,
+        "pass": 54,
+        "total": 117
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 67,
+        "pass": 114,
+        "total": 181
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 24,
+        "pass": 51,
+        "total": 75
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 39,
+        "pass": 36,
+        "total": 75
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 7,
+        "pass": 48,
+        "total": 55
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 14,
+        "pass": 59,
+        "total": 73
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 6,
+        "pass": 47,
+        "total": 53
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 10,
+        "pass": 11,
+        "total": 21
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 5,
+        "total": 5
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 1,
+        "pass": 1,
+        "total": 2
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      }
+    ],
+    "personnel": {
+      "11": 663,
+      "12": 258,
+      "21": 213,
+      "22": 132,
+      "20": 22,
+      "10": 7,
+      "23": 4,
+      "13": 3,
+      "01": 1
+    },
+    "directionCodes": {
+      "L": 295,
+      "R": 277
+    },
+    "yards": 7811
+  },
+  "NO": {
+    "team": "NO",
+    "plays": 1075,
+    "passRate": 0.5953,
+    "motionRate": 0.6021,
+    "screenRate": 0.0326,
+    "blitzFacedRate": 0.1931,
+    "blitzSentRate": 0.1982,
+    "menInBox": 6.56,
+    "releaseTime": 2.62,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 2,
+        "pass": 2,
+        "total": 4
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 6,
+        "pass": 2,
+        "total": 8
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 223,
+        "pass": 212,
+        "total": 435
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 5,
+        "pass": 9,
+        "total": 14
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 31,
+        "pass": 16,
+        "total": 47
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 42,
+        "pass": 42,
+        "total": 84
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 48,
+        "pass": 132,
+        "total": 180
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 6,
+        "pass": 40,
+        "total": 46
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 43,
+        "pass": 27,
+        "total": 70
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 10,
+        "pass": 50,
+        "total": 60
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 5,
+        "pass": 51,
+        "total": 56
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 0,
+        "pass": 37,
+        "total": 37
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 14,
+        "pass": 9,
+        "total": 23
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 7,
+        "total": 7
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 2,
+        "total": 2
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 2,
+        "total": 2
+      }
+    ],
+    "personnel": {
+      "11": 761,
+      "12": 171,
+      "13": 56,
+      "21": 24,
+      "22": 14,
+      "03": 12,
+      "04": 11,
+      "02": 10,
+      "01": 6,
+      "10": 5,
+      "14": 2,
+      "23": 1,
+      "00": 1,
+      "20": 1
+    },
+    "directionCodes": {
+      "L": 214,
+      "R": 213
+    },
+    "yards": 5496
+  },
+  "NYG": {
+    "team": "NYG",
+    "plays": 1085,
+    "passRate": 0.529,
+    "motionRate": 0.3879,
+    "screenRate": 0.0479,
+    "blitzFacedRate": 0.1752,
+    "blitzSentRate": 0.1998,
+    "menInBox": 6.69,
+    "releaseTime": 2.8,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 9,
+        "pass": 3,
+        "total": 12
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 6,
+        "pass": 4,
+        "total": 10
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 224,
+        "pass": 202,
+        "total": 426
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 4,
+        "pass": 8,
+        "total": 12
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 46,
+        "pass": 13,
+        "total": 59
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 53,
+        "pass": 32,
+        "total": 85
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 75,
+        "pass": 91,
+        "total": 166
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 18,
+        "pass": 33,
+        "total": 51
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 35,
+        "pass": 26,
+        "total": 61
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 9,
+        "pass": 43,
+        "total": 52
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 11,
+        "pass": 54,
+        "total": 65
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 9,
+        "pass": 38,
+        "total": 47
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 9,
+        "pass": 12,
+        "total": 21
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 1,
+        "pass": 9,
+        "total": 10
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 2,
+        "pass": 5,
+        "total": 7
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      }
+    ],
+    "personnel": {
+      "11": 656,
+      "12": 354,
+      "13": 62,
+      "21": 7,
+      "02": 2,
+      "01": 2,
+      "23": 1,
+      "22": 1
+    },
+    "directionCodes": {
+      "R": 258,
+      "L": 244
+    },
+    "yards": 5862
+  },
+  "NYJ": {
+    "team": "NYJ",
+    "plays": 1010,
+    "passRate": 0.5485,
+    "motionRate": 0.5976,
+    "screenRate": 0.0505,
+    "blitzFacedRate": 0.2236,
+    "blitzSentRate": 0.1705,
+    "menInBox": 6.71,
+    "releaseTime": 2.77,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 2,
+        "pass": 3,
+        "total": 5
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 3,
+        "pass": 2,
+        "total": 5
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 205,
+        "pass": 185,
+        "total": 390
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 4,
+        "pass": 15,
+        "total": 19
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 28,
+        "pass": 12,
+        "total": 40
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 53,
+        "pass": 39,
+        "total": 92
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 59,
+        "pass": 74,
+        "total": 133
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 16,
+        "pass": 40,
+        "total": 56
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 40,
+        "pass": 18,
+        "total": 58
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 13,
+        "pass": 55,
+        "total": 68
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 8,
+        "pass": 58,
+        "total": 66
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 13,
+        "pass": 24,
+        "total": 37
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 10,
+        "pass": 10,
+        "total": 20
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 1,
+        "pass": 8,
+        "total": 9
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 1,
+        "pass": 7,
+        "total": 8
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 4,
+        "total": 4
+      }
+    ],
+    "personnel": {
+      "11": 683,
+      "12": 202,
+      "21": 91,
+      "22": 27,
+      "13": 3,
+      "30": 2,
+      "20": 1,
+      "23": 1
+    },
+    "directionCodes": {
+      "L": 228,
+      "R": 222
+    },
+    "yards": 4715
+  },
+  "PHI": {
+    "team": "PHI",
+    "plays": 1082,
+    "passRate": 0.525,
+    "motionRate": 0.4345,
+    "screenRate": 0.0287,
+    "blitzFacedRate": 0.2329,
+    "blitzSentRate": 0.1435,
+    "menInBox": 6.77,
+    "releaseTime": 2.94,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 9,
+        "pass": 2,
+        "total": 11
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 9,
+        "pass": 4,
+        "total": 13
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 238,
+        "pass": 186,
+        "total": 424
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 6,
+        "pass": 9,
+        "total": 15
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 42,
+        "pass": 27,
+        "total": 69
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 41,
+        "pass": 44,
+        "total": 85
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 63,
+        "pass": 90,
+        "total": 153
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 22,
+        "pass": 38,
+        "total": 60
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 32,
+        "pass": 20,
+        "total": 52
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 11,
+        "pass": 39,
+        "total": 50
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 9,
+        "pass": 60,
+        "total": 69
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 19,
+        "pass": 36,
+        "total": 55
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 11,
+        "pass": 4,
+        "total": 15
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 6,
+        "total": 6
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 2,
+        "pass": 2,
+        "total": 4
+      }
+    ],
+    "personnel": {
+      "11": 678,
+      "12": 298,
+      "13": 80,
+      "21": 10,
+      "00": 5,
+      "14": 3,
+      "22": 3,
+      "01": 2,
+      "02": 2,
+      "23": 1
+    },
+    "directionCodes": {
+      "R": 262,
+      "L": 236
+    },
+    "yards": 5692
+  },
+  "PIT": {
+    "team": "PIT",
+    "plays": 1044,
+    "passRate": 0.5929,
+    "motionRate": 0.4937,
+    "screenRate": 0.0833,
+    "blitzFacedRate": 0.1378,
+    "blitzSentRate": 0.2356,
+    "menInBox": 6.74,
+    "releaseTime": 2.61,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 8,
+        "pass": 2,
+        "total": 10
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 7,
+        "pass": 3,
+        "total": 10
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 212,
+        "pass": 207,
+        "total": 419
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 3,
+        "pass": 7,
+        "total": 10
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 43,
+        "pass": 15,
+        "total": 58
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 39,
+        "pass": 38,
+        "total": 77
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 44,
+        "pass": 107,
+        "total": 151
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 11,
+        "pass": 48,
+        "total": 59
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 35,
+        "pass": 30,
+        "total": 65
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 4,
+        "pass": 46,
+        "total": 50
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 7,
+        "pass": 58,
+        "total": 65
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 0,
+        "pass": 44,
+        "total": 44
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 12,
+        "pass": 6,
+        "total": 18
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 4,
+        "total": 4
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 3,
+        "total": 3
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      }
+    ],
+    "personnel": {
+      "11": 520,
+      "12": 338,
+      "13": 142,
+      "21": 24,
+      "22": 10,
+      "10": 4,
+      "04": 2,
+      "02": 2,
+      "03": 1,
+      "00": 1
+    },
+    "directionCodes": {
+      "L": 214,
+      "R": 199
+    },
+    "yards": 5572
+  },
+  "SEA": {
+    "team": "SEA",
+    "plays": 1203,
+    "passRate": 0.5029,
+    "motionRate": 0.5897,
+    "screenRate": 0.0374,
+    "blitzFacedRate": 0.2397,
+    "blitzSentRate": 0.1949,
+    "menInBox": 7.04,
+    "releaseTime": 2.82,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 8,
+        "pass": 4,
+        "total": 12
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 9,
+        "pass": 6,
+        "total": 15
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 286,
+        "pass": 225,
+        "total": 511
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 9,
+        "pass": 9,
+        "total": 18
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 45,
+        "pass": 17,
+        "total": 62
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 54,
+        "pass": 29,
+        "total": 83
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 79,
+        "pass": 99,
+        "total": 178
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 19,
+        "pass": 48,
+        "total": 67
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 42,
+        "pass": 30,
+        "total": 72
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 8,
+        "pass": 41,
+        "total": 49
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 13,
+        "pass": 56,
+        "total": 69
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 21,
+        "pass": 34,
+        "total": 55
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 5,
+        "pass": 5,
+        "total": 10
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 2,
+        "total": 2
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 0,
+        "total": 0
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 0,
+        "total": 0
+      }
+    ],
+    "personnel": {
+      "11": 504,
+      "12": 347,
+      "21": 158,
+      "22": 98,
+      "13": 50,
+      "02": 20,
+      "01": 12,
+      "31": 5,
+      "23": 4,
+      "10": 3,
+      "20": 2
+    },
+    "directionCodes": {
+      "L": 304,
+      "R": 276
+    },
+    "yards": 7142
+  },
+  "SF": {
+    "team": "SF",
+    "plays": 1200,
+    "passRate": 0.5558,
+    "motionRate": 0.6842,
+    "screenRate": 0.045,
+    "blitzFacedRate": 0.1654,
+    "blitzSentRate": 0.1877,
+    "menInBox": 6.87,
+    "releaseTime": 2.95,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 6,
+        "pass": 4,
+        "total": 10
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 13,
+        "pass": 4,
+        "total": 17
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 263,
+        "pass": 239,
+        "total": 502
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 3,
+        "pass": 14,
+        "total": 17
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 53,
+        "pass": 19,
+        "total": 72
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 46,
+        "pass": 49,
+        "total": 95
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 54,
+        "pass": 120,
+        "total": 174
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 17,
+        "pass": 35,
+        "total": 52
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 46,
+        "pass": 31,
+        "total": 77
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 7,
+        "pass": 58,
+        "total": 65
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 6,
+        "pass": 51,
+        "total": 57
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 9,
+        "pass": 28,
+        "total": 37
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 10,
+        "pass": 10,
+        "total": 20
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 4,
+        "total": 4
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 0,
+        "total": 0
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 1,
+        "total": 1
+      }
+    ],
+    "personnel": {
+      "11": 514,
+      "21": 438,
+      "12": 130,
+      "22": 104,
+      "23": 9,
+      "13": 5
+    },
+    "directionCodes": {
+      "R": 269,
+      "L": 243
+    },
+    "yards": 6826
+  },
+  "TB": {
+    "team": "TB",
+    "plays": 1068,
+    "passRate": 0.5581,
+    "motionRate": 0.5803,
+    "screenRate": 0.0749,
+    "blitzFacedRate": 0.2786,
+    "blitzSentRate": 0.3281,
+    "menInBox": 6.63,
+    "releaseTime": 2.72,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 6,
+        "pass": 4,
+        "total": 10
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 4,
+        "pass": 5,
+        "total": 9
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 240,
+        "pass": 182,
+        "total": 422
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 7,
+        "pass": 13,
+        "total": 20
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 33,
+        "pass": 20,
+        "total": 53
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 38,
+        "pass": 36,
+        "total": 74
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 52,
+        "pass": 123,
+        "total": 175
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 9,
+        "pass": 39,
+        "total": 48
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 41,
+        "pass": 26,
+        "total": 67
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 10,
+        "pass": 38,
+        "total": 48
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 16,
+        "pass": 58,
+        "total": 74
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 5,
+        "pass": 34,
+        "total": 39
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 10,
+        "pass": 8,
+        "total": 18
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 4,
+        "total": 4
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 1,
+        "pass": 3,
+        "total": 4
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 3,
+        "total": 3
+      }
+    ],
+    "personnel": {
+      "11": 745,
+      "12": 220,
+      "21": 49,
+      "13": 38,
+      "10": 13,
+      "22": 2,
+      "20": 1
+    },
+    "directionCodes": {
+      "L": 254,
+      "R": 208
+    },
+    "yards": 5645
+  },
+  "TEN": {
+    "team": "TEN",
+    "plays": 1004,
+    "passRate": 0.6235,
+    "motionRate": 0.4084,
+    "screenRate": 0.0777,
+    "blitzFacedRate": 0.2045,
+    "blitzSentRate": 0.1822,
+    "menInBox": 6.59,
+    "releaseTime": 2.93,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 2,
+        "pass": 5,
+        "total": 7
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 8,
+        "pass": 2,
+        "total": 10
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 190,
+        "pass": 184,
+        "total": 374
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 6,
+        "pass": 12,
+        "total": 18
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 20,
+        "pass": 12,
+        "total": 32
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 36,
+        "pass": 45,
+        "total": 81
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 45,
+        "pass": 121,
+        "total": 166
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 10,
+        "pass": 37,
+        "total": 47
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 32,
+        "pass": 33,
+        "total": 65
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 7,
+        "pass": 47,
+        "total": 54
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 8,
+        "pass": 62,
+        "total": 70
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 6,
+        "pass": 39,
+        "total": 45
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 7,
+        "pass": 9,
+        "total": 16
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 1,
+        "pass": 6,
+        "total": 7
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 5,
+        "total": 5
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 0,
+        "pass": 7,
+        "total": 7
+      }
+    ],
+    "personnel": {
+      "11": 726,
+      "12": 236,
+      "21": 25,
+      "13": 16,
+      "20": 1
+    },
+    "directionCodes": {
+      "R": 189,
+      "L": 184
+    },
+    "yards": 4482
+  },
+  "WAS": {
+    "team": "WAS",
+    "plays": 990,
+    "passRate": 0.5111,
+    "motionRate": 0.5061,
+    "screenRate": 0.0535,
+    "blitzFacedRate": 0.2236,
+    "blitzSentRate": 0.1665,
+    "menInBox": 6.69,
+    "releaseTime": 2.75,
+    "heatmap": [
+      {
+        "down": 1,
+        "distance": "short",
+        "run": 10,
+        "pass": 0,
+        "total": 10
+      },
+      {
+        "down": 1,
+        "distance": "medium",
+        "run": 9,
+        "pass": 1,
+        "total": 10
+      },
+      {
+        "down": 1,
+        "distance": "standard",
+        "run": 250,
+        "pass": 156,
+        "total": 406
+      },
+      {
+        "down": 1,
+        "distance": "long",
+        "run": 7,
+        "pass": 9,
+        "total": 16
+      },
+      {
+        "down": 2,
+        "distance": "short",
+        "run": 46,
+        "pass": 14,
+        "total": 60
+      },
+      {
+        "down": 2,
+        "distance": "medium",
+        "run": 46,
+        "pass": 48,
+        "total": 94
+      },
+      {
+        "down": 2,
+        "distance": "standard",
+        "run": 38,
+        "pass": 88,
+        "total": 126
+      },
+      {
+        "down": 2,
+        "distance": "long",
+        "run": 17,
+        "pass": 36,
+        "total": 53
+      },
+      {
+        "down": 3,
+        "distance": "short",
+        "run": 33,
+        "pass": 26,
+        "total": 59
+      },
+      {
+        "down": 3,
+        "distance": "medium",
+        "run": 11,
+        "pass": 32,
+        "total": 43
+      },
+      {
+        "down": 3,
+        "distance": "standard",
+        "run": 3,
+        "pass": 45,
+        "total": 48
+      },
+      {
+        "down": 3,
+        "distance": "long",
+        "run": 10,
+        "pass": 29,
+        "total": 39
+      },
+      {
+        "down": 4,
+        "distance": "short",
+        "run": 3,
+        "pass": 15,
+        "total": 18
+      },
+      {
+        "down": 4,
+        "distance": "medium",
+        "run": 0,
+        "pass": 5,
+        "total": 5
+      },
+      {
+        "down": 4,
+        "distance": "standard",
+        "run": 0,
+        "pass": 2,
+        "total": 2
+      },
+      {
+        "down": 4,
+        "distance": "long",
+        "run": 1,
+        "pass": 0,
+        "total": 1
+      }
+    ],
+    "personnel": {
+      "11": 579,
+      "12": 303,
+      "13": 53,
+      "21": 21,
+      "10": 11,
+      "01": 9,
+      "22": 5,
+      "02": 4,
+      "20": 3,
+      "03": 1
+    },
+    "directionCodes": {
+      "L": 249,
+      "R": 223
+    },
+    "yards": 5519
+  }
+}
