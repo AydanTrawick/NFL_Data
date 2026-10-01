@@ -98,7 +98,7 @@ def main():
   stages.append((title,'Win and keep moving.',d.GAME_TYPE_DESC.eq(typ)))
  for title,subtitle,mask in stages:
   g=d[mask];ids=set(g.GAME_CODE.astype(str));v=valid[valid.GAME_CODE.isin(ids)];best=v.loc[num(v,'YD_GAINED').idxmax()] if len(v) else None
-  chapters.append({'title':title,'subtitle':subtitle,'games':len(ids),'plays':len(v),'yards':int(num(v,'YD_GAINED').sum()),'points':sum(s['points'] for s in scored if s['gameId'] in ids),'best':None if best is None else {'gameId':str(best.GAME_CODE),'team':best.team,'yards':n(best.YD_GAINED),'event':best.EVENT_NAME}})
+  chapters.append({'title':title,'subtitle':subtitle,'games':len(ids),'plays':len(v),'yards':int(num(v,'YD_GAINED').sum()),'points':sum(s['points'] for s in scored if s['gameId'] in ids),'best':None if best is None else {'gameId':str(best.GAME_CODE),'team':best.team,'yards':n(best.YD_GAINED),'event':best.EVENT_NAME,'eventId':str(best.PLAY_UNIQUE_ID),'player':' '.join(str(best.get(('RUSHER' if best.EVENT_NAME=='Run' else 'RECEIVER')+'_'+part,'' )).strip() for part in ['FIRST_NAME','LAST_NAME']).strip(),'passer':' '.join(str(best.get('PASSER_'+part,'')).strip() for part in ['FIRST_NAME','LAST_NAME']).strip() if best.EVENT_NAME=='Pass Completion' else ''}})
  assert sum(c['games'] for c in chapters)==len(games),'Chapters must cover all games'
  publish_json('chapters.json',chapters)
  md=json.loads((PUBLIC/'metadata.json').read_text());md.update({'offensivePlays':len(valid),'offensiveYards':int(num(valid,'YD_GAINED').sum()),'touchdowns':sum(s['points']==6 for s in scored),'scoringEvents':len(scored)});publish_json('metadata.json',md)

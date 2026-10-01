@@ -6,6 +6,7 @@ import "@fontsource/manrope/700.css";
 import "@fontsource/dm-mono/400.css";
 import "maplibre-gl/dist/maplibre-gl.css";
 import "./globals.css";
+import VoiceAssistant from "./components/VoiceAssistant";
 
 export const metadata: Metadata = {
   title: "EVERY SNAP — 2025 NFL Season",
@@ -13,5 +14,5 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="en"><body><a className="skip-link" href="#main-content">Skip to content</a><div id="main-content">{children}</div></body></html>;
+  return <html lang="en"><body><a className="skip-link" href="#main-content">Skip to content</a><div id="main-content">{children}</div><VoiceAssistant /></body></html>;
 }

@@ -31,6 +31,10 @@ The offensive counting rule reconciles DAL 56 / PHI 62 with the NFL opening-game
 
 Copy `.env.example` to `.env.local`. The ten prepared questions work without credentials. Custom questions require `ANTHROPIC_API_KEY` and Upstash Redis REST credentials for shared rate limits. Configure these privately in Vercel environment settings; never commit secrets. Queries are restricted to a single SELECT on approved aggregate tables, bounded to 500 rows, with a timeout and external DuckDB access disabled.
 
+## Voice assistant
+
+The site-wide ASK THE DATA button supports typed questions, browser speech recognition when available, and ElevenLabs audio replies. Configure `ELEVENLABS_API_KEY` and `ELEVENLABS_VOICE_ID` privately in Vercel; `ELEVENLABS_MODEL_ID` is optional. Custom questions also require the Film Room credentials above. Microphone input requires browser support and permission. Text answers remain available when voice generation fails. Redeploy after changing environment settings.
+
 ## Verification
 
 ```sh

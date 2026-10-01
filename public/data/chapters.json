@@ -10,7 +10,10 @@
       "gameId": "2879328",
       "team": "JAX",
       "yards": 71,
-      "event": "Run"
+      "event": "Run",
+      "player": "Travis Etienne Jr.",
+      "passer": "",
+      "eventId": "2548924"
     }
   },
   {
@@ -24,7 +27,10 @@
       "gameId": "2879546",
       "team": "LAR",
       "yards": 88,
-      "event": "Pass Completion"
+      "event": "Pass Completion",
+      "player": "Tutu Atwell",
+      "passer": "Matthew Stafford",
+      "eventId": "2567019"
     }
   },
   {
@@ -38,7 +44,10 @@
       "gameId": "2879470",
       "team": "ATL",
       "yards": 93,
-      "event": "Run"
+      "event": "Run",
+      "player": "Bijan Robinson",
+      "passer": "",
+      "eventId": "2644918"
     }
   },
   {
@@ -52,7 +61,10 @@
       "gameId": "2879583",
       "team": "SF",
       "yards": 61,
-      "event": "Pass Completion"
+      "event": "Pass Completion",
+      "player": "Demarcus Robinson",
+      "passer": "Brock Purdy",
+      "eventId": "2652522"
     }
   },
   {
@@ -66,7 +78,10 @@
       "gameId": "2879588",
       "team": "BUF",
       "yards": 46,
-      "event": "Pass Completion"
+      "event": "Pass Completion",
+      "player": "Khalil Shakir",
+      "passer": "Josh Allen",
+      "eventId": "2653936"
     }
   },
   {
@@ -80,7 +95,10 @@
       "gameId": "2879594",
       "team": "DEN",
       "yards": 52,
-      "event": "Pass Completion"
+      "event": "Pass Completion",
+      "player": "Marvin Mims Jr.",
+      "passer": "Jarrett Stidham",
+      "eventId": "2655338"
     }
   },
   {
@@ -94,7 +112,10 @@
       "gameId": "2879596",
       "team": "NE",
       "yards": 35,
-      "event": "Pass Completion"
+      "event": "Pass Completion",
+      "player": "Mack Hollins",
+      "passer": "Drake Maye",
+      "eventId": "2656367"
     }
   }
 ]
