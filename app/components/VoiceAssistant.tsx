@@ -67,7 +67,7 @@ export default function VoiceAssistant() {
       const response = await fetch('/api/ask', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ question: clean }) });
       const result = await response.json();
       if (!response.ok) throw new Error(result.error || 'I could not answer that question.');
-      const answer = String(result.answer || 'I could not find an answer in the season data.');
+      const answer = String(result.answer || 'I could not find an answer in the season data.').replace(/\*/g, '').trim();
       setTurns(previous => [...previous, { role: 'assistant', text: answer }]);
       try {
         const speechResponse = await fetch('/api/voice/speak', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ text: answer }) });

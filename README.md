@@ -29,7 +29,7 @@ The offensive counting rule reconciles DAL 56 / PHI 62 with the NFL opening-game
 
 ## Film Room configuration
 
-Copy `.env.example` to `.env.local`. The ten prepared questions work without credentials. Custom questions require `ANTHROPIC_API_KEY` and Upstash Redis REST credentials for shared rate limits. Configure these privately in Vercel environment settings; never commit secrets. Queries are restricted to a single SELECT on approved aggregate tables, bounded to 500 rows, with a timeout and external DuckDB access disabled.
+Copy `.env.example` to `.env.local`. The ten prepared questions work without credentials. Custom questions require `ANTHROPIC_API_KEY`. Daily AI question limits are currently disabled; the short-term throttle remains at 20 requests per minute per IP per server instance. Configure these privately in Vercel environment settings; never commit secrets. Queries are restricted to a single SELECT on approved aggregate tables, bounded to 500 rows, with a timeout and external DuckDB access disabled.
 
 ## Voice assistant
 

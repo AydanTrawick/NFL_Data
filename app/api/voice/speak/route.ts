@@ -9,8 +9,10 @@ export async function POST(req: NextRequest) {
   const voiceId = process.env.ELEVENLABS_VOICE_ID;
   if (!key || !voiceId) return NextResponse.json({ error: 'Voice replies need ELEVENLABS_API_KEY and ELEVENLABS_VOICE_ID configured by the site owner.' }, { status: 503 });
   try {
-    const text = (await req.json()).text;
-    if (typeof text !== 'string' || text.trim().length < 1 || text.length > 2500) return NextResponse.json({ error: 'Voice reply text must be between 1 and 2,500 characters.' }, { status: 400 });
+    const rawText = (await req.json()).text;
+    if (typeof rawText !== 'string' || rawText.length > 2500) return NextResponse.json({ error: 'Voice reply text must be between 1 and 2,500 characters.' }, { status: 400 });
+    const text = rawText.replace(/\*/g, '').trim();
+    if (!text) return NextResponse.json({ error: 'Voice reply text must be between 1 and 2,500 characters.' }, { status: 400 });
     const ip = req.headers.get('x-forwarded-for')?.split(',')[0] || 'local';
     const now = Date.now();
     for (const [address, value] of requests) if (value.until < now) requests.delete(address);
