@@ -60,9 +60,10 @@ def main():
   team_stats[team]={'team':team,'plays':len(g),'passRate':round(float(g.EVENT_NAME.ne('Run').mean()),4),'motionRate':flag(g,'IS_MOTION'),'screenRate':flag(g,'SCREEN_PASS'),'blitzFacedRate':flag(g,'BLITZ'),'blitzSentRate':flag(defense,'BLITZ'),'menInBox':mean(g,'MEN_IN_BOX'),'releaseTime':mean(g,'QB_RELEASE_TIME'),'heatmap':cells,'personnel':personnel,'directionCodes':direction,'yards':int(num(g,'YD_GAINED').sum())}
  publish_json('team_stats.json',team_stats)
  # Production measures use explicit, counted event classes. No inferred defender roles.
+ rushing_touchdowns={(s['gameId'],s['id'],s['scoringTeam']) for s in scored if s['points']==6 and s['result']=='Run' and s['scoringTeam']==s['team']}
  people={}
  def person(name,team):
-  return people.setdefault(name+'|'+team,{'name':name,'team':team,'attempts':0,'completions':0,'passingYards':0,'sacks':0,'carries':0,'receptions':0,'touches':0,'yards':0,'yac':0,'brokenTackles':0,'touchdowns':0,'qbHits':0,'releaseTimes':[],'roles':set()})
+  return people.setdefault(name+'|'+team,{'name':name,'team':team,'attempts':0,'completions':0,'passingYards':0,'sacks':0,'carries':0,'rushingYards':0,'rushingTouchdowns':0,'longestRun':None,'explosiveRuns':0,'receptions':0,'touches':0,'yards':0,'yac':0,'brokenTackles':0,'touchdowns':0,'qbHits':0,'releaseTimes':[],'roles':set()})
  for r in valid.to_dict('records'):
   ev=r['EVENT_NAME'];team=r['team'];yards=n(r['YD_GAINED']) or 0
   for role in ['PASSER','RUSHER','RECEIVER']:
@@ -77,6 +78,9 @@ def main():
      if r['QB_RELEASE_TIME']!='':p['releaseTimes'].append(float(r['QB_RELEASE_TIME']))
     except (ValueError,TypeError):pass
    touch=(role=='RUSHER' and ev=='Run')or(role=='RECEIVER' and ev=='Pass Completion')
+   if role=='RUSHER' and ev=='Run':
+    p['rushingYards']+=yards;p['longestRun']=yards if p['longestRun'] is None else max(p['longestRun'],yards);p['explosiveRuns']+=int(yards>=20)
+    p['rushingTouchdowns']+=int((str(r['GAME_CODE']),str(r['PLAY_UNIQUE_ID']),team) in rushing_touchdowns)
    if touch:
     p['carries' if role=='RUSHER' else 'receptions']+=1;p['touches']+=1;p['yards']+=yards;p['yac']+=(n(r['YD_AFTER_CATCH']) or 0) if role=='RECEIVER' else 0;p['brokenTackles']+=n(r['BROKEN_TACKLES']) or 0
   for role in ['QB_HITTER','QB_HITTER2']:
@@ -86,6 +90,7 @@ def main():
   if s['points']==6 and s['scoringPlayer']:person(s['scoringPlayer'],s['scoringTeam'])['touchdowns']+=1
  old=json.loads((PUBLIC/'players_enriched.json').read_text());enrich={p['name']+'|'+p['team']:p for p in old};players=[]
  for key,p in people.items():
+  p['yardsPerCarry']=round(p['rushingYards']/p['carries'],2) if p['carries'] else 0;p['longestRun']=p['longestRun'] if p['longestRun'] is not None else 0
   r=enrich.get(key,{});p.update({k:r.get(k,'') for k in ['headshotUrl','position']});p['roles']=sorted(p['roles']);rt=p.pop('releaseTimes');p['releaseTime']=round(sum(rt)/len(rt),2) if rt else None;p['completionRate']=round(p['completions']/p['attempts'],4) if p['attempts'] else None;p['production']=p['yards']+p['passingYards']/4+p['touchdowns']*20+p['qbHits']*10;players.append(p)
  players.sort(key=lambda p:p['production'],reverse=True)
  for i,p in enumerate(players):p['tier']='LEGEND' if i<len(players)*.05 else 'ELITE' if i<len(players)*.2 else 'ROSTER'
